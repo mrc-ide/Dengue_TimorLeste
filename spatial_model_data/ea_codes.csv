@@ -1,0 +1,2351 @@
+Number,district_n,subdistr,statistics,suco_name,stat_sucoc,ea_codes
+1,Bobonaro,Atabae,401,Aidabaleten,40101,40101102
+2,Bobonaro,Balibo,402,Leolima,40205,40205072
+3,Bobonaro,Bobonaro,403,Cota Bo'ot,40306,40306022
+4,Bobonaro,Cailaco,404,Meligo,40406,40406042
+5,Bobonaro,Lolotoe,405,Lebos,40504,40504042
+6,Bobonaro,Maliana,406,Ritabou,40605,40605122
+7,Bobonaro,Lolotoe,405,Opa,40507,40507022
+8,Bobonaro,Lolotoe,405,Guda,40503,40503032
+9,Bobonaro,Lolotoe,405,Deudet,40501,40501032
+10,Bobonaro,Lolotoe,405,Gildapil,40502,40502022
+11,Bobonaro,Lolotoe,405,Lontas,40505,40505032
+12,Bobonaro,Maliana,406,Saburai,40606,40606082
+13,Bobonaro,Maliana,406,Tapo/Memo,40607,40607032
+14,Bobonaro,Maliana,406,Lahomea,40602,40602012
+15,Bobonaro,Maliana,406,Holsa,40601,40601072
+16,Bobonaro,Maliana,406,Odomau,40603,40603042
+17,Bobonaro,Bobonaro,403,Molop,40313,40313042
+18,Bobonaro,Bobonaro,403,Leber,40308,40308032
+19,Bobonaro,Bobonaro,403,Sibuni,40315,40315042
+20,Bobonaro,Bobonaro,403,Lour,40309,40309042
+21,Bobonaro,Bobonaro,403,Ai-Assa,40301,40301032
+22,Bobonaro,Bobonaro,403,Tapo,40317,40317012
+23,Bobonaro,Bobonaro,403,Oeleo,40314,40314022
+24,Bobonaro,Bobonaro,403,Bobonaro,40303,40303052
+25,Bobonaro,Bobonaro,403,Carabau,40304,40304032
+26,Bobonaro,Bobonaro,403,Malilait,40312,40312042
+27,Bobonaro,Bobonaro,403,Lourba,40310,40310022
+28,Bobonaro,Bobonaro,403,Atu-Aben,40302,40302012
+29,Bobonaro,Bobonaro,403,Ilat-Laun,40307,40307022
+30,Bobonaro,Bobonaro,403,Soileco,40316,40316022
+31,Bobonaro,Bobonaro,403,Tebabui,40318,40318012
+32,Bobonaro,Bobonaro,403,Maliubu,40311,40311032
+33,Bobonaro,Bobonaro,403,Colimau,40305,40305032
+34,Bobonaro,Balibo,402,Cowa,40203,40203032
+35,Bobonaro,Balibo,402,Leohito,40204,40204052
+36,Bobonaro,Balibo,402,Balibo Vila,40201,40201042
+37,Bobonaro,Balibo,402,Batugade,40202,40202032
+38,Bobonaro,Atabae,401,Atabae,40102,40102032
+39,Bobonaro,Atabae,401,Rairobo,40104,40104052
+40,Bobonaro,Atabae,401,Hataz,40103,40103022
+41,Bobonaro,Cailaco,404,Purugua,40407,40407052
+42,Bobonaro,Cailaco,404,Dau Udo,40402,40402012
+43,Bobonaro,Cailaco,404,Guenu Lai,40404,40404012
+44,Bobonaro,Cailaco,404,Goulolo,40403,40403032
+45,Bobonaro,Cailaco,404,Raiheu,40408,40408032
+46,Bobonaro,Cailaco,404,Manapa,40405,40405022
+47,Bobonaro,Balibo,402,Batugade,40202,40202012
+48,Bobonaro,Balibo,402,Batugade,40202,40202022
+49,Bobonaro,Balibo,402,Batugade,40202,40202052
+50,Bobonaro,Balibo,402,Batugade,40202,40202042
+51,Bobonaro,Balibo,402,Cowa,40203,40203012
+52,Bobonaro,Balibo,402,Cowa,40203,40203022
+53,Bobonaro,Balibo,402,Cowa,40203,40203052
+54,Bobonaro,Balibo,402,Cowa,40203,40203042
+55,Bobonaro,Balibo,402,Leohito,40204,40204012
+56,Bobonaro,Balibo,402,Leohito,40204,40204022
+57,Bobonaro,Balibo,402,Leohito,40204,40204032
+58,Bobonaro,Balibo,402,Leohito,40204,40204042
+59,Bobonaro,Balibo,402,Leohito,40204,40204062
+60,Bobonaro,Balibo,402,Leolima,40205,40205022
+61,Bobonaro,Balibo,402,Leolima,40205,40205032
+62,Bobonaro,Balibo,402,Leolima,40205,40205042
+63,Bobonaro,Balibo,402,Leolima,40205,40205052
+64,Bobonaro,Balibo,402,Leolima,40205,40205062
+65,Bobonaro,Balibo,402,Leolima,40205,40205082
+66,Bobonaro,Balibo,402,Balibo Vila,40201,40201012
+67,Bobonaro,Balibo,402,Balibo Vila,40201,40201022
+68,Bobonaro,Balibo,402,Balibo Vila,40201,40201032
+69,Bobonaro,Balibo,402,Balibo Vila,40201,40201082
+70,Bobonaro,Balibo,402,Balibo Vila,40201,40201052
+71,Bobonaro,Balibo,402,Balibo Vila,40201,40201062
+72,Bobonaro,Balibo,402,Balibo Vila,40201,40201072
+73,Bobonaro,Balibo,402,Balibo Vila,40201,40201092
+74,Bobonaro,Balibo,402,Sanirin,40206,40206012
+75,Bobonaro,Balibo,402,Sanirin,40206,40206022
+76,Bobonaro,Atabae,401,Aidabaleten,40101,40101012
+77,Bobonaro,Atabae,401,Aidabaleten,40101,40101022
+78,Bobonaro,Atabae,401,Aidabaleten,40101,40101092
+79,Bobonaro,Atabae,401,Aidabaleten,40101,40101032
+80,Bobonaro,Atabae,401,Aidabaleten,40101,40101042
+81,Bobonaro,Atabae,401,Aidabaleten,40101,40101052
+82,Bobonaro,Atabae,401,Aidabaleten,40101,40101062
+83,Bobonaro,Atabae,401,Aidabaleten,40101,40101112
+84,Bobonaro,Atabae,401,Aidabaleten,40101,40101082
+85,Bobonaro,Atabae,401,Atabae,40102,40102012
+86,Bobonaro,Atabae,401,Atabae,40102,40102022
+87,Bobonaro,Atabae,401,Atabae,40102,40102042
+88,Bobonaro,Atabae,401,Hataz,40103,40103012
+89,Bobonaro,Atabae,401,Hataz,40103,40103032
+90,Bobonaro,Atabae,401,Rairobo,40104,40104012
+91,Bobonaro,Atabae,401,Rairobo,40104,40104062
+92,Bobonaro,Atabae,401,Rairobo,40104,40104022
+93,Bobonaro,Atabae,401,Rairobo,40104,40104032
+94,Bobonaro,Atabae,401,Rairobo,40104,40104042
+95,Bobonaro,Cailaco,404,Purugua,40407,40407012
+96,Bobonaro,Cailaco,404,Purugua,40407,40407022
+97,Bobonaro,Cailaco,404,Purugua,40407,40407032
+98,Bobonaro,Cailaco,404,Purugua,40407,40407042
+99,Bobonaro,Cailaco,404,Atudara,40401,40401012
+100,Bobonaro,Cailaco,404,Atudara,40401,40401022
+101,Bobonaro,Cailaco,404,Meligo,40406,40406012
+102,Bobonaro,Cailaco,404,Meligo,40406,40406022
+103,Bobonaro,Cailaco,404,Meligo,40406,40406032
+104,Bobonaro,Cailaco,404,Meligo,40406,40406052
+105,Bobonaro,Cailaco,404,Manapa,40405,40405012
+106,Bobonaro,Cailaco,404,Manapa,40405,40405032
+107,Bobonaro,Cailaco,404,Dau Udo,40402,40402022
+108,Bobonaro,Cailaco,404,Guenu Lai,40404,40404022
+109,Bobonaro,Cailaco,404,Raiheu,40408,40408022
+110,Bobonaro,Cailaco,404,Goulolo,40403,40403012
+111,Bobonaro,Cailaco,404,Goulolo,40403,40403022
+112,Bobonaro,Bobonaro,403,Cota Bo'ot,40306,40306012
+113,Bobonaro,Bobonaro,403,Carabau,40304,40304012
+114,Bobonaro,Bobonaro,403,Carabau,40304,40304022
+115,Bobonaro,Bobonaro,403,Carabau,40304,40304042
+116,Bobonaro,Bobonaro,403,Carabau,40304,40304052
+117,Bobonaro,Bobonaro,403,Molop,40313,40313012
+118,Bobonaro,Bobonaro,403,Molop,40313,40313022
+119,Bobonaro,Bobonaro,403,Molop,40313,40313032
+120,Bobonaro,Bobonaro,403,Leber,40308,40308012
+121,Bobonaro,Bobonaro,403,Leber,40308,40308052
+122,Bobonaro,Bobonaro,403,Sibuni,40315,40315012
+123,Bobonaro,Bobonaro,403,Sibuni,40315,40315022
+124,Bobonaro,Bobonaro,403,Sibuni,40315,40315032
+125,Bobonaro,Bobonaro,403,Lour,40309,40309012
+126,Bobonaro,Bobonaro,403,Lour,40309,40309022
+127,Bobonaro,Bobonaro,403,Lour,40309,40309032
+128,Bobonaro,Bobonaro,403,Ai-Assa,40301,40301012
+129,Bobonaro,Bobonaro,403,Ai-Assa,40301,40301022
+130,Bobonaro,Bobonaro,403,Ai-Assa,40301,40301052
+131,Bobonaro,Bobonaro,403,Tapo,40317,40317022
+132,Bobonaro,Bobonaro,403,Oeleo,40314,40314012
+133,Bobonaro,Bobonaro,403,Bobonaro,40303,40303012
+134,Bobonaro,Bobonaro,403,Bobonaro,40303,40303042
+135,Bobonaro,Bobonaro,403,Bobonaro,40303,40303032
+136,Bobonaro,Bobonaro,403,Malilait,40312,40312012
+137,Bobonaro,Bobonaro,403,Malilait,40312,40312032
+138,Bobonaro,Bobonaro,403,Lourba,40310,40310012
+139,Bobonaro,Bobonaro,403,Lourba,40310,40310032
+140,Bobonaro,Bobonaro,403,Atu-Aben,40302,40302022
+141,Bobonaro,Bobonaro,403,Ilat-Laun,40307,40307012
+142,Bobonaro,Bobonaro,403,Soileco,40316,40316012
+143,Bobonaro,Bobonaro,403,Tebabui,40318,40318022
+144,Bobonaro,Bobonaro,403,Maliubu,40311,40311012
+145,Bobonaro,Bobonaro,403,Maliubu,40311,40311022
+146,Bobonaro,Bobonaro,403,Colimau,40305,40305012
+147,Bobonaro,Bobonaro,403,Colimau,40305,40305022
+148,Bobonaro,Bobonaro,403,Soileco,40316,40316032
+149,Bobonaro,Bobonaro,403,Atu-Aben,40302,40302032
+150,Bobonaro,Bobonaro,403,Bobonaro,40303,40303022
+151,Bobonaro,Bobonaro,403,Ai-Assa,40301,40301042
+152,Bobonaro,Bobonaro,403,Oeleo,40314,40314032
+153,Bobonaro,Bobonaro,403,Malilait,40312,40312022
+154,Bobonaro,Bobonaro,403,Tebabui,40318,40318032
+155,Bobonaro,Bobonaro,403,Leber,40308,40308042
+156,Bobonaro,Bobonaro,403,Leber,40308,40308022
+157,Bobonaro,Bobonaro,403,Molop,40313,40313052
+158,Bobonaro,Maliana,406,Holsa,40601,40601012
+159,Bobonaro,Maliana,406,Holsa,40601,40601022
+160,Bobonaro,Maliana,406,Holsa,40601,40601032
+161,Bobonaro,Maliana,406,Holsa,40601,40601041
+162,Bobonaro,Maliana,406,Holsa,40601,40601052
+163,Bobonaro,Maliana,406,Holsa,40601,40601061
+164,Bobonaro,Maliana,406,Holsa,40601,40601101
+165,Bobonaro,Maliana,406,Holsa,40601,40601081
+166,Bobonaro,Maliana,406,Holsa,40601,40601091
+167,Bobonaro,Maliana,406,Lahomea,40602,40602061
+168,Bobonaro,Maliana,406,Lahomea,40602,40602022
+169,Bobonaro,Maliana,406,Lahomea,40602,40602032
+170,Bobonaro,Maliana,406,Lahomea,40602,40602041
+171,Bobonaro,Maliana,406,Lahomea,40602,40602051
+172,Bobonaro,Maliana,406,Lahomea,40602,40602071
+173,Bobonaro,Maliana,406,Odomau,40603,40603081
+174,Bobonaro,Maliana,406,Odomau,40603,40603011
+175,Bobonaro,Maliana,406,Odomau,40603,40603021
+176,Bobonaro,Maliana,406,Odomau,40603,40603031
+177,Bobonaro,Maliana,406,Odomau,40603,40603051
+178,Bobonaro,Maliana,406,Odomau,40603,40603061
+179,Bobonaro,Maliana,406,Odomau,40603,40603071
+180,Bobonaro,Maliana,406,Raifun,40604,40604012
+181,Bobonaro,Maliana,406,Raifun,40604,40604022
+182,Bobonaro,Maliana,406,Ritabou,40605,40605012
+183,Bobonaro,Maliana,406,Ritabou,40605,40605022
+184,Bobonaro,Maliana,406,Ritabou,40605,40605032
+185,Bobonaro,Maliana,406,Ritabou,40605,40605042
+186,Bobonaro,Maliana,406,Ritabou,40605,40605051
+187,Bobonaro,Maliana,406,Ritabou,40605,40605061
+188,Bobonaro,Maliana,406,Ritabou,40605,40605071
+189,Bobonaro,Maliana,406,Ritabou,40605,40605082
+190,Bobonaro,Maliana,406,Ritabou,40605,40605092
+191,Bobonaro,Maliana,406,Ritabou,40605,40605102
+192,Bobonaro,Maliana,406,Ritabou,40605,40605112
+193,Bobonaro,Maliana,406,Ritabou,40605,40605132
+194,Bobonaro,Maliana,406,Saburai,40606,40606012
+195,Bobonaro,Maliana,406,Saburai,40606,40606022
+196,Bobonaro,Maliana,406,Saburai,40606,40606032
+197,Bobonaro,Maliana,406,Saburai,40606,40606042
+198,Bobonaro,Maliana,406,Saburai,40606,40606052
+199,Bobonaro,Maliana,406,Saburai,40606,40606062
+200,Bobonaro,Maliana,406,Saburai,40606,40606072
+201,Bobonaro,Maliana,406,Tapo/Memo,40607,40607012
+202,Bobonaro,Maliana,406,Tapo/Memo,40607,40607022
+203,Bobonaro,Maliana,406,Tapo/Memo,40607,40607042
+204,Bobonaro,Maliana,406,Tapo/Memo,40607,40607082
+205,Bobonaro,Maliana,406,Tapo/Memo,40607,40607052
+206,Bobonaro,Maliana,406,Tapo/Memo,40607,40607062
+207,Bobonaro,Maliana,406,Tapo/Memo,40607,40607072
+208,Bobonaro,Lolotoe,405,Deudet,40501,40501022
+209,Bobonaro,Lolotoe,405,Deudet,40501,40501052
+210,Bobonaro,Lolotoe,405,Deudet,40501,40501042
+211,Bobonaro,Lolotoe,405,Opa,40507,40507012
+212,Bobonaro,Lolotoe,405,Opa,40507,40507042
+213,Bobonaro,Lolotoe,405,Opa,40507,40507032
+214,Bobonaro,Lolotoe,405,Opa,40507,40507062
+215,Bobonaro,Lolotoe,405,Opa,40507,40507052
+216,Bobonaro,Lolotoe,405,Lupal,40506,40506012
+217,Bobonaro,Lolotoe,405,Lupal,40506,40506022
+218,Bobonaro,Lolotoe,405,Lupal,40506,40506032
+219,Bobonaro,Lolotoe,405,Guda,40503,40503012
+220,Bobonaro,Lolotoe,405,Guda,40503,40503022
+221,Bobonaro,Lolotoe,405,Guda,40503,40503042
+222,Bobonaro,Lolotoe,405,Gildapil,40502,40502012
+223,Bobonaro,Lolotoe,405,Gildapil,40502,40502032
+224,Bobonaro,Lolotoe,405,Lebos,40504,40504012
+225,Bobonaro,Lolotoe,405,Lebos,40504,40504022
+226,Bobonaro,Lolotoe,405,Lebos,40504,40504032
+227,Bobonaro,Lolotoe,405,Lontas,40505,40505012
+228,Bobonaro,Lolotoe,405,Lontas,40505,40505022
+229,Bobonaro,Atabae,401,Aidabaleten,40101,40101072
+230,Manatuto,Barique,1001,Uma Boco,100105,100105032
+231,Manatuto,Laclo,1002,Uma Naruc,100204,100204032
+232,Manatuto,Laclubar,1003,Batara,100301,100301052
+233,Manatuto,Manatuto,1005,Cribas,100503,100503042
+234,Manatuto,Soibada,1006,Fatumaquerec,100601,100601022
+235,Manatuto,Laclo,1002,Uma Caduak,100203,100203072
+236,Manatuto,Laclo,1002,Lacumesac,100202,100202022
+237,Manatuto,Laclo,1002,Hohorai,100201,100201022
+238,Manatuto,Laleia,1004,Haturalan,100402,100402032
+239,Manatuto,Laleia,1004,Lifau,100403,100403022
+240,Manatuto,Manatuto,1005,Sau,100506,100506062
+241,Manatuto,Manatuto,1005,Iliheu,100504,100504022
+242,Manatuto,Manatuto,1005,Ailili,100501,100501032
+243,Manatuto,Manatuto,1005,Ma'Abat,100505,100505022
+244,Manatuto,Manatuto,1005,Aiteas,100502,100502062
+245,Manatuto,Soibada,1006,Leo-Hat,100602,100602022
+246,Manatuto,Soibada,1006,Samoro,100605,100605012
+247,Manatuto,Soibada,1006,Manlala,100603,100603012
+248,Manatuto,Soibada,1006,Maun-Fahe,100604,100604012
+249,Manatuto,Laclubar,1003,Fatumaquerec,100302,100302022
+250,Manatuto,Laclubar,1003,Manelima,100304,100304052
+251,Manatuto,Laclubar,1003,Orlalan,100305,100305062
+252,Manatuto,Laclubar,1003,Sananain,100306,100306022
+253,Manatuto,Barique,1001,Barique,100103,100103012
+254,Manatuto,Barique,1001,Manehat,100104,100104022
+255,Manatuto,Barique,1001,Aubeon,100102,100102042
+256,Manatuto,Barique,1001,Fatuwaque,100101,100101032
+257,Manatuto,Laleia,1004,Cairui,100401,100401052
+258,Manatuto,Laclubar,1003,Funar,100303,100303032
+259,Manatuto,Barique,1001,Fatuwaque,100101,100101012
+260,Manatuto,Barique,1001,Fatuwaque,100101,100101022
+261,Manatuto,Barique,1001,Aubeon,100102,100102012
+262,Manatuto,Barique,1001,Aubeon,100102,100102022
+263,Manatuto,Barique,1001,Aubeon,100102,100102032
+264,Manatuto,Barique,1001,Barique,100103,100103022
+265,Manatuto,Barique,1001,Manehat,100104,100104012
+266,Manatuto,Barique,1001,Uma Boco,100105,100105012
+267,Manatuto,Barique,1001,Uma Boco,100105,100105022
+268,Manatuto,Manatuto,1005,Iliheu,100504,100504032
+269,Manatuto,Laclo,1002,Hohorai,100201,100201032
+270,Manatuto,Laclo,1002,Hohorai,100201,100201012
+271,Manatuto,Laclo,1002,Lacumesac,100202,100202032
+272,Manatuto,Laclo,1002,Lacumesac,100202,100202042
+273,Manatuto,Laclo,1002,Lacumesac,100202,100202012
+274,Manatuto,Laclo,1002,Uma Caduak,100203,100203032
+275,Manatuto,Laclo,1002,Uma Caduak,100203,100203042
+276,Manatuto,Laclo,1002,Uma Caduak,100203,100203022
+277,Manatuto,Laclo,1002,Uma Caduak,100203,100203012
+278,Manatuto,Laclo,1002,Uma Caduak,100203,100203062
+279,Manatuto,Laclo,1002,Uma Caduak,100203,100203052
+280,Manatuto,Laclo,1002,Uma Naruc,100204,100204012
+281,Manatuto,Laclo,1002,Uma Naruc,100204,100204022
+282,Manatuto,Laclubar,1003,Batara,100301,100301042
+283,Manatuto,Laclubar,1003,Sananain,100306,100306012
+284,Manatuto,Laleia,1004,Cairui,100401,100401012
+285,Manatuto,Laleia,1004,Cairui,100401,100401022
+286,Manatuto,Laleia,1004,Cairui,100401,100401032
+287,Manatuto,Laleia,1004,Cairui,100401,100401042
+288,Manatuto,Laleia,1004,Haturalan,100402,100402012
+289,Manatuto,Laleia,1004,Haturalan,100402,100402022
+290,Manatuto,Laleia,1004,Lifau,100403,100403012
+291,Manatuto,Manatuto,1005,Aiteas,100502,100502072
+292,Manatuto,Manatuto,1005,Ailili,100501,100501011
+293,Manatuto,Manatuto,1005,Aiteas,100502,100502011
+294,Manatuto,Manatuto,1005,Aiteas,100502,100502021
+295,Manatuto,Manatuto,1005,Aiteas,100502,100502031
+296,Manatuto,Manatuto,1005,Aiteas,100502,100502041
+297,Manatuto,Manatuto,1005,Aiteas,100502,100502052
+298,Manatuto,Manatuto,1005,Cribas,100503,100503012
+299,Manatuto,Laclubar,1003,Batara,100301,100301012
+300,Manatuto,Laclubar,1003,Batara,100301,100301022
+301,Manatuto,Laclubar,1003,Batara,100301,100301032
+302,Manatuto,Laclubar,1003,Fatumaquerec,100302,100302012
+303,Manatuto,Laclubar,1003,Funar,100303,100303022
+304,Manatuto,Laclubar,1003,Funar,100303,100303012
+305,Manatuto,Laclubar,1003,Manelima,100304,100304012
+306,Manatuto,Laclubar,1003,Manelima,100304,100304022
+307,Manatuto,Laclubar,1003,Manelima,100304,100304032
+308,Manatuto,Laclubar,1003,Manelima,100304,100304042
+309,Manatuto,Laclubar,1003,Orlalan,100305,100305072
+310,Manatuto,Laclubar,1003,Orlalan,100305,100305052
+311,Manatuto,Laclubar,1003,Orlalan,100305,100305042
+312,Manatuto,Laclubar,1003,Orlalan,100305,100305032
+313,Manatuto,Laclubar,1003,Orlalan,100305,100305012
+314,Manatuto,Laclubar,1003,Orlalan,100305,100305022
+315,Oecusse,Pante Macassar,1203,Costa,120302,120302262
+316,Oecusse,Pante Macassar,1203,Costa,120302,120302232
+317,Oecusse,Pante Macassar,1203,Costa,120302,120302041
+318,Oecusse,Pante Macassar,1203,Costa,120302,120302051
+319,Oecusse,Pante Macassar,1203,Costa,120302,120302061
+320,Oecusse,Pante Macassar,1203,Costa,120302,120302071
+321,Oecusse,Pante Macassar,1203,Costa,120302,120302091
+322,Oecusse,Pante Macassar,1203,Costa,120302,120302101
+323,Oecusse,Pante Macassar,1203,Costa,120302,120302121
+324,Oecusse,Pante Macassar,1203,Costa,120302,120302111
+325,Oecusse,Pante Macassar,1203,Costa,120302,120302021
+326,Oecusse,Pante Macassar,1203,Costa,120302,120302131
+327,Oecusse,Pante Macassar,1203,Costa,120302,120302191
+328,Oecusse,Pante Macassar,1203,Costa,120302,120302171
+329,Oecusse,Pante Macassar,1203,Costa,120302,120302141
+330,Oecusse,Pante Macassar,1203,Costa,120302,120302151
+331,Oecusse,Pante Macassar,1203,Costa,120302,120302181
+332,Dili,Atauro,601,Biqueli,60102,60102022
+333,Dili,Nain Feto,605,Acadiru Hun,60501,60501031
+334,Dili,Cristo Rei,602,Culu Hun,60205,60205061
+335,Dili,Nain Feto,605,Gricenfor,60504,60504011
+336,Dili,Atauro,601,Vila Maumeta,60105,60105012
+337,Dili,Atauro,601,Maquili,60104,60104012
+338,Dili,Cristo Rei,602,Hera,60206,60206132
+339,Dili,Vera Cruz,606,Motael,60606,60606011
+340,Dili,Nain Feto,605,Bemori,60502,60502011
+341,Dili,Cristo Rei,602,Balibar,60201,60201032
+342,Dili,Metinaro,604,Duyung,60401,60401032
+343,Dili,Atauro,601,Beloi,60101,60101052
+344,Dili,Atauro,601,Beloi,60101,60101032
+345,Dili,Atauro,601,Beloi,60101,60101042
+346,Dili,Atauro,601,Beloi,60101,60101012
+347,Dili,Atauro,601,Biqueli,60102,60102012
+348,Dili,Atauro,601,Biqueli,60102,60102032
+349,Dili,Atauro,601,Biqueli,60102,60102042
+350,Dili,Dom Aleixo,603,Fatuhada,60303,60303031
+351,Dili,Dom Aleixo,603,Fatuhada,60303,60303051
+352,Dili,Dom Aleixo,603,Fatuhada,60303,60303061
+353,Dili,Dom Aleixo,603,Fatuhada,60303,60303071
+354,Dili,Dom Aleixo,603,Fatuhada,60303,60303091
+355,Dili,Dom Aleixo,603,Fatuhada,60303,60303101
+356,Dili,Dom Aleixo,603,Fatuhada,60303,60303111
+357,Dili,Dom Aleixo,603,Fatuhada,60303,60303121
+358,Dili,Dom Aleixo,603,Kampung Alor,60304,60304021
+359,Dili,Dom Aleixo,603,Kampung Alor,60304,60304011
+360,Dili,Dom Aleixo,603,Kampung Alor,60304,60304031
+361,Dili,Metinaro,604,Duyung,60401,60401052
+362,Dili,Metinaro,604,Duyung,60401,60401012
+363,Dili,Metinaro,604,Duyung,60401,60401042
+364,Dili,Metinaro,604,Duyung,60401,60401022
+365,Dili,Metinaro,604,Sabuli,60402,60402022
+366,Dili,Metinaro,604,Sabuli,60402,60402012
+367,Ermera,Hatulia,703,Ailelo,70302,70302012
+368,Ermera,Hatulia,703,Ailelo,70302,70302022
+369,Ermera,Hatulia,703,Ailelo,70302,70302042
+370,Ermera,Hatulia,703,Ailelo,70302,70302052
+371,Ermera,Hatulia,703,Ailelo,70302,70302062
+372,Ermera,Hatulia,703,Ailelo,70302,70302072
+373,Ermera,Hatulia,703,Coliate-Leotelo,70303,70303012
+374,Ermera,Hatulia,703,Coliate-Leotelo,70303,70303022
+375,Ermera,Hatulia,703,Coliate-Leotelo,70303,70303032
+376,Ermera,Hatulia,703,Coliate-Leotelo,70303,70303042
+377,Ermera,Hatulia,703,Coliate-Leotelo,70303,70303052
+378,Ermera,Hatulia,703,Coliate-Leotelo,70303,70303062
+379,Ermera,Hatulia,703,Coliate-Leotelo,70303,70303072
+380,Ermera,Hatulia,703,Fatubessi,70304,70304012
+381,Ermera,Hatulia,703,Fatubessi,70304,70304022
+382,Ermera,Hatulia,703,Fatubessi,70304,70304032
+383,Ermera,Hatulia,703,Fatubessi,70304,70304042
+384,Ermera,Letefoho,704,Ducurai,70402,70402142
+385,Ermera,Letefoho,704,Ducurai,70402,70402072
+386,Ermera,Letefoho,704,Ducurai,70402,70402082
+387,Ermera,Letefoho,704,Ducurai,70402,70402052
+388,Ermera,Letefoho,704,Ducurai,70402,70402012
+389,Ermera,Letefoho,704,Ducurai,70402,70402062
+390,Ermera,Letefoho,704,Ducurai,70402,70402042
+391,Ermera,Letefoho,704,Ducurai,70402,70402032
+392,Ermera,Letefoho,704,Ducurai,70402,70402092
+393,Ermera,Letefoho,704,Ducurai,70402,70402102
+394,Ermera,Letefoho,704,Ducurai,70402,70402112
+395,Ermera,Letefoho,704,Ducurai,70402,70402122
+396,Ermera,Letefoho,704,Ducurai,70402,70402132
+397,Ermera,Letefoho,704,Eraulo,70403,70403012
+398,Ermera,Letefoho,704,Eraulo,70403,70403022
+399,Ermera,Letefoho,704,Eraulo,70403,70403032
+400,Ermera,Letefoho,704,Eraulo,70403,70403052
+401,Ermera,Letefoho,704,Eraulo,70403,70403062
+402,Lautém,Lospalos,803,Lore 2,80307,80307032
+403,Lautém,Lospalos,803,Fuiloro,80303,80303172
+404,Lautém,Lospalos,803,Fuiloro,80303,80303181
+405,Lautém,Lospalos,803,Fuiloro,80303,80303192
+406,Lautém,Lospalos,803,Fuiloro,80303,80303201
+407,Lautém,Lospalos,803,Fuiloro,80303,80303211
+408,Lautém,Lospalos,803,Fuiloro,80303,80303221
+409,Lautém,Lospalos,803,Fuiloro,80303,80303231
+410,Lautém,Lospalos,803,Fuiloro,80303,80303241
+411,Lautém,Lospalos,803,Fuiloro,80303,80303252
+412,Lautém,Lospalos,803,Fuiloro,80303,80303261
+413,Lautém,Lospalos,803,Fuiloro,80303,80303271
+414,Lautém,Lospalos,803,Fuiloro,80303,80303281
+415,Lautém,Luro,804,Afabubu,80401,80401022
+416,Lautém,Luro,804,Cotamutu,80403,80403012
+417,Lautém,Luro,804,Cotamutu,80403,80403022
+418,Lautém,Luro,804,Cotamutu,80403,80403032
+419,Lautém,Luro,804,Cotamutu,80403,80403042
+420,Manatuto,Manatuto,1005,Cribas,100503,100503022
+421,Manatuto,Manatuto,1005,Cribas,100503,100503032
+422,Manatuto,Manatuto,1005,Cribas,100503,100503052
+423,Manatuto,Manatuto,1005,Iliheu,100504,100504012
+424,Manatuto,Manatuto,1005,Ma'Abat,100505,100505012
+425,Manatuto,Manatuto,1005,Sau,100506,100506012
+426,Manatuto,Manatuto,1005,Sau,100506,100506022
+427,Manatuto,Manatuto,1005,Sau,100506,100506032
+428,Manatuto,Manatuto,1005,Sau,100506,100506042
+429,Manatuto,Manatuto,1005,Sau,100506,100506052
+430,Manatuto,Soibada,1006,Fatumaquerec,100601,100601012
+431,Manatuto,Soibada,1006,Leo-Hat,100602,100602012
+432,Manufahi,Alas,1101,Dotik,110102,110102042
+433,Manufahi,Fatuberlio,1102,Clacuc,110203,110203052
+434,Manufahi,Same,1103,Tutuluro,110308,110308032
+435,Manufahi,Turiscai,1104,Mindelo,110410,110410012
+436,Manufahi,Turiscai,1104,Lessuata,110406,110406012
+437,Manufahi,Turiscai,1104,Liurai,110407,110407022
+438,Manufahi,Turiscai,1104,Caimauc,110403,110403012
+439,Manufahi,Turiscai,1104,Matorec,110409,110409022
+440,Manufahi,Turiscai,1104,Foholau,110405,110405022
+441,Manufahi,Turiscai,1104,Orana,110411,110411022
+442,Manufahi,Turiscai,1104,Manumera,110408,110408032
+443,Manufahi,Turiscai,1104,Beremana,110402,110402032
+444,Manufahi,Turiscai,1104,Aitemua,110401,110401032
+445,Manufahi,Same,1103,Betano,110302,110302082
+446,Manufahi,Alas,1101,Aituha,110101,110101012
+447,Manufahi,Alas,1101,Taitudac,110104,110104052
+448,Manufahi,Alas,1101,Uma Berloic,110105,110105032
+449,Manufahi,Alas,1101,Mahaquidan,110103,110103042
+450,Manufahi,Fatuberlio,1102,Fahinehan,110204,110204022
+451,Manufahi,Fatuberlio,1102,Bubussuso,110201,110201022
+452,Manufahi,Fatuberlio,1102,Fatukahi,110205,110205022
+453,Manufahi,Same,1103,Rotuto,110307,110307032
+454,Manufahi,Same,1103,Grotu,110304,110304032
+455,Manufahi,Same,1103,Dai-Sua,110303,110303062
+456,Manufahi,Same,1103,Babulo,110301,110301052
+457,Manufahi,Same,1103,Letefoho,110306,110306132
+458,Manufahi,Same,1103,Holarua,110305,110305122
+459,Manufahi,Turiscai,1104,Fatucalo,110404,110404022
+460,Manufahi,Turiscai,1104,Fatucalo,110404,110404012
+461,Manufahi,Turiscai,1104,Fatucalo,110404,110404032
+462,Manufahi,Turiscai,1104,Lessuata,110406,110406022
+463,Manufahi,Turiscai,1104,Liurai,110407,110407012
+464,Manufahi,Turiscai,1104,Liurai,110407,110407032
+465,Manufahi,Turiscai,1104,Caimauc,110403,110403022
+466,Manufahi,Turiscai,1104,Manumera,110408,110408012
+467,Manufahi,Turiscai,1104,Manumera,110408,110408022
+468,Manufahi,Turiscai,1104,Aitemua,110401,110401012
+469,Manufahi,Turiscai,1104,Aitemua,110401,110401022
+470,Manufahi,Turiscai,1104,Beremana,110402,110402012
+471,Manufahi,Turiscai,1104,Beremana,110402,110402022
+472,Manufahi,Turiscai,1104,Matorec,110409,110409012
+473,Manufahi,Turiscai,1104,Foholau,110405,110405012
+474,Manufahi,Turiscai,1104,Orana,110411,110411012
+475,Manufahi,Same,1103,Holarua,110305,110305012
+476,Manufahi,Same,1103,Holarua,110305,110305022
+477,Manufahi,Same,1103,Holarua,110305,110305032
+478,Manufahi,Same,1103,Holarua,110305,110305042
+479,Manufahi,Same,1103,Holarua,110305,110305052
+480,Manufahi,Same,1103,Holarua,110305,110305062
+481,Manufahi,Same,1103,Holarua,110305,110305072
+482,Manufahi,Same,1103,Holarua,110305,110305082
+483,Manufahi,Same,1103,Holarua,110305,110305092
+484,Manufahi,Same,1103,Holarua,110305,110305102
+485,Manufahi,Same,1103,Holarua,110305,110305112
+486,Manufahi,Same,1103,Holarua,110305,110305132
+487,Manufahi,Same,1103,Holarua,110305,110305142
+488,Manufahi,Same,1103,Tutuluro,110308,110308012
+489,Manufahi,Turiscai,1104,Mindelo,110410,110410022
+490,Manufahi,Same,1103,Tutuluro,110308,110308022
+491,Manufahi,Same,1103,Tutuluro,110308,110308042
+492,Manufahi,Same,1103,Letefoho,110306,110306012
+493,Manufahi,Same,1103,Letefoho,110306,110306022
+494,Manufahi,Same,1103,Letefoho,110306,110306031
+495,Manufahi,Same,1103,Letefoho,110306,110306041
+496,Manufahi,Same,1103,Letefoho,110306,110306051
+497,Manufahi,Same,1103,Letefoho,110306,110306061
+498,Manufahi,Same,1103,Letefoho,110306,110306071
+499,Manufahi,Same,1103,Letefoho,110306,110306081
+500,Manufahi,Same,1103,Letefoho,110306,110306091
+501,Manufahi,Same,1103,Letefoho,110306,110306101
+502,Manufahi,Same,1103,Letefoho,110306,110306112
+503,Manufahi,Same,1103,Letefoho,110306,110306121
+504,Manufahi,Same,1103,Babulo,110301,110301012
+505,Manufahi,Same,1103,Babulo,110301,110301021
+506,Manufahi,Same,1103,Babulo,110301,110301031
+507,Manufahi,Same,1103,Babulo,110301,110301042
+508,Manufahi,Same,1103,Babulo,110301,110301062
+509,Manufahi,Same,1103,Dai-Sua,110303,110303012
+510,Manufahi,Same,1103,Dai-Sua,110303,110303022
+511,Manufahi,Same,1103,Dai-Sua,110303,110303032
+512,Manufahi,Same,1103,Dai-Sua,110303,110303042
+513,Manufahi,Same,1103,Dai-Sua,110303,110303052
+514,Manufahi,Same,1103,Rotuto,110307,110307012
+515,Manufahi,Same,1103,Rotuto,110307,110307022
+516,Manufahi,Same,1103,Grotu,110304,110304012
+517,Manufahi,Same,1103,Grotu,110304,110304022
+518,Manufahi,Same,1103,Betano,110302,110302012
+519,Manufahi,Same,1103,Betano,110302,110302022
+520,Manufahi,Same,1103,Betano,110302,110302032
+521,Manufahi,Same,1103,Betano,110302,110302042
+522,Manufahi,Same,1103,Betano,110302,110302052
+523,Manufahi,Same,1103,Betano,110302,110302062
+524,Manufahi,Same,1103,Betano,110302,110302072
+525,Manufahi,Fatuberlio,1102,Caicassa,110202,110202022
+526,Manufahi,Fatuberlio,1102,Caicassa,110202,110202032
+527,Manufahi,Fatuberlio,1102,Caicassa,110202,110202012
+528,Manufahi,Fatuberlio,1102,Bubussuso,110201,110201012
+529,Manufahi,Fatuberlio,1102,Bubussuso,110201,110201032
+530,Manufahi,Fatuberlio,1102,Clacuc,110203,110203012
+531,Manufahi,Fatuberlio,1102,Clacuc,110203,110203022
+532,Manufahi,Fatuberlio,1102,Clacuc,110203,110203032
+533,Manufahi,Fatuberlio,1102,Clacuc,110203,110203042
+534,Manufahi,Fatuberlio,1102,Fahinehan,110204,110204012
+535,Manufahi,Fatuberlio,1102,Fahinehan,110204,110204032
+536,Manufahi,Fatuberlio,1102,Fatukahi,110205,110205012
+537,Manufahi,Alas,1101,Aituha,110101,110101022
+538,Manufahi,Alas,1101,Taitudac,110104,110104012
+539,Manufahi,Alas,1101,Taitudac,110104,110104022
+540,Manufahi,Alas,1101,Taitudac,110104,110104032
+541,Manufahi,Alas,1101,Taitudac,110104,110104042
+542,Manufahi,Alas,1101,Dotik,110102,110102012
+543,Manufahi,Alas,1101,Dotik,110102,110102022
+544,Manufahi,Alas,1101,Dotik,110102,110102032
+545,Manufahi,Alas,1101,Dotik,110102,110102052
+546,Manufahi,Alas,1101,Uma Berloic,110105,110105012
+547,Manufahi,Alas,1101,Uma Berloic,110105,110105022
+548,Manufahi,Alas,1101,Mahaquidan,110103,110103012
+549,Manufahi,Alas,1101,Mahaquidan,110103,110103022
+550,Manufahi,Alas,1101,Mahaquidan,110103,110103032
+551,Oecusse,Nitibe,1201,Lelaufe,120103,120103062
+552,Oecusse,Oesilo,1202,Bobometo,120201,120201152
+553,Oecusse,Pante Macassar,1203,Cunha,120303,120303082
+554,Oecusse,Passabe,1204,Abani,120401,120401172
+555,Oecusse,Nitibe,1201,Beneufe,120102,120102082
+556,Oecusse,Nitibe,1201,Suniufe,120104,120104052
+557,Oecusse,Nitibe,1201,Usitaco,120105,120105022
+558,Oecusse,Nitibe,1201,Banafi,120101,120101032
+559,Oecusse,Oesilo,1202,Usitasae,120203,120203022
+560,Oecusse,Oesilo,1202,Usitaqueno,120202,120202022
+561,Oecusse,Passabe,1204,Malelat,120402,120402042
+562,Oecusse,Pante Macassar,1203,Taiboco,120308,120308152
+563,Oecusse,Pante Macassar,1203,Lifau,120305,120305012
+564,Oecusse,Pante Macassar,1203,Nipane,120307,120307012
+565,Oecusse,Pante Macassar,1203,Naimeco,120306,120306082
+566,Oecusse,Pante Macassar,1203,Costa,120302,120302221
+567,Oecusse,Pante Macassar,1203,Bobocase,120301,120301072
+568,Oecusse,Pante Macassar,1203,Lalisuc,120304,120304012
+569,Oecusse,Nitibe,1201,Banafi,120101,120101012
+570,Oecusse,Nitibe,1201,Banafi,120101,120101022
+571,Oecusse,Nitibe,1201,Banafi,120101,120101042
+572,Oecusse,Nitibe,1201,Banafi,120101,120101052
+573,Oecusse,Nitibe,1201,Beneufe,120102,120102092
+574,Oecusse,Nitibe,1201,Beneufe,120102,120102032
+575,Oecusse,Nitibe,1201,Beneufe,120102,120102012
+576,Oecusse,Nitibe,1201,Beneufe,120102,120102022
+577,Oecusse,Nitibe,1201,Beneufe,120102,120102042
+578,Oecusse,Nitibe,1201,Beneufe,120102,120102052
+579,Oecusse,Nitibe,1201,Beneufe,120102,120102062
+580,Oecusse,Nitibe,1201,Beneufe,120102,120102072
+581,Oecusse,Nitibe,1201,Lelaufe,120103,120103012
+582,Oecusse,Nitibe,1201,Lelaufe,120103,120103022
+583,Oecusse,Nitibe,1201,Lelaufe,120103,120103032
+584,Oecusse,Nitibe,1201,Lelaufe,120103,120103042
+585,Oecusse,Nitibe,1201,Lelaufe,120103,120103052
+586,Oecusse,Nitibe,1201,Lelaufe,120103,120103072
+587,Oecusse,Nitibe,1201,Lelaufe,120103,120103082
+588,Oecusse,Nitibe,1201,Lelaufe,120103,120103092
+589,Oecusse,Nitibe,1201,Lelaufe,120103,120103102
+590,Oecusse,Nitibe,1201,Lelaufe,120103,120103112
+591,Oecusse,Nitibe,1201,Suniufe,120104,120104012
+592,Oecusse,Nitibe,1201,Suniufe,120104,120104022
+593,Oecusse,Nitibe,1201,Suniufe,120104,120104032
+594,Oecusse,Nitibe,1201,Suniufe,120104,120104042
+595,Oecusse,Nitibe,1201,Suniufe,120104,120104062
+596,Oecusse,Nitibe,1201,Usitaco,120105,120105012
+597,Oecusse,Nitibe,1201,Usitaco,120105,120105052
+598,Oecusse,Nitibe,1201,Usitaco,120105,120105062
+599,Oecusse,Nitibe,1201,Usitaco,120105,120105032
+600,Oecusse,Nitibe,1201,Usitaco,120105,120105042
+601,Oecusse,Oesilo,1202,Usitaqueno,120202,120202012
+602,Oecusse,Oesilo,1202,Usitaqueno,120202,120202032
+603,Oecusse,Oesilo,1202,Usitaqueno,120202,120202042
+604,Oecusse,Oesilo,1202,Bobometo,120201,120201012
+605,Oecusse,Oesilo,1202,Bobometo,120201,120201022
+606,Oecusse,Oesilo,1202,Bobometo,120201,120201202
+607,Oecusse,Oesilo,1202,Bobometo,120201,120201222
+608,Oecusse,Oesilo,1202,Bobometo,120201,120201212
+609,Oecusse,Oesilo,1202,Bobometo,120201,120201182
+610,Oecusse,Oesilo,1202,Bobometo,120201,120201192
+611,Oecusse,Oesilo,1202,Bobometo,120201,120201162
+612,Oecusse,Oesilo,1202,Bobometo,120201,120201172
+613,Oecusse,Oesilo,1202,Bobometo,120201,120201112
+614,Oecusse,Oesilo,1202,Bobometo,120201,120201102
+615,Oecusse,Oesilo,1202,Bobometo,120201,120201062
+616,Oecusse,Oesilo,1202,Bobometo,120201,120201042
+617,Oecusse,Oesilo,1202,Bobometo,120201,120201052
+618,Oecusse,Oesilo,1202,Bobometo,120201,120201032
+619,Oecusse,Oesilo,1202,Bobometo,120201,120201072
+620,Oecusse,Oesilo,1202,Bobometo,120201,120201082
+621,Oecusse,Oesilo,1202,Bobometo,120201,120201092
+622,Oecusse,Oesilo,1202,Bobometo,120201,120201122
+623,Oecusse,Oesilo,1202,Bobometo,120201,120201132
+624,Oecusse,Oesilo,1202,Bobometo,120201,120201142
+625,Oecusse,Oesilo,1202,Usitasae,120203,120203102
+626,Oecusse,Oesilo,1202,Usitasae,120203,120203082
+627,Oecusse,Oesilo,1202,Usitasae,120203,120203072
+628,Oecusse,Oesilo,1202,Usitasae,120203,120203042
+629,Oecusse,Oesilo,1202,Usitasae,120203,120203032
+630,Oecusse,Oesilo,1202,Usitasae,120203,120203012
+631,Oecusse,Oesilo,1202,Usitasae,120203,120203052
+632,Oecusse,Oesilo,1202,Usitasae,120203,120203092
+633,Oecusse,Oesilo,1202,Usitasae,120203,120203062
+634,Oecusse,Pante Macassar,1203,Bobocase,120301,120301012
+635,Oecusse,Pante Macassar,1203,Bobocase,120301,120301022
+636,Oecusse,Pante Macassar,1203,Bobocase,120301,120301032
+637,Oecusse,Pante Macassar,1203,Bobocase,120301,120301042
+638,Oecusse,Pante Macassar,1203,Bobocase,120301,120301052
+639,Oecusse,Pante Macassar,1203,Bobocase,120301,120301062
+640,Oecusse,Pante Macassar,1203,Bobocase,120301,120301082
+641,Oecusse,Pante Macassar,1203,Bobocase,120301,120301092
+642,Oecusse,Pante Macassar,1203,Costa,120302,120302242
+643,Oecusse,Pante Macassar,1203,Costa,120302,120302252
+644,Oecusse,Pante Macassar,1203,Costa,120302,120302272
+645,Oecusse,Pante Macassar,1203,Costa,120302,120302282
+646,Oecusse,Pante Macassar,1203,Costa,120302,120302161
+647,Oecusse,Pante Macassar,1203,Costa,120302,120302211
+648,Oecusse,Pante Macassar,1203,Costa,120302,120302201
+649,Oecusse,Pante Macassar,1203,Costa,120302,120302011
+650,Oecusse,Pante Macassar,1203,Costa,120302,120302031
+651,Oecusse,Pante Macassar,1203,Costa,120302,120302081
+652,Oecusse,Pante Macassar,1203,Cunha,120303,120303022
+653,Oecusse,Pante Macassar,1203,Cunha,120303,120303012
+654,Oecusse,Pante Macassar,1203,Cunha,120303,120303032
+655,Oecusse,Pante Macassar,1203,Cunha,120303,120303062
+656,Oecusse,Pante Macassar,1203,Cunha,120303,120303042
+657,Oecusse,Pante Macassar,1203,Cunha,120303,120303052
+658,Oecusse,Pante Macassar,1203,Cunha,120303,120303072
+659,Oecusse,Pante Macassar,1203,Cunha,120303,120303102
+660,Oecusse,Pante Macassar,1203,Cunha,120303,120303092
+661,Oecusse,Pante Macassar,1203,Cunha,120303,120303122
+662,Oecusse,Pante Macassar,1203,Cunha,120303,120303112
+663,Oecusse,Pante Macassar,1203,Lalisuc,120304,120304022
+664,Oecusse,Pante Macassar,1203,Lalisuc,120304,120304032
+665,Oecusse,Pante Macassar,1203,Lalisuc,120304,120304042
+666,Oecusse,Pante Macassar,1203,Lalisuc,120304,120304052
+667,Oecusse,Pante Macassar,1203,Lalisuc,120304,120304062
+668,Oecusse,Pante Macassar,1203,Lifau,120305,120305022
+669,Oecusse,Pante Macassar,1203,Lifau,120305,120305032
+670,Oecusse,Pante Macassar,1203,Lifau,120305,120305042
+671,Oecusse,Pante Macassar,1203,Lifau,120305,120305052
+672,Oecusse,Pante Macassar,1203,Lifau,120305,120305062
+673,Oecusse,Pante Macassar,1203,Naimeco,120306,120306012
+674,Oecusse,Pante Macassar,1203,Naimeco,120306,120306022
+675,Oecusse,Pante Macassar,1203,Naimeco,120306,120306032
+676,Oecusse,Pante Macassar,1203,Naimeco,120306,120306042
+677,Oecusse,Pante Macassar,1203,Naimeco,120306,120306052
+678,Oecusse,Pante Macassar,1203,Naimeco,120306,120306062
+679,Oecusse,Pante Macassar,1203,Naimeco,120306,120306072
+680,Oecusse,Pante Macassar,1203,Naimeco,120306,120306092
+681,Oecusse,Pante Macassar,1203,Naimeco,120306,120306102
+682,Oecusse,Pante Macassar,1203,Naimeco,120306,120306112
+683,Oecusse,Pante Macassar,1203,Naimeco,120306,120306122
+684,Oecusse,Pante Macassar,1203,Nipane,120307,120307022
+685,Oecusse,Pante Macassar,1203,Nipane,120307,120307032
+686,Oecusse,Pante Macassar,1203,Nipane,120307,120307042
+687,Oecusse,Pante Macassar,1203,Nipane,120307,120307052
+688,Oecusse,Pante Macassar,1203,Taiboco,120308,120308012
+689,Oecusse,Pante Macassar,1203,Taiboco,120308,120308022
+690,Oecusse,Pante Macassar,1203,Taiboco,120308,120308032
+691,Oecusse,Pante Macassar,1203,Taiboco,120308,120308172
+692,Oecusse,Pante Macassar,1203,Taiboco,120308,120308162
+693,Oecusse,Pante Macassar,1203,Taiboco,120308,120308112
+694,Oecusse,Pante Macassar,1203,Taiboco,120308,120308102
+695,Oecusse,Pante Macassar,1203,Taiboco,120308,120308122
+696,Oecusse,Pante Macassar,1203,Taiboco,120308,120308042
+697,Oecusse,Pante Macassar,1203,Taiboco,120308,120308092
+698,Oecusse,Pante Macassar,1203,Taiboco,120308,120308082
+699,Oecusse,Pante Macassar,1203,Taiboco,120308,120308052
+700,Oecusse,Pante Macassar,1203,Taiboco,120308,120308062
+701,Oecusse,Pante Macassar,1203,Taiboco,120308,120308072
+702,Oecusse,Pante Macassar,1203,Taiboco,120308,120308142
+703,Oecusse,Pante Macassar,1203,Taiboco,120308,120308132
+704,Oecusse,Passabe,1204,Abani,120401,120401042
+705,Oecusse,Passabe,1204,Abani,120401,120401032
+706,Oecusse,Passabe,1204,Abani,120401,120401052
+707,Oecusse,Passabe,1204,Abani,120401,120401152
+708,Oecusse,Passabe,1204,Abani,120401,120401102
+709,Oecusse,Passabe,1204,Abani,120401,120401092
+710,Oecusse,Passabe,1204,Abani,120401,120401082
+711,Oecusse,Passabe,1204,Abani,120401,120401012
+712,Oecusse,Passabe,1204,Abani,120401,120401022
+713,Oecusse,Passabe,1204,Abani,120401,120401062
+714,Oecusse,Passabe,1204,Abani,120401,120401072
+715,Oecusse,Passabe,1204,Abani,120401,120401112
+716,Oecusse,Passabe,1204,Abani,120401,120401122
+717,Oecusse,Passabe,1204,Abani,120401,120401132
+718,Oecusse,Passabe,1204,Abani,120401,120401142
+719,Oecusse,Passabe,1204,Abani,120401,120401162
+720,Oecusse,Passabe,1204,Malelat,120402,120402012
+721,Oecusse,Passabe,1204,Malelat,120402,120402022
+722,Oecusse,Passabe,1204,Malelat,120402,120402032
+723,Oecusse,Passabe,1204,Malelat,120402,120402052
+724,Viqueque,Lacluta,1301,Ahic,130101,130101032
+725,Viqueque,Ossu,1302,Ossorua,130205,130205042
+726,Viqueque,Viqueque,1305,Caraubalo,130503,130503132
+727,Viqueque,Viqueque,1305,Luca,130505,130505052
+728,Viqueque,Viqueque,1305,Bahalarauain,130501,130501012
+729,Viqueque,Viqueque,1305,Uma Quic,130508,130508042
+730,Viqueque,Viqueque,1305,Uma Uain Craic,130509,130509072
+731,Viqueque,Viqueque,1305,Maluru,130506,130506012
+732,Viqueque,Viqueque,1305,Fatudere,130504,130504012
+733,Viqueque,Uato-Lari,1303,Uaitame,130305,130305012
+734,Viqueque,Uato-Lari,1303,Vessoru,130306,130306052
+735,Viqueque,Uato-Lari,1303,Babulo,130302,130302092
+736,Viqueque,Uatucarbau,1304,Uani Uma,130406,130406042
+737,Viqueque,Uatucarbau,1304,Afaloicai,130401,130401022
+738,Viqueque,Uatucarbau,1304,Loi Ulo,130405,130405022
+739,Viqueque,Uatucarbau,1304,Irabin De Baixo,130403,130403012
+740,Viqueque,Lacluta,1301,Laline,130103,130103032
+741,Viqueque,Lacluta,1301,Dilor,130102,130102092
+742,Viqueque,Lacluta,1301,Uma Tolu,130104,130104012
+743,Viqueque,Ossu,1302,Liaruca,130202,130202052
+744,Viqueque,Ossu,1302,Builale,130201,130201012
+745,Viqueque,Ossu,1302,Ossu De Cima,130206,130206012
+746,Viqueque,Ossu,1302,Loi-Huno,130203,130203022
+747,Viqueque,Ossu,1302,Uaibobo,130209,130209022
+748,Viqueque,Ossu,1302,Nahareca,130204,130204042
+749,Viqueque,Ossu,1302,Uabubo,130207,130207012
+750,Viqueque,Lacluta,1301,Ahic,130101,130101012
+751,Viqueque,Lacluta,1301,Ahic,130101,130101022
+752,Viqueque,Lacluta,1301,Dilor,130102,130102012
+753,Viqueque,Lacluta,1301,Dilor,130102,130102022
+754,Viqueque,Lacluta,1301,Dilor,130102,130102032
+755,Viqueque,Lacluta,1301,Dilor,130102,130102042
+756,Viqueque,Lacluta,1301,Dilor,130102,130102052
+757,Viqueque,Lacluta,1301,Dilor,130102,130102062
+758,Viqueque,Lacluta,1301,Dilor,130102,130102072
+759,Viqueque,Lacluta,1301,Dilor,130102,130102082
+760,Viqueque,Lacluta,1301,Laline,130103,130103012
+761,Viqueque,Lacluta,1301,Laline,130103,130103022
+762,Viqueque,Lacluta,1301,Uma Tolu,130104,130104022
+763,Viqueque,Lacluta,1301,Uma Tolu,130104,130104032
+764,Viqueque,Ossu,1302,Liaruca,130202,130202012
+765,Viqueque,Ossu,1302,Liaruca,130202,130202022
+766,Viqueque,Ossu,1302,Liaruca,130202,130202032
+767,Viqueque,Ossu,1302,Liaruca,130202,130202042
+768,Viqueque,Ossu,1302,Loi-Huno,130203,130203012
+769,Viqueque,Ossu,1302,Loi-Huno,130203,130203032
+770,Viqueque,Ossu,1302,Loi-Huno,130203,130203042
+771,Viqueque,Ossu,1302,Nahareca,130204,130204012
+772,Viqueque,Ossu,1302,Nahareca,130204,130204022
+773,Viqueque,Ossu,1302,Nahareca,130204,130204032
+774,Viqueque,Ossu,1302,Ossorua,130205,130205022
+775,Viqueque,Ossu,1302,Ossu De Cima,130206,130206022
+776,Viqueque,Ossu,1302,Ossu De Cima,130206,130206032
+777,Viqueque,Ossu,1302,Ossu De Cima,130206,130206042
+778,Viqueque,Ossu,1302,Ossu De Cima,130206,130206052
+779,Viqueque,Ossu,1302,Ossu De Cima,130206,130206062
+780,Viqueque,Ossu,1302,Ossu De Cima,130206,130206072
+781,Viqueque,Ossu,1302,Ossu De Cima,130206,130206082
+782,Viqueque,Ossu,1302,Ossu De Cima,130206,130206092
+783,Viqueque,Ossu,1302,Ossu De Cima,130206,130206102
+784,Viqueque,Ossu,1302,Ossu De Cima,130206,130206112
+785,Viqueque,Ossu,1302,Uabubo,130207,130207022
+786,Viqueque,Ossu,1302,Uabubo,130207,130207032
+787,Viqueque,Ossu,1302,Uaguia,130208,130208012
+788,Viqueque,Ossu,1302,Uaguia,130208,130208022
+789,Viqueque,Uato-Lari,1303,Afaloicai,130301,130301012
+790,Viqueque,Ossu,1302,Uaibobo,130209,130209012
+791,Viqueque,Uatucarbau,1304,Afaloicai,130401,130401012
+792,Viqueque,Uatucarbau,1304,Afaloicai,130401,130401032
+793,Viqueque,Uatucarbau,1304,Afaloicai,130401,130401042
+794,Viqueque,Uatucarbau,1304,Bahatata,130402,130402012
+795,Viqueque,Uatucarbau,1304,Bahatata,130402,130402022
+796,Viqueque,Uatucarbau,1304,Irabin De Baixo,130403,130403022
+797,Viqueque,Uatucarbau,1304,Irabin De Baixo,130403,130403032
+798,Viqueque,Uatucarbau,1304,Irabin De Baixo,130403,130403042
+799,Viqueque,Uatucarbau,1304,Irabin De Baixo,130403,130403052
+800,Viqueque,Uatucarbau,1304,Irabin De Cima,130404,130404012
+801,Viqueque,Uatucarbau,1304,Irabin De Cima,130404,130404022
+802,Viqueque,Uatucarbau,1304,Loi Ulo,130405,130405012
+803,Viqueque,Uatucarbau,1304,Uani Uma,130406,130406012
+804,Viqueque,Uatucarbau,1304,Uani Uma,130406,130406022
+805,Viqueque,Uatucarbau,1304,Uani Uma,130406,130406032
+806,Viqueque,Viqueque,1305,Bahalarauain,130501,130501022
+807,Viqueque,Viqueque,1305,Bahalarauain,130501,130501032
+808,Viqueque,Viqueque,1305,Bahalarauain,130501,130501042
+809,Viqueque,Viqueque,1305,Bahalarauain,130501,130501082
+810,Viqueque,Viqueque,1305,Bahalarauain,130501,130501052
+811,Viqueque,Viqueque,1305,Bahalarauain,130501,130501062
+812,Viqueque,Viqueque,1305,Bibileo,130502,130502012
+813,Viqueque,Viqueque,1305,Bibileo,130502,130502022
+814,Viqueque,Viqueque,1305,Bibileo,130502,130502032
+815,Viqueque,Viqueque,1305,Bibileo,130502,130502042
+816,Viqueque,Viqueque,1305,Bibileo,130502,130502052
+817,Viqueque,Viqueque,1305,Caraubalo,130503,130503011
+818,Viqueque,Viqueque,1305,Caraubalo,130503,130503021
+819,Viqueque,Viqueque,1305,Caraubalo,130503,130503031
+820,Viqueque,Viqueque,1305,Caraubalo,130503,130503041
+821,Viqueque,Viqueque,1305,Caraubalo,130503,130503051
+822,Viqueque,Viqueque,1305,Caraubalo,130503,130503061
+823,Viqueque,Viqueque,1305,Caraubalo,130503,130503071
+824,Viqueque,Viqueque,1305,Caraubalo,130503,130503081
+825,Viqueque,Viqueque,1305,Caraubalo,130503,130503091
+826,Viqueque,Viqueque,1305,Caraubalo,130503,130503101
+827,Viqueque,Viqueque,1305,Caraubalo,130503,130503111
+828,Viqueque,Viqueque,1305,Caraubalo,130503,130503121
+829,Viqueque,Viqueque,1305,Luca,130505,130505022
+830,Viqueque,Viqueque,1305,Luca,130505,130505012
+831,Viqueque,Viqueque,1305,Luca,130505,130505032
+832,Viqueque,Viqueque,1305,Luca,130505,130505042
+833,Viqueque,Viqueque,1305,Luca,130505,130505062
+834,Viqueque,Viqueque,1305,Luca,130505,130505072
+835,Viqueque,Viqueque,1305,Uai-Mori,130507,130507032
+836,Viqueque,Viqueque,1305,Uai-Mori,130507,130507022
+837,Viqueque,Viqueque,1305,Uai-Mori,130507,130507012
+838,Viqueque,Viqueque,1305,Uai-Mori,130507,130507042
+839,Viqueque,Viqueque,1305,Uai-Mori,130507,130507052
+840,Viqueque,Viqueque,1305,Uma Quic,130508,130508012
+841,Viqueque,Viqueque,1305,Uma Quic,130508,130508022
+842,Viqueque,Viqueque,1305,Uma Quic,130508,130508032
+843,Viqueque,Viqueque,1305,Uma Uain Craic,130509,130509042
+844,Viqueque,Viqueque,1305,Uma Uain Craic,130509,130509062
+845,Viqueque,Viqueque,1305,Uma Uain Craic,130509,130509012
+846,Viqueque,Viqueque,1305,Uma Uain Craic,130509,130509052
+847,Viqueque,Viqueque,1305,Uma Uain Craic,130509,130509022
+848,Viqueque,Viqueque,1305,Uma Uain Craic,130509,130509032
+849,Viqueque,Viqueque,1305,Uma Uain Leten,130510,130510012
+850,Viqueque,Viqueque,1305,Uma Uain Leten,130510,130510022
+851,Viqueque,Uato-Lari,1303,Afaloicai,130301,130301022
+852,Viqueque,Uato-Lari,1303,Afaloicai,130301,130301032
+853,Viqueque,Uato-Lari,1303,Afaloicai,130301,130301042
+854,Viqueque,Uato-Lari,1303,Afaloicai,130301,130301052
+855,Viqueque,Uato-Lari,1303,Afaloicai,130301,130301062
+856,Viqueque,Uato-Lari,1303,Babulo,130302,130302072
+857,Viqueque,Uato-Lari,1303,Babulo,130302,130302062
+858,Viqueque,Uato-Lari,1303,Babulo,130302,130302082
+859,Viqueque,Uato-Lari,1303,Babulo,130302,130302012
+860,Viqueque,Uato-Lari,1303,Babulo,130302,130302022
+861,Viqueque,Uato-Lari,1303,Babulo,130302,130302032
+862,Viqueque,Uato-Lari,1303,Babulo,130302,130302052
+863,Viqueque,Uato-Lari,1303,Babulo,130302,130302042
+864,Viqueque,Uato-Lari,1303,Makadique,130303,130303082
+865,Viqueque,Uato-Lari,1303,Makadique,130303,130303072
+866,Viqueque,Uato-Lari,1303,Makadique,130303,130303062
+867,Viqueque,Uato-Lari,1303,Makadique,130303,130303052
+868,Viqueque,Uato-Lari,1303,Makadique,130303,130303042
+869,Viqueque,Uato-Lari,1303,Makadique,130303,130303032
+870,Viqueque,Uato-Lari,1303,Makadique,130303,130303022
+871,Viqueque,Uato-Lari,1303,Makadique,130303,130303012
+872,Viqueque,Uato-Lari,1303,Matahoi,130304,130304022
+873,Viqueque,Uato-Lari,1303,Matahoi,130304,130304012
+874,Viqueque,Uato-Lari,1303,Matahoi,130304,130304042
+875,Viqueque,Uato-Lari,1303,Matahoi,130304,130304032
+876,Viqueque,Uato-Lari,1303,Matahoi,130304,130304052
+877,Viqueque,Uato-Lari,1303,Matahoi,130304,130304062
+878,Viqueque,Uato-Lari,1303,Matahoi,130304,130304072
+879,Viqueque,Uato-Lari,1303,Uaitame,130305,130305022
+880,Viqueque,Uato-Lari,1303,Uaitame,130305,130305042
+881,Viqueque,Uato-Lari,1303,Uaitame,130305,130305052
+882,Viqueque,Uato-Lari,1303,Uaitame,130305,130305032
+883,Viqueque,Uato-Lari,1303,Vessoru,130306,130306012
+884,Viqueque,Uato-Lari,1303,Vessoru,130306,130306022
+885,Viqueque,Uato-Lari,1303,Vessoru,130306,130306032
+886,Viqueque,Uato-Lari,1303,Vessoru,130306,130306062
+887,Viqueque,Uato-Lari,1303,Vessoru,130306,130306072
+888,Viqueque,Uato-Lari,1303,Vessoru,130306,130306042
+889,Viqueque,Ossu,1302,Builale,130201,130201042
+890,Viqueque,Ossu,1302,Builale,130201,130201052
+891,Viqueque,Ossu,1302,Builale,130201,130201032
+892,Viqueque,Ossu,1302,Builale,130201,130201022
+893,Aileu,Aileu Vila,101,Suco Liurai,10111,10111082
+894,Aileu,Laulara,102,Talitu,10204,10204012
+895,Aileu,Lequidoe,103,Faturilau,10305,10305012
+896,Aileu,Remexio,104,Tulataqueo,10408,10408022
+897,Aileu,Aileu Vila,101,Seloi Craic,10109,10109012
+898,Aileu,Aileu Vila,101,Seloi Malere,10110,10110082
+899,Aileu,Aileu Vila,101,Aissirimou,10101,10101012
+900,Aileu,Aileu Vila,101,Saboria,10108,10108012
+901,Aileu,Aileu Vila,101,Fahiria,10103,10103012
+902,Aileu,Aileu Vila,101,Fatubossa,10104,10104042
+903,Aileu,Aileu Vila,101,Hoholau,10105,10105012
+904,Aileu,Aileu Vila,101,Lauisi,10107,10107022
+905,Aileu,Aileu Vila,101,Lahae,10106,10106012
+906,Aileu,Aileu Vila,101,Bandudato,10102,10102032
+907,Aileu,Laulara,102,Fatisi,10202,10202032
+908,Aileu,Laulara,102,Tohumeta,10205,10205022
+909,Aileu,Laulara,102,Madabeno,10203,10203022
+910,Aileu,Laulara,102,Cotolau,10201,10201022
+911,Aileu,Remexio,104,Fahisoi,10403,10403012
+912,Aileu,Remexio,104,Maumeta,10406,10406022
+913,Aileu,Remexio,104,Hautoho,10405,10405022
+914,Aileu,Remexio,104,Fadabloco,10402,10402022
+915,Aileu,Remexio,104,Faturasa,10404,10404022
+916,Aileu,Remexio,104,Acumau,10401,10401022
+917,Aileu,Remexio,104,Suco Liurai,10407,10407012
+918,Aileu,Lequidoe,103,Manucassa,10306,10306022
+919,Aileu,Lequidoe,103,Namolesso,10307,10307022
+920,Aileu,Lequidoe,103,Acubilitoho,10301,10301032
+921,Aileu,Lequidoe,103,Bereleu,10302,10302032
+922,Aileu,Lequidoe,103,Betulau,10303,10303022
+923,Aileu,Lequidoe,103,Fahisoi,10304,10304042
+924,Aileu,Aileu Vila,101,Aissirimou,10101,10101022
+925,Aileu,Aileu Vila,101,Aissirimou,10101,10101032
+926,Aileu,Aileu Vila,101,Bandudato,10102,10102012
+927,Aileu,Aileu Vila,101,Bandudato,10102,10102022
+928,Aileu,Aileu Vila,101,Fahiria,10103,10103022
+929,Aileu,Aileu Vila,101,Fahiria,10103,10103032
+930,Aileu,Aileu Vila,101,Fatubossa,10104,10104012
+931,Aileu,Aileu Vila,101,Fatubossa,10104,10104022
+932,Aileu,Aileu Vila,101,Fatubossa,10104,10104032
+933,Aileu,Aileu Vila,101,Hoholau,10105,10105022
+934,Aileu,Aileu Vila,101,Hoholau,10105,10105032
+935,Aileu,Aileu Vila,101,Lauisi,10107,10107012
+936,Aileu,Aileu Vila,101,Lauisi,10107,10107032
+937,Aileu,Aileu Vila,101,Saboria,10108,10108022
+938,Aileu,Aileu Vila,101,Seloi Craic,10109,10109022
+939,Aileu,Aileu Vila,101,Seloi Craic,10109,10109032
+940,Aileu,Aileu Vila,101,Seloi Craic,10109,10109042
+941,Aileu,Aileu Vila,101,Seloi Craic,10109,10109052
+942,Aileu,Aileu Vila,101,Seloi Craic,10109,10109062
+943,Aileu,Aileu Vila,101,Seloi Craic,10109,10109072
+944,Aileu,Aileu Vila,101,Seloi Craic,10109,10109082
+945,Aileu,Aileu Vila,101,Seloi Malere,10110,10110092
+946,Aileu,Aileu Vila,101,Seloi Malere,10110,10110102
+947,Aileu,Aileu Vila,101,Seloi Malere,10110,10110012
+948,Aileu,Aileu Vila,101,Seloi Malere,10110,10110071
+949,Aileu,Aileu Vila,101,Seloi Malere,10110,10110062
+950,Aileu,Aileu Vila,101,Seloi Malere,10110,10110051
+951,Aileu,Aileu Vila,101,Seloi Malere,10110,10110022
+952,Aileu,Aileu Vila,101,Seloi Malere,10110,10110031
+953,Aileu,Aileu Vila,101,Seloi Malere,10110,10110042
+954,Aileu,Aileu Vila,101,Suco Liurai,10111,10111011
+955,Aileu,Aileu Vila,101,Suco Liurai,10111,10111042
+956,Aileu,Aileu Vila,101,Suco Liurai,10111,10111022
+957,Aileu,Aileu Vila,101,Suco Liurai,10111,10111032
+958,Aileu,Aileu Vila,101,Suco Liurai,10111,10111052
+959,Aileu,Aileu Vila,101,Suco Liurai,10111,10111092
+960,Aileu,Aileu Vila,101,Suco Liurai,10111,10111062
+961,Aileu,Aileu Vila,101,Suco Liurai,10111,10111072
+962,Aileu,Laulara,102,Cotolau,10201,10201012
+963,Aileu,Laulara,102,Cotolau,10201,10201032
+964,Aileu,Laulara,102,Fatisi,10202,10202012
+965,Aileu,Laulara,102,Fatisi,10202,10202022
+966,Aileu,Laulara,102,Madabeno,10203,10203012
+967,Aileu,Laulara,102,Madabeno,10203,10203032
+968,Aileu,Laulara,102,Madabeno,10203,10203042
+969,Aileu,Laulara,102,Talitu,10204,10204022
+970,Aileu,Laulara,102,Talitu,10204,10204032
+971,Aileu,Laulara,102,Talitu,10204,10204042
+972,Aileu,Laulara,102,Talitu,10204,10204052
+973,Aileu,Laulara,102,Tohumeta,10205,10205012
+974,Aileu,Lequidoe,103,Acubilitoho,10301,10301012
+975,Aileu,Lequidoe,103,Acubilitoho,10301,10301022
+976,Aileu,Lequidoe,103,Acubilitoho,10301,10301042
+977,Aileu,Lequidoe,103,Bereleu,10302,10302012
+978,Aileu,Lequidoe,103,Bereleu,10302,10302022
+979,Aileu,Lequidoe,103,Betulau,10303,10303012
+980,Aileu,Lequidoe,103,Fahisoi,10304,10304012
+981,Aileu,Lequidoe,103,Fahisoi,10304,10304022
+982,Aileu,Lequidoe,103,Fahisoi,10304,10304032
+983,Aileu,Lequidoe,103,Faturilau,10305,10305022
+984,Aileu,Lequidoe,103,Faturilau,10305,10305032
+985,Aileu,Lequidoe,103,Manucassa,10306,10306012
+986,Aileu,Lequidoe,103,Namolesso,10307,10307012
+987,Aileu,Lequidoe,103,Namolesso,10307,10307032
+988,Aileu,Remexio,104,Acumau,10401,10401012
+989,Aileu,Remexio,104,Acumau,10401,10401032
+990,Aileu,Remexio,104,Acumau,10401,10401042
+991,Aileu,Remexio,104,Acumau,10401,10401052
+992,Aileu,Remexio,104,Acumau,10401,10401062
+993,Aileu,Remexio,104,Fadabloco,10402,10402012
+994,Aileu,Remexio,104,Fadabloco,10402,10402032
+995,Aileu,Remexio,104,Fadabloco,10402,10402042
+996,Aileu,Remexio,104,Fahisoi,10403,10403022
+997,Aileu,Remexio,104,Fahisoi,10403,10403032
+998,Aileu,Remexio,104,Faturasa,10404,10404012
+999,Aileu,Remexio,104,Hautoho,10405,10405012
+1000,Aileu,Remexio,104,Maumeta,10406,10406012
+1001,Aileu,Remexio,104,Suco Liurai,10407,10407022
+1002,Aileu,Remexio,104,Tulataqueo,10408,10408012
+1003,Aileu,Remexio,104,Tulataqueo,10408,10408032
+1004,Aileu,Remexio,104,Tulataqueo,10408,10408042
+1005,Ainaro,Ainaro,201,Soro,20106,20106022
+1006,Ainaro,Ainaro,201,Cassa,20102,20102052
+1007,Ainaro,Ainaro,201,Mau-Nuno,20104,20104032
+1008,Ainaro,Ainaro,201,Suro-Craic,20107,20107012
+1009,Ainaro,Ainaro,201,Mau-Ulo,20105,20105012
+1010,Ainaro,Ainaro,201,Ainaro,20101,20101122
+1011,Ainaro,Ainaro,201,Manutaci,20103,20103052
+1012,Ainaro,Maubisse,204,Aituto,20401,20401062
+1013,Ainaro,Maubisse,204,Fatubessi,20403,20403012
+1014,Ainaro,Maubisse,204,Manelobas,20406,20406012
+1015,Ainaro,Maubisse,204,Manetú,20407,20407032
+1016,Ainaro,Maubisse,204,Edi,20402,20402052
+1017,Ainaro,Maubisse,204,Liurai,20405,20405022
+1018,Ainaro,Maubisse,204,Horai-Quic,20404,20404032
+1019,Ainaro,Maubisse,204,Maubisse,20408,20408011
+1020,Ainaro,Hato-Builico,203,Mulo,20302,20302102
+1021,Ainaro,Hato-Builico,203,Mauchiga,20301,20301022
+1022,Ainaro,Hato-Builico,203,Nuno-Mogue,20303,20303052
+1023,Ainaro,Hato-Udo,202,Leolima,20202,20202122
+1024,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201112
+1025,Ainaro,Maubisse,204,Maulau,20409,20409042
+1026,Ainaro,Maubisse,204,Maulau,20409,20409022
+1027,Ainaro,Maubisse,204,Maulau,20409,20409012
+1028,Ainaro,Maubisse,204,Maulau,20409,20409052
+1029,Ainaro,Maubisse,204,Maulau,20409,20409032
+1030,Ainaro,Maubisse,204,Edi,20402,20402012
+1031,Ainaro,Maubisse,204,Edi,20402,20402032
+1032,Ainaro,Maubisse,204,Maulau,40902,20409062
+1033,Ainaro,Maubisse,204,Edi,20402,20402022
+1034,Ainaro,Maubisse,204,Edi,20402,20402042
+1035,Ainaro,Maubisse,204,Fatubessi,20403,20403022
+1036,Ainaro,Maubisse,204,Fatubessi,20403,20403032
+1037,Ainaro,Maubisse,204,Horai-Quic,20404,20404052
+1038,Ainaro,Maubisse,204,Horai-Quic,20404,20404042
+1039,Ainaro,Maubisse,204,Horai-Quic,20404,20404022
+1040,Ainaro,Maubisse,204,Horai-Quic,20404,20404012
+1041,Ainaro,Maubisse,204,Liurai,20405,20405012
+1042,Ainaro,Maubisse,204,Manelobas,20406,20406032
+1043,Ainaro,Maubisse,204,Manelobas,20406,20406022
+1044,Ainaro,Maubisse,204,Manetú,20407,20407012
+1045,Ainaro,Maubisse,204,Manetú,20407,20407022
+1046,Ainaro,Maubisse,204,Manetú,20407,20407042
+1047,Ainaro,Maubisse,204,Maubisse,20408,20408122
+1048,Ainaro,Maubisse,204,Maubisse,20408,20408112
+1049,Ainaro,Maubisse,204,Maubisse,20408,20408092
+1050,Ainaro,Maubisse,204,Maubisse,20408,20408102
+1051,Ainaro,Maubisse,204,Maubisse,20408,20408071
+1052,Ainaro,Maubisse,204,Maubisse,20408,20408062
+1053,Ainaro,Maubisse,204,Maubisse,20408,20408021
+1054,Ainaro,Maubisse,204,Maubisse,20408,20408031
+1055,Ainaro,Maubisse,204,Maubisse,20408,20408052
+1056,Ainaro,Maubisse,204,Maubisse,20408,20408041
+1057,Ainaro,Maubisse,204,Maubisse,20408,20408082
+1058,Ainaro,Ainaro,201,Ainaro,20101,20101011
+1059,Ainaro,Ainaro,201,Ainaro,20101,20101021
+1060,Ainaro,Ainaro,201,Ainaro,20101,20101031
+1061,Ainaro,Ainaro,201,Ainaro,20101,20101041
+1062,Ainaro,Ainaro,201,Ainaro,20101,20101051
+1063,Ainaro,Ainaro,201,Ainaro,20101,20101061
+1064,Ainaro,Ainaro,201,Ainaro,20101,20101071
+1065,Ainaro,Ainaro,201,Ainaro,20101,20101081
+1066,Ainaro,Ainaro,201,Ainaro,20101,20101092
+1067,Ainaro,Ainaro,201,Ainaro,20101,20101112
+1068,Ainaro,Ainaro,201,Ainaro,20101,20101102
+1069,Ainaro,Ainaro,201,Cassa,20102,20102012
+1070,Ainaro,Ainaro,201,Cassa,20102,20102022
+1071,Ainaro,Ainaro,201,Cassa,20102,20102032
+1072,Ainaro,Ainaro,201,Cassa,20102,20102042
+1073,Ainaro,Ainaro,201,Cassa,20102,20102062
+1074,Ainaro,Ainaro,201,Manutaci,20103,20103012
+1075,Ainaro,Ainaro,201,Manutaci,20103,20103022
+1076,Ainaro,Ainaro,201,Manutaci,20103,20103032
+1077,Ainaro,Ainaro,201,Manutaci,20103,20103042
+1078,Ainaro,Ainaro,201,Mau-Nuno,20104,20104012
+1079,Ainaro,Ainaro,201,Mau-Nuno,20104,20104022
+1080,Ainaro,Ainaro,201,Soro,20106,20106012
+1081,Ainaro,Ainaro,201,Soro,20106,20106032
+1082,Ainaro,Ainaro,201,Soro,20106,20106042
+1083,Ainaro,Ainaro,201,Suro-Craic,20107,20107022
+1084,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201012
+1085,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201022
+1086,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201032
+1087,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201042
+1088,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201052
+1089,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201062
+1090,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201072
+1091,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201082
+1092,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201092
+1093,Ainaro,Hato-Udo,202,Foho-Ai-Lico,20201,20201102
+1094,Ainaro,Hato-Udo,202,Leolima,20202,20202112
+1095,Ainaro,Hato-Udo,202,Leolima,20202,20202102
+1096,Ainaro,Hato-Udo,202,Leolima,20202,20202052
+1097,Ainaro,Hato-Udo,202,Leolima,20202,20202062
+1098,Ainaro,Hato-Udo,202,Leolima,20202,20202032
+1099,Ainaro,Hato-Udo,202,Leolima,20202,20202042
+1100,Ainaro,Hato-Udo,202,Leolima,20202,20202092
+1101,Ainaro,Hato-Udo,202,Leolima,20202,20202012
+1102,Ainaro,Hato-Udo,202,Leolima,20202,20202022
+1103,Ainaro,Hato-Udo,202,Leolima,20202,20202072
+1104,Ainaro,Hato-Udo,202,Leolima,20202,20202082
+1105,Ainaro,Hato-Builico,203,Mauchiga,20301,20301052
+1106,Ainaro,Hato-Builico,203,Mauchiga,20301,20301042
+1107,Ainaro,Hato-Builico,203,Mauchiga,20301,20301032
+1108,Ainaro,Hato-Builico,203,Mauchiga,20301,20301012
+1109,Ainaro,Hato-Builico,203,Mulo,20302,20302012
+1110,Ainaro,Hato-Builico,203,Mulo,20302,20302022
+1111,Ainaro,Hato-Builico,203,Mulo,20302,20302122
+1112,Ainaro,Hato-Builico,203,Mulo,20302,20302032
+1113,Ainaro,Hato-Builico,203,Mulo,20302,20302042
+1114,Ainaro,Hato-Builico,203,Mulo,20302,20302052
+1115,Ainaro,Hato-Builico,203,Mulo,20302,20302132
+1116,Ainaro,Hato-Builico,203,Mulo,20302,20302062
+1117,Ainaro,Hato-Builico,203,Mulo,20302,20302072
+1118,Ainaro,Hato-Builico,203,Mulo,20302,20302082
+1119,Ainaro,Hato-Builico,203,Mulo,20302,20302092
+1120,Ainaro,Hato-Builico,203,Mulo,20302,20302112
+1121,Ainaro,Hato-Builico,203,Nuno-Mogue,20303,20303012
+1122,Ainaro,Hato-Builico,203,Nuno-Mogue,20303,20303022
+1123,Ainaro,Hato-Builico,203,Nuno-Mogue,20303,20303032
+1124,Ainaro,Hato-Builico,203,Nuno-Mogue,20303,20303042
+1125,Ainaro,Hato-Builico,203,Nuno-Mogue,20303,20303062
+1126,Ainaro,Maubisse,204,Aituto,20401,20401012
+1127,Ainaro,Maubisse,204,Aituto,20401,20401022
+1128,Ainaro,Maubisse,204,Aituto,20401,20401032
+1129,Ainaro,Maubisse,204,Aituto,20401,20401042
+1130,Ainaro,Maubisse,204,Aituto,20401,20401052
+1131,Ainaro,Maubisse,204,Aituto,20401,20401072
+1132,Ainaro,Maubisse,204,Aituto,20401,20401082
+1133,Ainaro,Maubisse,204,Aituto,20401,20401092
+1134,Ainaro,Maubisse,204,Aituto,20401,20401102
+1135,Baucau,Baucau,302,Triloca,30210,30210012
+1136,Baucau,Laga,303,Saelari,30304,30304012
+1137,Baucau,Quelicai,304,Bualale,30405,30405012
+1138,Baucau,Vemasse,305,Vemasse,30507,30507082
+1139,Baucau,Venilale,306,Uma Ana Ulo,30608,30608022
+1140,Baucau,Baucau,302,Tirilolo,30209,30209032
+1141,Baucau,Baucau,302,Bahu,30201,30201101
+1142,Baucau,Baucau,302,Buruma,30204,30204032
+1143,Baucau,Baucau,302,Buibau,30203,30203062
+1144,Baucau,Baucau,302,Seiçal,30208,30208042
+1145,Baucau,Baucau,302,Samalari,30207,30207022
+1146,Baucau,Baucau,302,Uailili,30211,30211052
+1147,Baucau,Baucau,302,Bucoli,30202,30202012
+1148,Baucau,Vemasse,305,Ostico,30504,30504022
+1149,Baucau,Vemasse,305,Uato-Lari,30506,30506012
+1150,Baucau,Vemasse,305,Loilubo,30502,30502042
+1151,Baucau,Vemasse,305,Uaigae,30505,30505022
+1152,Baucau,Vemasse,305,Caicua,30501,30501012
+1153,Baucau,Vemasse,305,Ossouala,30503,30503032
+1154,Baucau,Baguia,301,Afaloicai,30101,30101012
+1155,Baucau,Baguia,301,Lavateri,30107,30107012
+1156,Baucau,Baguia,301,Samalari,30109,30109012
+1157,Baucau,Baguia,301,Alawa Craik,30102,30102012
+1158,Baucau,Baguia,301,Hae Coni,30105,30105012
+1159,Baucau,Baguia,301,Larisula,30106,30106022
+1160,Baucau,Baguia,301,Alawa Leten,30103,30103022
+1161,Baucau,Baguia,301,Defawasi,30104,30104022
+1162,Baucau,Laga,303,Tequinomata,30308,30308012
+1163,Baucau,Laga,303,Soba,30307,30307052
+1164,Baucau,Laga,303,Atelari,30301,30301042
+1165,Baucau,Laga,303,Samalari,30306,30306012
+1166,Baucau,Laga,303,Sagadate,30305,30305062
+1167,Baucau,Laga,303,Libagua,30302,30302052
+1168,Baucau,Laga,303,Nunira,30303,30303022
+1169,Baucau,Venilale,306,Fatulia,30603,30603032
+1170,Baucau,Venilale,306,Uai Oli,30604,30604022
+1171,Baucau,Venilale,306,Uailaha,30605,30605012
+1172,Baucau,Venilale,306,Bado-Ho'o,30601,30601072
+1173,Baucau,Venilale,306,Uma Ana Ico,30607,30607012
+1174,Baucau,Quelicai,304,Lelalai,30410,30410012
+1175,Baucau,Quelicai,304,Namanei,30414,30414022
+1176,Baucau,Quelicai,304,Afaçà,30403,30403032
+1177,Baucau,Quelicai,304,Macalaco,30412,30412012
+1178,Baucau,Quelicai,304,Maluro,30413,30413012
+1179,Baucau,Quelicai,304,Abo,30402,30402012
+1180,Baucau,Quelicai,304,Guruçà,30406,30406012
+1181,Baucau,Quelicai,304,Abafala,30401,30401012
+1182,Baucau,Quelicai,304,Letemumo,30411,30411022
+1183,Baucau,Quelicai,304,Uaitame,30415,30415022
+1184,Baucau,Quelicai,304,Baguia,30404,30404022
+1185,Baucau,Quelicai,304,Lacoliu,30407,30407052
+1186,Baucau,Quelicai,304,Laisorolai De Baixo,30408,30408022
+1187,Baucau,Quelicai,304,Laisorolai De Cima,30409,30409042
+1188,Baucau,Baguia,301,Osso Huna,30108,30108012
+1189,Baucau,Baguia,301,Afaloicai,30101,30101022
+1190,Baucau,Baguia,301,Afaloicai,30101,30101032
+1191,Baucau,Baguia,301,Afaloicai,30101,30101042
+1192,Baucau,Baguia,301,Alawa Craik,30102,30102022
+1193,Baucau,Baguia,301,Alawa Craik,30102,30102032
+1194,Baucau,Baguia,301,Alawa Craik,30102,30102042
+1195,Baucau,Baguia,301,Alawa Craik,30102,30102052
+1196,Baucau,Baguia,301,Alawa Leten,30103,30103012
+1197,Baucau,Baguia,301,Alawa Leten,30103,30103032
+1198,Baucau,Baguia,301,Defawasi,30104,30104012
+1199,Baucau,Baguia,301,Hae Coni,30105,30105032
+1200,Baucau,Baguia,301,Hae Coni,30105,30105052
+1201,Baucau,Baguia,301,Hae Coni,30105,30105042
+1202,Baucau,Baguia,301,Hae Coni,30105,30105022
+1203,Baucau,Baguia,301,Larisula,30106,30106012
+1204,Baucau,Baguia,301,Larisula,30106,30106032
+1205,Baucau,Baguia,301,Lavateri,30107,30107022
+1206,Baucau,Baguia,301,Lavateri,30107,30107032
+1207,Baucau,Baguia,301,Lavateri,30107,30107042
+1208,Baucau,Baguia,301,Lavateri,30107,30107052
+1209,Baucau,Baguia,301,Lavateri,30107,30107062
+1210,Baucau,Baguia,301,Osso Huna,30108,30108022
+1211,Baucau,Baguia,301,Osso Huna,30108,30108032
+1212,Baucau,Baguia,301,Samalari,30109,30109022
+1213,Baucau,Baguia,301,Samalari,30109,30109032
+1214,Baucau,Baguia,301,Samalari,30109,30109042
+1215,Baucau,Baguia,301,Uacala,30110,30110012
+1216,Baucau,Baguia,301,Uacala,30110,30110022
+1217,Baucau,Baucau,302,Bahu,30201,30201012
+1218,Baucau,Baucau,302,Bahu,30201,30201022
+1219,Baucau,Baucau,302,Bahu,30201,30201031
+1220,Baucau,Baucau,302,Bahu,30201,30201041
+1221,Baucau,Baucau,302,Bahu,30201,30201051
+1222,Baucau,Baucau,302,Bahu,30201,30201061
+1223,Baucau,Baucau,302,Bahu,30201,30201071
+1224,Baucau,Baucau,302,Bahu,30201,30201081
+1225,Baucau,Baucau,302,Bahu,30201,30201091
+1226,Baucau,Baucau,302,Bucoli,30202,30202022
+1227,Baucau,Baucau,302,Bucoli,30202,30202032
+1228,Baucau,Baucau,302,Buibau,30203,30203011
+1229,Baucau,Baucau,302,Buibau,30203,30203032
+1230,Baucau,Baucau,302,Buibau,30203,30203021
+1231,Baucau,Baucau,302,Buibau,30203,30203052
+1232,Baucau,Baucau,302,Buibau,30203,30203092
+1233,Baucau,Baucau,302,Buibau,30203,30203082
+1234,Baucau,Baucau,302,Buibau,30203,30203072
+1235,Baucau,Baucau,302,Buibau,30203,30203042
+1236,Baucau,Baucau,302,Buruma,30204,30204052
+1237,Baucau,Baucau,302,Buruma,30204,30204012
+1238,Baucau,Baucau,302,Buruma,30204,30204022
+1239,Baucau,Baucau,302,Buruma,30204,30204042
+1240,Baucau,Baucau,302,Caibada,30205,30205042
+1241,Baucau,Baucau,302,Caibada,30205,30205022
+1242,Baucau,Baucau,302,Caibada,30205,30205012
+1243,Baucau,Baucau,302,Caibada,30205,30205032
+1244,Baucau,Baucau,302,Gariuai,30206,30206022
+1245,Baucau,Baucau,302,Gariuai,30206,30206012
+1246,Baucau,Baucau,302,Gariuai,30206,30206032
+1247,Baucau,Baucau,302,Gariuai,30206,30206062
+1248,Baucau,Baucau,302,Gariuai,30206,30206052
+1249,Baucau,Baucau,302,Gariuai,30206,30206042
+1250,Baucau,Baucau,302,Samalari,30207,30207012
+1251,Baucau,Baucau,302,Samalari,30207,30207032
+1252,Baucau,Baucau,302,Seiçal,30208,30208012
+1253,Baucau,Baucau,302,Seiçal,30208,30208022
+1254,Baucau,Baucau,302,Seiçal,30208,30208032
+1255,Baucau,Baucau,302,Tirilolo,30209,30209012
+1256,Baucau,Baucau,302,Tirilolo,30209,30209022
+1257,Baucau,Baucau,302,Tirilolo,30209,30209131
+1258,Baucau,Baucau,302,Tirilolo,30209,30209121
+1259,Baucau,Baucau,302,Tirilolo,30209,30209101
+1260,Baucau,Baucau,302,Tirilolo,30209,30209091
+1261,Baucau,Baucau,302,Tirilolo,30209,30209111
+1262,Baucau,Baucau,302,Tirilolo,30209,30209071
+1263,Baucau,Baucau,302,Tirilolo,30209,30209041
+1264,Baucau,Baucau,302,Tirilolo,30209,30209051
+1265,Baucau,Baucau,302,Tirilolo,30209,30209081
+1266,Baucau,Baucau,302,Tirilolo,30209,30209061
+1267,Baucau,Baucau,302,Triloca,30210,30210022
+1268,Baucau,Baucau,302,Triloca,30210,30210032
+1269,Baucau,Baucau,302,Triloca,30210,30210042
+1270,Baucau,Baucau,302,Triloca,30210,30210052
+1271,Baucau,Baucau,302,Uailili,30211,30211072
+1272,Baucau,Baucau,302,Uailili,30211,30211042
+1273,Baucau,Baucau,302,Uailili,30211,30211062
+1274,Baucau,Baucau,302,Uailili,30211,30211022
+1275,Baucau,Baucau,302,Uailili,30211,30211012
+1276,Baucau,Baucau,302,Uailili,30211,30211032
+1277,Baucau,Laga,303,Atelari,30301,30301012
+1278,Baucau,Laga,303,Atelari,30301,30301022
+1279,Baucau,Laga,303,Atelari,30301,30301032
+1280,Baucau,Laga,303,Libagua,30302,30302012
+1281,Baucau,Laga,303,Libagua,30302,30302032
+1282,Baucau,Laga,303,Libagua,30302,30302042
+1283,Baucau,Laga,303,Libagua,30302,30302062
+1284,Baucau,Laga,303,Nunira,30303,30303012
+1285,Baucau,Laga,303,Nunira,30303,30303032
+1286,Baucau,Laga,303,Nunira,30303,30303042
+1287,Baucau,Laga,303,Saelari,30304,30304052
+1288,Baucau,Laga,303,Saelari,30304,30304022
+1289,Baucau,Laga,303,Saelari,30304,30304042
+1290,Baucau,Laga,303,Saelari,30304,30304032
+1291,Baucau,Laga,303,Saelari,30304,30304062
+1292,Baucau,Laga,303,Sagadate,30305,30305092
+1293,Baucau,Laga,303,Sagadate,30305,30305052
+1294,Baucau,Laga,303,Sagadate,30305,30305042
+1295,Baucau,Laga,303,Sagadate,30305,30305022
+1296,Baucau,Laga,303,Sagadate,30305,30305032
+1297,Baucau,Laga,303,Sagadate,30305,30305012
+1298,Baucau,Laga,303,Sagadate,30305,30305082
+1299,Baucau,Laga,303,Sagadate,30305,30305072
+1300,Baucau,Laga,303,Samalari,30306,30306022
+1301,Baucau,Laga,303,Samalari,30306,30306032
+1302,Baucau,Laga,303,Samalari,30306,30306042
+1303,Baucau,Laga,303,Soba,30307,30307012
+1304,Baucau,Laga,303,Soba,30307,30307022
+1305,Baucau,Laga,303,Soba,30307,30307032
+1306,Baucau,Laga,303,Soba,30307,30307042
+1307,Baucau,Laga,303,Tequinomata,30308,30308042
+1308,Baucau,Laga,303,Tequinomata,30308,30308032
+1309,Baucau,Laga,303,Tequinomata,30308,30308072
+1310,Baucau,Laga,303,Tequinomata,30308,30308062
+1311,Baucau,Laga,303,Tequinomata,30308,30308052
+1312,Baucau,Laga,303,Tequinomata,30308,30308022
+1313,Baucau,Quelicai,304,Abafala,30401,30401032
+1314,Baucau,Quelicai,304,Abafala,30401,30401022
+1315,Baucau,Quelicai,304,Abo,30402,30402022
+1316,Baucau,Quelicai,304,Afaçà,30403,30403012
+1317,Baucau,Quelicai,304,Afaçà,30403,30403022
+1318,Baucau,Quelicai,304,Afaçà,30403,30403042
+1319,Baucau,Quelicai,304,Baguia,30404,30404012
+1320,Baucau,Quelicai,304,Baguia,30404,30404032
+1321,Baucau,Quelicai,304,Baguia,30404,30404042
+1322,Baucau,Quelicai,304,Baguia,30404,30404052
+1323,Baucau,Quelicai,304,Bualale,30405,30405022
+1324,Baucau,Quelicai,304,Bualale,30405,30405052
+1325,Baucau,Quelicai,304,Bualale,30405,30405062
+1326,Baucau,Quelicai,304,Bualale,30405,30405092
+1327,Baucau,Quelicai,304,Bualale,30405,30405072
+1328,Baucau,Quelicai,304,Bualale,30405,30405082
+1329,Baucau,Quelicai,304,Bualale,30405,30405032
+1330,Baucau,Quelicai,304,Bualale,30405,30405042
+1331,Baucau,Quelicai,304,Guruçà,30406,30406042
+1332,Baucau,Quelicai,304,Guruçà,30406,30406022
+1333,Baucau,Quelicai,304,Guruçà,30406,30406032
+1334,Baucau,Quelicai,304,Lacoliu,30407,30407032
+1335,Baucau,Quelicai,304,Lacoliu,30407,30407012
+1336,Baucau,Quelicai,304,Lacoliu,30407,30407022
+1337,Baucau,Quelicai,304,Lacoliu,30407,30407042
+1338,Baucau,Quelicai,304,Laisorolai De Baixo,30408,30408012
+1339,Baucau,Quelicai,304,Laisorolai De Cima,30409,30409012
+1340,Baucau,Quelicai,304,Laisorolai De Cima,30409,30409022
+1341,Baucau,Quelicai,304,Laisorolai De Cima,30409,30409032
+1342,Baucau,Quelicai,304,Laisorolai De Cima,30409,30409052
+1343,Baucau,Quelicai,304,Lelalai,30410,30410032
+1344,Baucau,Quelicai,304,Lelalai,30410,30410022
+1345,Baucau,Quelicai,304,Letemumo,30411,30411012
+1346,Baucau,Quelicai,304,Letemumo,30411,30411032
+1347,Baucau,Quelicai,304,Letemumo,30411,30411042
+1348,Baucau,Quelicai,304,Macalaco,30412,30412022
+1349,Baucau,Quelicai,304,Maluro,30413,30413022
+1350,Baucau,Quelicai,304,Namanei,30414,30414012
+1351,Baucau,Quelicai,304,Namanei,30414,30414032
+1352,Baucau,Quelicai,304,Namanei,30414,30414042
+1353,Baucau,Quelicai,304,Uaitame,30415,30415012
+1354,Baucau,Quelicai,304,Uaitame,30415,30415032
+1355,Baucau,Vemasse,305,Loilubo,30502,30502012
+1356,Baucau,Vemasse,305,Loilubo,30502,30502022
+1357,Baucau,Vemasse,305,Loilubo,30502,30502032
+1358,Baucau,Vemasse,305,Ossouala,30503,30503012
+1359,Baucau,Vemasse,305,Ossouala,30503,30503022
+1360,Baucau,Vemasse,305,Ossouala,30503,30503042
+1361,Baucau,Vemasse,305,Uaigae,30505,30505012
+1362,Baucau,Vemasse,305,Uato-Lari,30506,30506022
+1363,Baucau,Venilale,306,Bado-Ho'o,30601,30601012
+1364,Baucau,Venilale,306,Bado-Ho'o,30601,30601022
+1365,Baucau,Venilale,306,Bado-Ho'o,30601,30601032
+1366,Baucau,Venilale,306,Bado-Ho'o,30601,30601042
+1367,Baucau,Venilale,306,Bado-Ho'o,30601,30601052
+1368,Baucau,Venilale,306,Bado-Ho'o,30601,30601062
+1369,Baucau,Venilale,306,Bado-Ho'o,30601,30601082
+1370,Baucau,Vemasse,305,Vemasse,30507,30507092
+1371,Baucau,Vemasse,305,Vemasse,30507,30507012
+1372,Baucau,Vemasse,305,Vemasse,30507,30507022
+1373,Baucau,Vemasse,305,Vemasse,30507,30507062
+1374,Baucau,Vemasse,305,Vemasse,30507,30507052
+1375,Baucau,Vemasse,305,Vemasse,30507,30507042
+1376,Baucau,Vemasse,305,Vemasse,30507,30507032
+1377,Baucau,Vemasse,305,Vemasse,30507,30507072
+1378,Baucau,Venilale,306,Baha Mori,30602,30602042
+1379,Baucau,Venilale,306,Baha Mori,30602,30602012
+1380,Baucau,Venilale,306,Baha Mori,30602,30602022
+1381,Baucau,Venilale,306,Baha Mori,30602,30602032
+1382,Baucau,Venilale,306,Fatulia,30603,30603012
+1383,Baucau,Venilale,306,Fatulia,30603,30603022
+1384,Baucau,Venilale,306,Fatulia,30603,30603042
+1385,Baucau,Venilale,306,Fatulia,30603,30603052
+1386,Baucau,Venilale,306,Uai Oli,30604,30604012
+1387,Baucau,Venilale,306,Uai Oli,30604,30604032
+1388,Baucau,Venilale,306,Uailaha,30605,30605022
+1389,Baucau,Venilale,306,Uailaha,30605,30605032
+1390,Baucau,Venilale,306,Uailaha,30605,30605042
+1391,Baucau,Venilale,306,Uatu Haco,30606,30606012
+1392,Baucau,Venilale,306,Uatu Haco,30606,30606022
+1393,Baucau,Venilale,306,Uatu Haco,30606,30606032
+1394,Baucau,Venilale,306,Uatu Haco,30606,30606042
+1395,Baucau,Venilale,306,Uatu Haco,30606,30606052
+1396,Baucau,Venilale,306,Uma Ana Ico,30607,30607022
+1397,Baucau,Venilale,306,Uma Ana Ulo,30608,30608012
+1398,Baucau,Venilale,306,Uma Ana Ulo,30608,30608032
+1399,Baucau,Venilale,306,Uma Ana Ulo,30608,30608042
+1400,Baucau,Vemasse,305,Ostico,30504,30504012
+1401,Covalima,Fatululic,501,Taroman,50102,50102022
+1402,Covalima,Fatumean,502,Fatumea,50202,50202032
+1403,Covalima,Fohorem,503,Dato Rua,50301,50301022
+1404,Covalima,Maucatar,504,Ogues,50404,50404042
+1405,Covalima,Suai,505,Beco,50501,50501092
+1406,Covalima,Tilomar,506,Beiseuc,50601,50601052
+1407,Covalima,Zumalai,507,Tashilin,50706,50706042
+1408,Covalima,Tilomar,506,Casabauc,50602,50602032
+1409,Covalima,Tilomar,506,Maudemo,50604,50604052
+1410,Covalima,Tilomar,506,Beiseuc,50601,50601042
+1411,Covalima,Suai,505,Suai Loro,50505,50505062
+1412,Covalima,Suai,505,Debos,50503,50503202
+1413,Covalima,Suai,505,Camenaça,50502,50502062
+1414,Covalima,Suai,505,Labarai,50504,50504072
+1415,Covalima,Maucatar,504,Belecasac,50401,50401022
+1416,Covalima,Maucatar,504,Matai,50403,50403052
+1417,Covalima,Maucatar,504,Holpilat,50402,50402042
+1418,Covalima,Fatululic,501,Fatululic,50101,50101022
+1419,Covalima,Fohorem,503,Fohoren,50304,50304012
+1420,Covalima,Fohorem,503,Dato Tolu,50302,50302032
+1421,Covalima,Fohorem,503,Lactos,50303,50303012
+1422,Covalima,Fatumean,502,Nanu,50203,50203032
+1423,Covalima,Fatumean,502,Belulic Leten,50201,50201042
+1424,Covalima,Zumalai,507,Lepo,50702,50702042
+1425,Covalima,Zumalai,507,Ucecai,50707,50707012
+1426,Covalima,Zumalai,507,Mape,50704,50704012
+1427,Covalima,Zumalai,507,Raimea,50705,50705062
+1428,Covalima,Fatumean,502,Belulic Leten,50201,50201012
+1429,Covalima,Fatumean,502,Belulic Leten,50201,50201022
+1430,Covalima,Fatumean,502,Belulic Leten,50201,50201032
+1431,Covalima,Fatumean,502,Nanu,50203,50203012
+1432,Covalima,Fatumean,502,Nanu,50203,50203022
+1433,Covalima,Fatumean,502,Fatumea,50202,50202012
+1434,Covalima,Fatumean,502,Fatumea,50202,50202022
+1435,Covalima,Fohorem,503,Dato Rua,50301,50301012
+1436,Covalima,Fohorem,503,Fohoren,50304,50304022
+1437,Covalima,Fohorem,503,Fohoren,50304,50304042
+1438,Covalima,Fohorem,503,Fohoren,50304,50304032
+1439,Covalima,Fohorem,503,Lactos,50303,50303022
+1440,Covalima,Fohorem,503,Dato Tolu,50302,50302012
+1441,Covalima,Fohorem,503,Dato Tolu,50302,50302022
+1442,Covalima,Fatululic,501,Fatululic,50101,50101012
+1443,Covalima,Fatululic,501,Fatululic,50101,50101032
+1444,Covalima,Fatululic,501,Taroman,50102,50102012
+1445,Covalima,Fatululic,501,Taroman,50102,50102032
+1446,Covalima,Tilomar,506,Beiseuc,50601,50601012
+1447,Covalima,Tilomar,506,Beiseuc,50601,50601022
+1448,Covalima,Tilomar,506,Beiseuc,50601,50601032
+1449,Covalima,Tilomar,506,Lalawa,50603,50603012
+1450,Covalima,Tilomar,506,Lalawa,50603,50603022
+1451,Covalima,Tilomar,506,Lalawa,50603,50603032
+1452,Covalima,Tilomar,506,Lalawa,50603,50603042
+1453,Covalima,Tilomar,506,Maudemo,50604,50604012
+1454,Covalima,Tilomar,506,Maudemo,50604,50604022
+1455,Covalima,Tilomar,506,Maudemo,50604,50604032
+1456,Covalima,Tilomar,506,Maudemo,50604,50604042
+1457,Covalima,Tilomar,506,Casabauc,50602,50602012
+1458,Covalima,Tilomar,506,Casabauc,50602,50602022
+1459,Covalima,Suai,505,Suai Loro,50505,50505012
+1460,Covalima,Suai,505,Suai Loro,50505,50505022
+1461,Covalima,Suai,505,Suai Loro,50505,50505032
+1462,Covalima,Suai,505,Suai Loro,50505,50505042
+1463,Covalima,Suai,505,Suai Loro,50505,50505052
+1464,Covalima,Suai,505,Suai Loro,50505,50505092
+1465,Covalima,Suai,505,Suai Loro,50505,50505102
+1466,Covalima,Suai,505,Suai Loro,50505,50505072
+1467,Covalima,Suai,505,Suai Loro,50505,50505082
+1468,Covalima,Suai,505,Camenaça,50502,50502012
+1469,Covalima,Suai,505,Camenaça,50502,50502022
+1470,Covalima,Suai,505,Camenaça,50502,50502032
+1471,Covalima,Suai,505,Camenaça,50502,50502042
+1472,Covalima,Suai,505,Camenaça,50502,50502052
+1473,Covalima,Suai,505,Camenaça,50502,50502082
+1474,Covalima,Suai,505,Camenaça,50502,50502072
+1475,Covalima,Suai,505,Debos,50503,50503011
+1476,Covalima,Suai,505,Debos,50503,50503021
+1477,Covalima,Suai,505,Debos,50503,50503031
+1478,Covalima,Suai,505,Debos,50503,50503041
+1479,Covalima,Suai,505,Debos,50503,50503051
+1480,Covalima,Suai,505,Debos,50503,50503061
+1481,Covalima,Suai,505,Debos,50503,50503071
+1482,Covalima,Suai,505,Debos,50503,50503081
+1483,Covalima,Suai,505,Debos,50503,50503091
+1484,Covalima,Suai,505,Debos,50503,50503101
+1485,Covalima,Suai,505,Debos,50503,50503111
+1486,Covalima,Suai,505,Debos,50503,50503122
+1487,Covalima,Suai,505,Debos,50503,50503131
+1488,Covalima,Suai,505,Debos,50503,50503141
+1489,Covalima,Suai,505,Debos,50503,50503151
+1490,Covalima,Suai,505,Debos,50503,50503171
+1491,Covalima,Suai,505,Debos,50503,50503181
+1492,Covalima,Suai,505,Debos,50503,50503192
+1493,Covalima,Maucatar,504,Ogues,50404,50404022
+1494,Covalima,Maucatar,504,Ogues,50404,50404032
+1495,Covalima,Maucatar,504,Belecasac,50401,50401012
+1496,Covalima,Maucatar,504,Belecasac,50401,50401042
+1497,Covalima,Maucatar,504,Belecasac,50401,50401032
+1498,Covalima,Maucatar,504,Holpilat,50402,50402022
+1499,Covalima,Maucatar,504,Holpilat,50402,50402032
+1500,Covalima,Suai,505,Labarai,50504,50504012
+1501,Covalima,Suai,505,Labarai,50504,50504022
+1502,Covalima,Suai,505,Labarai,50504,50504032
+1503,Covalima,Suai,505,Labarai,50504,50504042
+1504,Covalima,Suai,505,Labarai,50504,50504052
+1505,Covalima,Suai,505,Labarai,50504,50504062
+1506,Covalima,Suai,505,Beco,50501,50501022
+1507,Covalima,Suai,505,Beco,50501,50501012
+1508,Covalima,Suai,505,Beco,50501,50501102
+1509,Covalima,Suai,505,Beco,50501,50501032
+1510,Covalima,Suai,505,Beco,50501,50501042
+1511,Covalima,Suai,505,Beco,50501,50501052
+1512,Covalima,Suai,505,Beco,50501,50501072
+1513,Covalima,Suai,505,Beco,50501,50501082
+1514,Covalima,Zumalai,507,Tashilin,50706,50706012
+1515,Covalima,Zumalai,507,Tashilin,50706,50706022
+1516,Covalima,Zumalai,507,Tashilin,50706,50706032
+1517,Covalima,Zumalai,507,Tashilin,50706,50706052
+1518,Covalima,Zumalai,507,Raimea,50705,50705012
+1519,Covalima,Zumalai,507,Raimea,50705,50705022
+1520,Covalima,Zumalai,507,Raimea,50705,50705032
+1521,Covalima,Zumalai,507,Raimea,50705,50705042
+1522,Covalima,Zumalai,507,Raimea,50705,50705052
+1523,Covalima,Zumalai,507,Raimea,50705,50705082
+1524,Covalima,Zumalai,507,Raimea,50705,50705072
+1525,Covalima,Zumalai,507,Zulo,50708,50708012
+1526,Covalima,Zumalai,507,Zulo,50708,50708022
+1527,Covalima,Zumalai,507,Zulo,50708,50708032
+1528,Covalima,Zumalai,507,Zulo,50708,50708042
+1529,Covalima,Zumalai,507,Fatuleto,50701,50701022
+1530,Covalima,Zumalai,507,Lepo,50702,50702012
+1531,Covalima,Zumalai,507,Lepo,50702,50702022
+1532,Covalima,Zumalai,507,Lepo,50702,50702032
+1533,Covalima,Zumalai,507,Lour,50703,50703012
+1534,Covalima,Maucatar,504,Matai,50403,50403012
+1535,Covalima,Maucatar,504,Matai,50403,50403022
+1536,Covalima,Maucatar,504,Matai,50403,50403032
+1537,Covalima,Maucatar,504,Matai,50403,50403042
+1538,Covalima,Maucatar,504,Matai,50403,50403062
+1539,Dili,Atauro,601,Beloi,60101,60101022
+1540,Dili,Dom Aleixo,603,Comoro,60302,60302191
+1541,Dili,Nain Feto,605,Lahane Oriental,60505,60505142
+1542,Dili,Vera Cruz,606,Dare,60603,60603042
+1543,Dili,Atauro,601,Macadade,60103,60103022
+1544,Dili,Dom Aleixo,603,Bairro Pite,60301,60301372
+1545,Dili,Vera Cruz,606,Colmera,60602,60602011
+1546,Dili,Dom Aleixo,603,Fatuhada,60303,60303081
+1547,Dili,Dom Aleixo,603,Kampung Alor,60304,60304041
+1548,Dili,Vera Cruz,606,Caicoli,60601,60601021
+1549,Dili,Vera Cruz,606,Lahane Ocidental,60604,60604072
+1550,Dili,Vera Cruz,606,Vila Verde,60607,60607112
+1551,Dili,Vera Cruz,606,Mascarenhas,60605,60605041
+1552,Dili,Cristo Rei,602,Meti Aut,60207,60207031
+1553,Dili,Cristo Rei,602,Camea,60204,60204212
+1554,Dili,Cristo Rei,602,Bidau Santana,60203,60203101
+1555,Dili,Cristo Rei,602,Becora,60202,60202282
+1556,Dili,Nain Feto,605,Bidau Lecidere,60503,60503011
+1557,Dili,Nain Feto,605,Santa Cruz,60506,60506081
+1558,Dili,Atauro,601,Macadade,60103,60103042
+1559,Dili,Atauro,601,Macadade,60103,60103012
+1560,Dili,Atauro,601,Macadade,60103,60103032
+1561,Dili,Atauro,601,Maquili,60104,60104022
+1562,Dili,Atauro,601,Maquili,60104,60104032
+1563,Dili,Atauro,601,Maquili,60104,60104042
+1564,Dili,Atauro,601,Vila Maumeta,60105,60105022
+1565,Dili,Cristo Rei,602,Balibar,60201,60201012
+1566,Dili,Cristo Rei,602,Balibar,60201,60201022
+1567,Dili,Cristo Rei,602,Becora,60202,60202091
+1568,Dili,Cristo Rei,602,Becora,60202,60202021
+1569,Dili,Cristo Rei,602,Becora,60202,60202011
+1570,Dili,Cristo Rei,602,Becora,60202,60202031
+1571,Dili,Cristo Rei,602,Becora,60202,60202081
+1572,Dili,Cristo Rei,602,Becora,60202,60202121
+1573,Dili,Cristo Rei,602,Becora,60202,60202141
+1574,Dili,Cristo Rei,602,Becora,60202,60202051
+1575,Dili,Cristo Rei,602,Becora,60202,60202041
+1576,Dili,Cristo Rei,602,Becora,60202,60202111
+1577,Dili,Cristo Rei,602,Becora,60202,60202262
+1578,Dili,Cristo Rei,602,Becora,60202,60202252
+1579,Dili,Cristo Rei,602,Becora,60202,60202101
+1580,Dili,Cristo Rei,602,Becora,60202,60202161
+1581,Dili,Cristo Rei,602,Becora,60202,60202201
+1582,Dili,Cristo Rei,602,Becora,60202,60202241
+1583,Dili,Cristo Rei,602,Becora,60202,60202171
+1584,Dili,Cristo Rei,602,Becora,60202,60202151
+1585,Dili,Cristo Rei,602,Becora,60202,60202131
+1586,Dili,Cristo Rei,602,Becora,60202,60202071
+1587,Dili,Cristo Rei,602,Becora,60202,60202271
+1588,Dili,Cristo Rei,602,Becora,60202,60202181
+1589,Dili,Cristo Rei,602,Becora,60202,60202061
+1590,Dili,Cristo Rei,602,Becora,60202,60202292
+1591,Dili,Cristo Rei,602,Becora,60202,60202191
+1592,Dili,Cristo Rei,602,Becora,60202,60202221
+1593,Dili,Cristo Rei,602,Becora,60202,60202211
+1594,Dili,Cristo Rei,602,Becora,60202,60202231
+1595,Dili,Cristo Rei,602,Bidau Santana,60203,60203011
+1596,Dili,Cristo Rei,602,Bidau Santana,60203,60203021
+1597,Dili,Cristo Rei,602,Bidau Santana,60203,60203071
+1598,Dili,Cristo Rei,602,Bidau Santana,60203,60203031
+1599,Dili,Cristo Rei,602,Bidau Santana,60203,60203081
+1600,Dili,Cristo Rei,602,Bidau Santana,60203,60203091
+1601,Dili,Cristo Rei,602,Bidau Santana,60203,60203041
+1602,Dili,Cristo Rei,602,Bidau Santana,60203,60203051
+1603,Dili,Cristo Rei,602,Bidau Santana,60203,60203061
+1604,Dili,Cristo Rei,602,Camea,60204,60204012
+1605,Dili,Cristo Rei,602,Camea,60204,60204021
+1606,Dili,Cristo Rei,602,Camea,60204,60204031
+1607,Dili,Cristo Rei,602,Camea,60204,60204081
+1608,Dili,Cristo Rei,602,Camea,60204,60204091
+1609,Dili,Cristo Rei,602,Camea,60204,60204101
+1610,Dili,Cristo Rei,602,Camea,60204,60204111
+1611,Dili,Cristo Rei,602,Camea,60204,60204051
+1612,Dili,Cristo Rei,602,Camea,60204,60204071
+1613,Dili,Cristo Rei,602,Camea,60204,60204121
+1614,Dili,Cristo Rei,602,Camea,60204,60204061
+1615,Dili,Cristo Rei,602,Camea,60204,60204042
+1616,Dili,Cristo Rei,602,Camea,60204,60204141
+1617,Dili,Cristo Rei,602,Camea,60204,60204172
+1618,Dili,Cristo Rei,602,Camea,60204,60204131
+1619,Dili,Cristo Rei,602,Camea,60204,60204151
+1620,Dili,Cristo Rei,602,Camea,60204,60204161
+1621,Dili,Cristo Rei,602,Camea,60204,60204192
+1622,Dili,Cristo Rei,602,Camea,60204,60204182
+1623,Dili,Cristo Rei,602,Camea,60204,60204202
+1624,Dili,Cristo Rei,602,Culu Hun,60205,60205021
+1625,Dili,Cristo Rei,602,Culu Hun,60205,60205011
+1626,Dili,Cristo Rei,602,Culu Hun,60205,60205041
+1627,Dili,Cristo Rei,602,Culu Hun,60205,60205031
+1628,Dili,Cristo Rei,602,Culu Hun,60205,60205051
+1629,Dili,Cristo Rei,602,Culu Hun,60205,60205071
+1630,Dili,Cristo Rei,602,Hera,60206,60206041
+1631,Dili,Cristo Rei,602,Hera,60206,60206112
+1632,Dili,Cristo Rei,602,Hera,60206,60206012
+1633,Dili,Cristo Rei,602,Hera,60206,60206051
+1634,Dili,Cristo Rei,602,Hera,60206,60206071
+1635,Dili,Cristo Rei,602,Hera,60206,60206081
+1636,Dili,Cristo Rei,602,Hera,60206,60206102
+1637,Dili,Cristo Rei,602,Hera,60206,60206092
+1638,Dili,Cristo Rei,602,Hera,60206,60206061
+1639,Dili,Cristo Rei,602,Hera,60206,60206122
+1640,Dili,Cristo Rei,602,Hera,60206,60206021
+1641,Dili,Cristo Rei,602,Hera,60206,60206031
+1642,Dili,Cristo Rei,602,Meti Aut,60207,60207011
+1643,Dili,Cristo Rei,602,Meti Aut,60207,60207021
+1644,Dili,Dom Aleixo,603,Fatuhada,60303,60303021
+1645,Dili,Dom Aleixo,603,Fatuhada,60303,60303011
+1646,Dili,Dom Aleixo,603,Fatuhada,60303,60303041
+1647,Dili,Nain Feto,605,Acadiru Hun,60501,60501011
+1648,Dili,Nain Feto,605,Acadiru Hun,60501,60501021
+1649,Dili,Nain Feto,605,Bemori,60502,60502051
+1650,Dili,Nain Feto,605,Bemori,60502,60502021
+1651,Dili,Nain Feto,605,Bemori,60502,60502041
+1652,Dili,Nain Feto,605,Bemori,60502,60502031
+1653,Dili,Nain Feto,605,Bidau Lecidere,60503,60503021
+1654,Dili,Nain Feto,605,Gricenfor,60504,60504021
+1655,Dili,Nain Feto,605,Lahane Oriental,60505,60505152
+1656,Dili,Nain Feto,605,Lahane Oriental,60505,60505122
+1657,Dili,Nain Feto,605,Lahane Oriental,60505,60505111
+1658,Dili,Nain Feto,605,Lahane Oriental,60505,60505162
+1659,Dili,Nain Feto,605,Lahane Oriental,60505,60505011
+1660,Dili,Nain Feto,605,Lahane Oriental,60505,60505021
+1661,Dili,Nain Feto,605,Lahane Oriental,60505,60505051
+1662,Dili,Nain Feto,605,Lahane Oriental,60505,60505041
+1663,Dili,Nain Feto,605,Lahane Oriental,60505,60505031
+1664,Dili,Nain Feto,605,Lahane Oriental,60505,60505101
+1665,Dili,Nain Feto,605,Lahane Oriental,60505,60505091
+1666,Dili,Nain Feto,605,Lahane Oriental,60505,60505071
+1667,Dili,Nain Feto,605,Lahane Oriental,60505,60505081
+1668,Dili,Nain Feto,605,Lahane Oriental,60505,60505061
+1669,Dili,Nain Feto,605,Lahane Oriental,60505,60505132
+1670,Dili,Nain Feto,605,Santa Cruz,60506,60506021
+1671,Dili,Nain Feto,605,Santa Cruz,60506,60506011
+1672,Dili,Nain Feto,605,Santa Cruz,60506,60506031
+1673,Dili,Nain Feto,605,Santa Cruz,60506,60506051
+1674,Dili,Nain Feto,605,Santa Cruz,60506,60506061
+1675,Dili,Nain Feto,605,Santa Cruz,60506,60506041
+1676,Dili,Nain Feto,605,Santa Cruz,60506,60506071
+1677,Dili,Vera Cruz,606,Caicoli,60601,60601011
+1678,Dili,Vera Cruz,606,Caicoli,60601,60601031
+1679,Dili,Vera Cruz,606,Caicoli,60601,60601051
+1680,Dili,Vera Cruz,606,Caicoli,60601,60601041
+1681,Dili,Vera Cruz,606,Colmera,60602,60602021
+1682,Dili,Vera Cruz,606,Dare,60603,60603032
+1683,Dili,Vera Cruz,606,Dare,60603,60603012
+1684,Dili,Vera Cruz,606,Dare,60603,60603062
+1685,Dili,Vera Cruz,606,Dare,60603,60603052
+1686,Dili,Vera Cruz,606,Dare,60603,60603022
+1687,Dili,Vera Cruz,606,Lahane Ocidental,60604,60604021
+1688,Dili,Vera Cruz,606,Lahane Ocidental,60604,60604051
+1689,Dili,Vera Cruz,606,Lahane Ocidental,60604,60604061
+1690,Dili,Vera Cruz,606,Lahane Ocidental,60604,60604082
+1691,Dili,Vera Cruz,606,Lahane Ocidental,60604,60604041
+1692,Dili,Vera Cruz,606,Lahane Ocidental,60604,60604011
+1693,Dili,Vera Cruz,606,Lahane Ocidental,60604,60604031
+1694,Dili,Vera Cruz,606,Mascarenhas,60605,60605021
+1695,Dili,Vera Cruz,606,Mascarenhas,60605,60605051
+1696,Dili,Vera Cruz,606,Mascarenhas,60605,60605061
+1697,Dili,Vera Cruz,606,Mascarenhas,60605,60605031
+1698,Dili,Vera Cruz,606,Mascarenhas,60605,60605011
+1699,Dili,Vera Cruz,606,Motael,60606,60606021
+1700,Dili,Vera Cruz,606,Motael,60606,60606031
+1701,Dili,Vera Cruz,606,Motael,60606,60606041
+1702,Dili,Vera Cruz,606,Vila Verde,60607,60607011
+1703,Dili,Vera Cruz,606,Vila Verde,60607,60607021
+1704,Dili,Vera Cruz,606,Vila Verde,60607,60607031
+1705,Dili,Vera Cruz,606,Vila Verde,60607,60607041
+1706,Dili,Vera Cruz,606,Vila Verde,60607,60607051
+1707,Dili,Vera Cruz,606,Vila Verde,60607,60607061
+1708,Dili,Vera Cruz,606,Vila Verde,60607,60607071
+1709,Dili,Vera Cruz,606,Vila Verde,60607,60607081
+1710,Dili,Vera Cruz,606,Vila Verde,60607,60607091
+1711,Dili,Vera Cruz,606,Vila Verde,60607,60607101
+1712,Dili,Dom Aleixo,603,Comoro,60302,60302641
+1713,Dili,Dom Aleixo,603,Comoro,60302,60302021
+1714,Dili,Dom Aleixo,603,Comoro,60302,60302041
+1715,Dili,Dom Aleixo,603,Comoro,60302,60302061
+1716,Dili,Dom Aleixo,603,Comoro,60302,60302071
+1717,Dili,Dom Aleixo,603,Comoro,60302,60302081
+1718,Dili,Dom Aleixo,603,Comoro,60302,60302301
+1719,Dili,Dom Aleixo,603,Comoro,60302,60302131
+1720,Dili,Dom Aleixo,603,Comoro,60302,60302141
+1721,Dili,Dom Aleixo,603,Comoro,60302,60302151
+1722,Dili,Dom Aleixo,603,Comoro,60302,60302231
+1723,Dili,Dom Aleixo,603,Comoro,60302,60302281
+1724,Dili,Dom Aleixo,603,Comoro,60302,60302291
+1725,Dili,Dom Aleixo,603,Comoro,60302,60302271
+1726,Dili,Dom Aleixo,603,Comoro,60302,60302221
+1727,Dili,Dom Aleixo,603,Comoro,60302,60302211
+1728,Dili,Dom Aleixo,603,Comoro,60302,60302241
+1729,Dili,Dom Aleixo,603,Comoro,60302,60302251
+1730,Dili,Dom Aleixo,603,Comoro,60302,60302261
+1731,Dili,Dom Aleixo,603,Comoro,60302,60302011
+1732,Dili,Dom Aleixo,603,Comoro,60302,60302031
+1733,Dili,Dom Aleixo,603,Comoro,60302,60302201
+1734,Dili,Dom Aleixo,603,Comoro,60302,60302101
+1735,Dili,Dom Aleixo,603,Comoro,60302,60302091
+1736,Dili,Dom Aleixo,603,Comoro,60302,60302051
+1737,Dili,Dom Aleixo,603,Comoro,60302,60302531
+1738,Dili,Dom Aleixo,603,Comoro,60302,60302111
+1739,Dili,Dom Aleixo,603,Comoro,60302,60302121
+1740,Dili,Dom Aleixo,603,Comoro,60302,60302161
+1741,Dili,Dom Aleixo,603,Comoro,60302,60302171
+1742,Dili,Dom Aleixo,603,Comoro,60302,60302181
+1743,Dili,Dom Aleixo,603,Comoro,60302,60302491
+1744,Dili,Dom Aleixo,603,Comoro,60302,60302481
+1745,Dili,Dom Aleixo,603,Comoro,60302,60302501
+1746,Dili,Dom Aleixo,603,Comoro,60302,60302521
+1747,Dili,Dom Aleixo,603,Comoro,60302,60302511
+1748,Dili,Dom Aleixo,603,Comoro,60302,60302471
+1749,Dili,Dom Aleixo,603,Comoro,60302,60302381
+1750,Dili,Dom Aleixo,603,Comoro,60302,60302421
+1751,Dili,Dom Aleixo,603,Comoro,60302,60302411
+1752,Dili,Dom Aleixo,603,Comoro,60302,60302311
+1753,Dili,Dom Aleixo,603,Comoro,60302,60302351
+1754,Dili,Dom Aleixo,603,Comoro,60302,60302401
+1755,Dili,Dom Aleixo,603,Comoro,60302,60302361
+1756,Dili,Dom Aleixo,603,Comoro,60302,60302321
+1757,Dili,Dom Aleixo,603,Comoro,60302,60302341
+1758,Dili,Dom Aleixo,603,Comoro,60302,60302331
+1759,Dili,Dom Aleixo,603,Comoro,60302,60302371
+1760,Dili,Dom Aleixo,603,Comoro,60302,60302431
+1761,Dili,Dom Aleixo,603,Comoro,60302,60302391
+1762,Dili,Dom Aleixo,603,Comoro,60302,60302551
+1763,Dili,Dom Aleixo,603,Comoro,60302,60302541
+1764,Dili,Dom Aleixo,603,Comoro,60302,60302461
+1765,Dili,Dom Aleixo,603,Comoro,60302,60302441
+1766,Dili,Dom Aleixo,603,Comoro,60302,60302451
+1767,Dili,Dom Aleixo,603,Comoro,60302,60302561
+1768,Dili,Dom Aleixo,603,Comoro,60302,60302581
+1769,Dili,Dom Aleixo,603,Comoro,60302,60302571
+1770,Dili,Dom Aleixo,603,Comoro,60302,60302591
+1771,Dili,Dom Aleixo,603,Comoro,60302,60302611
+1772,Dili,Dom Aleixo,603,Comoro,60302,60302601
+1773,Dili,Dom Aleixo,603,Comoro,60302,60302631
+1774,Dili,Dom Aleixo,603,Comoro,60302,60302621
+1775,Dili,Dom Aleixo,603,Comoro,60302,60302651
+1776,Dili,Dom Aleixo,603,Comoro,60302,60302661
+1777,Dili,Dom Aleixo,603,Comoro,60302,60302671
+1778,Dili,Dom Aleixo,603,Bairro Pite,60301,60301081
+1779,Dili,Dom Aleixo,603,Bairro Pite,60301,60301031
+1780,Dili,Dom Aleixo,603,Bairro Pite,60301,60301021
+1781,Dili,Dom Aleixo,603,Bairro Pite,60301,60301011
+1782,Dili,Dom Aleixo,603,Bairro Pite,60301,60301041
+1783,Dili,Dom Aleixo,603,Bairro Pite,60301,60301051
+1784,Dili,Dom Aleixo,603,Bairro Pite,60301,60301061
+1785,Dili,Dom Aleixo,603,Bairro Pite,60301,60301101
+1786,Dili,Dom Aleixo,603,Bairro Pite,60301,60301071
+1787,Dili,Dom Aleixo,603,Bairro Pite,60301,60301091
+1788,Dili,Dom Aleixo,603,Bairro Pite,60301,60301411
+1789,Dili,Dom Aleixo,603,Bairro Pite,60301,60301401
+1790,Dili,Dom Aleixo,603,Bairro Pite,60301,60301421
+1791,Dili,Dom Aleixo,603,Bairro Pite,60301,60301391
+1792,Dili,Dom Aleixo,603,Bairro Pite,60301,60301381
+1793,Dili,Dom Aleixo,603,Bairro Pite,60301,60301281
+1794,Dili,Dom Aleixo,603,Bairro Pite,60301,60301301
+1795,Dili,Dom Aleixo,603,Bairro Pite,60301,60301221
+1796,Dili,Dom Aleixo,603,Bairro Pite,60301,60301111
+1797,Dili,Dom Aleixo,603,Bairro Pite,60301,60301261
+1798,Dili,Dom Aleixo,603,Bairro Pite,60301,60301241
+1799,Dili,Dom Aleixo,603,Bairro Pite,60301,60301121
+1800,Dili,Dom Aleixo,603,Bairro Pite,60301,60301271
+1801,Dili,Dom Aleixo,603,Bairro Pite,60301,60301291
+1802,Dili,Dom Aleixo,603,Bairro Pite,60301,60301311
+1803,Dili,Dom Aleixo,603,Bairro Pite,60301,60301341
+1804,Dili,Dom Aleixo,603,Bairro Pite,60301,60301351
+1805,Dili,Dom Aleixo,603,Bairro Pite,60301,60301331
+1806,Dili,Dom Aleixo,603,Bairro Pite,60301,60301361
+1807,Dili,Dom Aleixo,603,Bairro Pite,60301,60301321
+1808,Dili,Dom Aleixo,603,Bairro Pite,60301,60301181
+1809,Dili,Dom Aleixo,603,Bairro Pite,60301,60301191
+1810,Dili,Dom Aleixo,603,Bairro Pite,60301,60301141
+1811,Dili,Dom Aleixo,603,Bairro Pite,60301,60301131
+1812,Dili,Dom Aleixo,603,Bairro Pite,60301,60301151
+1813,Dili,Dom Aleixo,603,Bairro Pite,60301,60301171
+1814,Dili,Dom Aleixo,603,Bairro Pite,60301,60301201
+1815,Dili,Dom Aleixo,603,Bairro Pite,60301,60301251
+1816,Dili,Dom Aleixo,603,Bairro Pite,60301,60301161
+1817,Dili,Dom Aleixo,603,Bairro Pite,60301,60301231
+1818,Dili,Dom Aleixo,603,Bairro Pite,60301,60301211
+1819,Ermera,Atsabe,701,Paramin,70111,70111042
+1820,Ermera,Ermera,702,Riheu,70209,70209042
+1821,Ermera,Hatulia,703,Hatolia Vila,70306,70306062
+1822,Ermera,Letefoho,704,Ducurai,70402,70402022
+1823,Ermera,Railaco,705,Railaco Leten,70506,70506042
+1824,Ermera,Railaco,705,Matata,70504,70504032
+1825,Ermera,Railaco,705,Tocoluli,70509,70509012
+1826,Ermera,Railaco,705,Fatuquero,70502,70502052
+1827,Ermera,Railaco,705,Liho,70503,70503032
+1828,Ermera,Railaco,705,Railaco Craic,70505,70505012
+1829,Ermera,Railaco,705,Taraco,70508,70508012
+1830,Ermera,Railaco,705,Samalete,70507,70507012
+1831,Ermera,Railaco,705,Deleso,70501,70501012
+1832,Ermera,Letefoho,704,Lauana,70408,70408012
+1833,Ermera,Letefoho,704,Catraileten,70401,70401022
+1834,Ermera,Letefoho,704,Catrai Caraic,70407,70407032
+1835,Ermera,Letefoho,704,Hatugau,70405,70405022
+1836,Ermera,Letefoho,704,Haupu,70406,70406052
+1837,Ermera,Letefoho,704,Goulolo,70404,70404032
+1838,Ermera,Letefoho,704,Eraulo,70403,70403042
+1839,Ermera,Hatulia,703,Leimea-Craic,70307,70307022
+1840,Ermera,Hatulia,703,Leimea-Sorinbalo,70308,70308022
+1841,Ermera,Hatulia,703,Urahou,70313,70313012
+1842,Ermera,Hatulia,703,Mau-Ubo,70311,70311022
+1843,Ermera,Hatulia,703,Lisapat,70309,70309032
+1844,Ermera,Hatulia,703,Aculau,70301,70301052
+1845,Ermera,Hatulia,703,Fatubessi,70304,70304092
+1846,Ermera,Hatulia,703,Fatubolo,70305,70305062
+1847,Ermera,Hatulia,703,Coliate-Leotelo,70303,70303082
+1848,Ermera,Hatulia,703,Ailelo,70302,70302032
+1849,Ermera,Hatulia,703,Samara,70312,70312012
+1850,Ermera,Ermera,702,Ponilala,70207,70207032
+1851,Ermera,Ermera,702,Poetete,70206,70206032
+1852,Ermera,Ermera,702,Raimerhei,70208,70208052
+1853,Ermera,Ermera,702,Mertuto,70205,70205041
+1854,Ermera,Ermera,702,Leguimea,70204,70204052
+1855,Ermera,Ermera,702,Estado,70201,70201032
+1856,Ermera,Ermera,702,Lauala,70203,70203032
+1857,Ermera,Ermera,702,Humboe,70202,70202022
+1858,Ermera,Atsabe,701,Obulo,70110,70110012
+1859,Ermera,Atsabe,701,Lacao,70105,70105052
+1860,Ermera,Atsabe,701,Laubono,70107,70107032
+1861,Ermera,Atsabe,701,Batu Mano,70104,70104012
+1862,Ermera,Atsabe,701,Atara,70101,70101052
+1863,Ermera,Atsabe,701,Leimea Leten,70108,70108022
+1864,Ermera,Atsabe,701,Tiarlelo,70112,70112012
+1865,Ermera,Atsabe,701,Malabe,70109,70109012
+1866,Ermera,Atsabe,701,Baboi Leten,70103,70103052
+1867,Ermera,Atsabe,701,Baboi Craic,70102,70102012
+1868,Ermera,Atsabe,701,Laclo,70106,70106042
+1869,Ermera,Atsabe,701,Atara,70101,70101012
+1870,Ermera,Atsabe,701,Atara,70101,70101022
+1871,Ermera,Atsabe,701,Atara,70101,70101032
+1872,Ermera,Atsabe,701,Atara,70101,70101042
+1873,Ermera,Atsabe,701,Baboi Craic,70102,70102042
+1874,Ermera,Atsabe,701,Baboi Craic,70102,70102032
+1875,Ermera,Atsabe,701,Baboi Craic,70102,70102022
+1876,Ermera,Atsabe,701,Baboi Leten,70103,70103062
+1877,Ermera,Atsabe,701,Baboi Leten,70103,70103042
+1878,Ermera,Atsabe,701,Baboi Leten,70103,70103032
+1879,Ermera,Atsabe,701,Baboi Leten,70103,70103022
+1880,Ermera,Atsabe,701,Baboi Leten,70103,70103012
+1881,Ermera,Atsabe,701,Batu Mano,70104,70104022
+1882,Ermera,Atsabe,701,Batu Mano,70104,70104032
+1883,Ermera,Atsabe,701,Lacao,70105,70105022
+1884,Ermera,Atsabe,701,Lacao,70105,70105032
+1885,Ermera,Atsabe,701,Lacao,70105,70105042
+1886,Ermera,Atsabe,701,Lacao,70105,70105012
+1887,Ermera,Atsabe,701,Laclo,70106,70106012
+1888,Ermera,Atsabe,701,Laclo,70106,70106022
+1889,Ermera,Atsabe,701,Laclo,70106,70106032
+1890,Ermera,Atsabe,701,Laclo,70106,70106052
+1891,Ermera,Atsabe,701,Laubono,70107,70107012
+1892,Ermera,Atsabe,701,Laubono,70107,70107022
+1893,Ermera,Atsabe,701,Leimea Leten,70108,70108012
+1894,Ermera,Atsabe,701,Leimea Leten,70108,70108032
+1895,Ermera,Atsabe,701,Leimea Leten,70108,70108042
+1896,Ermera,Atsabe,701,Leimea Leten,70108,70108052
+1897,Ermera,Atsabe,701,Malabe,70109,70109022
+1898,Ermera,Atsabe,701,Obulo,70110,70110022
+1899,Ermera,Atsabe,701,Paramin,70111,70111012
+1900,Ermera,Atsabe,701,Paramin,70111,70111022
+1901,Ermera,Atsabe,701,Paramin,70111,70111032
+1902,Ermera,Ermera,702,Estado,70201,70201022
+1903,Ermera,Ermera,702,Estado,70201,70201012
+1904,Ermera,Ermera,702,Estado,70201,70201052
+1905,Ermera,Ermera,702,Estado,70201,70201042
+1906,Ermera,Ermera,702,Humboe,70202,70202012
+1907,Ermera,Ermera,702,Humboe,70202,70202032
+1908,Ermera,Ermera,702,Lauala,70203,70203012
+1909,Ermera,Ermera,702,Lauala,70203,70203022
+1910,Ermera,Ermera,702,Lauala,70203,70203042
+1911,Ermera,Ermera,702,Leguimea,70204,70204012
+1912,Ermera,Ermera,702,Leguimea,70204,70204022
+1913,Ermera,Ermera,702,Leguimea,70204,70204032
+1914,Ermera,Ermera,702,Leguimea,70204,70204042
+1915,Ermera,Ermera,702,Mertuto,70205,70205012
+1916,Ermera,Ermera,702,Mertuto,70205,70205022
+1917,Ermera,Ermera,702,Mertuto,70205,70205032
+1918,Ermera,Ermera,702,Poetete,70206,70206012
+1919,Ermera,Ermera,702,Poetete,70206,70206022
+1920,Ermera,Ermera,702,Poetete,70206,70206042
+1921,Ermera,Ermera,702,Poetete,70206,70206052
+1922,Ermera,Ermera,702,Poetete,70206,70206062
+1923,Ermera,Ermera,702,Poetete,70206,70206072
+1924,Ermera,Ermera,702,Poetete,70206,70206152
+1925,Ermera,Ermera,702,Poetete,70206,70206082
+1926,Ermera,Ermera,702,Poetete,70206,70206092
+1927,Ermera,Ermera,702,Poetete,70206,70206102
+1928,Ermera,Ermera,702,Poetete,70206,70206111
+1929,Ermera,Ermera,702,Poetete,70206,70206121
+1930,Ermera,Ermera,702,Poetete,70206,70206131
+1931,Ermera,Ermera,702,Poetete,70206,70206141
+1932,Ermera,Ermera,702,Ponilala,70207,70207012
+1933,Ermera,Ermera,702,Ponilala,70207,70207022
+1934,Ermera,Ermera,702,Ponilala,70207,70207042
+1935,Ermera,Ermera,702,Ponilala,70207,70207052
+1936,Ermera,Ermera,702,Ponilala,70207,70207062
+1937,Ermera,Ermera,702,Raimerhei,70208,70208012
+1938,Ermera,Ermera,702,Raimerhei,70208,70208022
+1939,Ermera,Ermera,702,Raimerhei,70208,70208032
+1940,Ermera,Ermera,702,Raimerhei,70208,70208042
+1941,Ermera,Ermera,702,Riheu,70209,70209011
+1942,Ermera,Ermera,702,Riheu,70209,70209021
+1943,Ermera,Ermera,702,Riheu,70209,70209032
+1944,Ermera,Ermera,702,Riheu,70209,70209052
+1945,Ermera,Ermera,702,Riheu,70209,70209062
+1946,Ermera,Ermera,702,Talimoro,70210,70210011
+1947,Ermera,Ermera,702,Talimoro,70210,70210051
+1948,Ermera,Ermera,702,Talimoro,70210,70210041
+1949,Ermera,Ermera,702,Talimoro,70210,70210031
+1950,Ermera,Ermera,702,Talimoro,70210,70210021
+1951,Ermera,Ermera,702,Talimoro,70210,70210082
+1952,Ermera,Ermera,702,Talimoro,70210,70210062
+1953,Ermera,Ermera,702,Talimoro,70210,70210092
+1954,Ermera,Ermera,702,Talimoro,70210,70210072
+1955,Ermera,Hatulia,703,Aculau,70301,70301012
+1956,Ermera,Hatulia,703,Aculau,70301,70301022
+1957,Ermera,Hatulia,703,Aculau,70301,70301032
+1958,Ermera,Hatulia,703,Aculau,70301,70301042
+1959,Ermera,Hatulia,703,Aculau,70301,70301062
+1960,Ermera,Hatulia,703,Fatubessi,70304,70304062
+1961,Ermera,Hatulia,703,Fatubessi,70304,70304052
+1962,Ermera,Hatulia,703,Fatubessi,70304,70304072
+1963,Ermera,Hatulia,703,Fatubessi,70304,70304082
+1964,Ermera,Hatulia,703,Fatubolo,70305,70305042
+1965,Ermera,Hatulia,703,Fatubolo,70305,70305092
+1966,Ermera,Hatulia,703,Fatubolo,70305,70305032
+1967,Ermera,Hatulia,703,Fatubolo,70305,70305012
+1968,Ermera,Hatulia,703,Fatubolo,70305,70305022
+1969,Ermera,Hatulia,703,Fatubolo,70305,70305052
+1970,Ermera,Hatulia,703,Fatubolo,70305,70305072
+1971,Ermera,Hatulia,703,Fatubolo,70305,70305082
+1972,Ermera,Hatulia,703,Hatolia Vila,70306,70306012
+1973,Ermera,Hatulia,703,Hatolia Vila,70306,70306022
+1974,Ermera,Hatulia,703,Hatolia Vila,70306,70306032
+1975,Ermera,Hatulia,703,Hatolia Vila,70306,70306042
+1976,Ermera,Hatulia,703,Hatolia Vila,70306,70306052
+1977,Ermera,Hatulia,703,Leimea-Craic,70307,70307012
+1978,Ermera,Hatulia,703,Leimea-Craic,70307,70307032
+1979,Ermera,Hatulia,703,Leimea-Craic,70307,70307042
+1980,Ermera,Hatulia,703,Leimea-Sorinbalo,70308,70308012
+1981,Ermera,Hatulia,703,Lisapat,70309,70309012
+1982,Ermera,Hatulia,703,Lisapat,70309,70309022
+1983,Ermera,Hatulia,703,Lisapat,70309,70309042
+1984,Ermera,Hatulia,703,Lisapat,70309,70309052
+1985,Ermera,Hatulia,703,Manusae,70310,70310022
+1986,Ermera,Hatulia,703,Manusae,70310,70310042
+1987,Ermera,Hatulia,703,Manusae,70310,70310032
+1988,Ermera,Hatulia,703,Manusae,70310,70310012
+1989,Ermera,Hatulia,703,Manusae,70310,70310052
+1990,Ermera,Hatulia,703,Manusae,70310,70310062
+1991,Ermera,Hatulia,703,Manusae,70310,70310072
+1992,Ermera,Hatulia,703,Manusae,70310,70310082
+1993,Ermera,Hatulia,703,Mau-Ubo,70311,70311012
+1994,Ermera,Hatulia,703,Mau-Ubo,70311,70311032
+1995,Ermera,Hatulia,703,Mau-Ubo,70311,70311042
+1996,Ermera,Hatulia,703,Mau-Ubo,70311,70311052
+1997,Ermera,Hatulia,703,Mau-Ubo,70311,70311062
+1998,Ermera,Hatulia,703,Urahou,70313,70313022
+1999,Ermera,Hatulia,703,Urahou,70313,70313032
+2000,Ermera,Hatulia,703,Urahou,70313,70313042
+2001,Ermera,Hatulia,703,Urahou,70313,70313052
+2002,Ermera,Hatulia,703,Urahou,70313,70313062
+2003,Ermera,Hatulia,703,Urahou,70313,70313072
+2004,Ermera,Hatulia,703,Urahou,70313,70313082
+2005,Ermera,Letefoho,704,Catraileten,70401,70401012
+2006,Ermera,Letefoho,704,Catraileten,70401,70401032
+2007,Ermera,Letefoho,704,Catraileten,70401,70401042
+2008,Ermera,Letefoho,704,Catraileten,70401,70401052
+2009,Ermera,Letefoho,704,Catraileten,70401,70401062
+2010,Ermera,Letefoho,704,Catraileten,70401,70401072
+2011,Ermera,Letefoho,704,Goulolo,70404,70404012
+2012,Ermera,Letefoho,704,Goulolo,70404,70404022
+2013,Ermera,Letefoho,704,Hatugau,70405,70405012
+2014,Ermera,Letefoho,704,Hatugau,70405,70405032
+2015,Ermera,Letefoho,704,Hatugau,70405,70405042
+2016,Ermera,Letefoho,704,Hatugau,70405,70405052
+2017,Ermera,Letefoho,704,Haupu,70406,70406092
+2018,Ermera,Letefoho,704,Haupu,70406,70406102
+2019,Ermera,Letefoho,704,Haupu,70406,70406082
+2020,Ermera,Letefoho,704,Haupu,70406,70406072
+2021,Ermera,Letefoho,704,Haupu,70406,70406012
+2022,Ermera,Letefoho,704,Haupu,70406,70406022
+2023,Ermera,Letefoho,704,Haupu,70406,70406032
+2024,Ermera,Letefoho,704,Haupu,70406,70406042
+2025,Ermera,Letefoho,704,Haupu,70406,70406062
+2026,Ermera,Letefoho,704,Haupu,70406,70406112
+2027,Ermera,Letefoho,704,Catrai Caraic,70407,70407012
+2028,Ermera,Letefoho,704,Catrai Caraic,70407,70407022
+2029,Ermera,Letefoho,704,Catrai Caraic,70407,70407042
+2030,Ermera,Letefoho,704,Catrai Caraic,70407,70407052
+2031,Ermera,Letefoho,704,Catrai Caraic,70407,70407062
+2032,Ermera,Letefoho,704,Catrai Caraic,70407,70407072
+2033,Ermera,Letefoho,704,Lauana,70408,70408022
+2034,Ermera,Letefoho,704,Lauana,70408,70408032
+2035,Ermera,Letefoho,704,Lauana,70408,70408042
+2036,Ermera,Letefoho,704,Lauana,70408,70408052
+2037,Ermera,Letefoho,704,Lauana,70408,70408062
+2038,Ermera,Railaco,705,Fatuquero,70502,70502011
+2039,Ermera,Railaco,705,Fatuquero,70502,70502022
+2040,Ermera,Railaco,705,Fatuquero,70502,70502032
+2041,Ermera,Railaco,705,Fatuquero,70502,70502042
+2042,Ermera,Railaco,705,Liho,70503,70503042
+2043,Ermera,Railaco,705,Liho,70503,70503012
+2044,Ermera,Railaco,705,Liho,70503,70503022
+2045,Ermera,Railaco,705,Matata,70504,70504012
+2046,Ermera,Railaco,705,Matata,70504,70504022
+2047,Ermera,Railaco,705,Railaco Craic,70505,70505022
+2048,Ermera,Railaco,705,Railaco Craic,70505,70505032
+2049,Ermera,Railaco,705,Railaco Leten,70506,70506012
+2050,Ermera,Railaco,705,Railaco Leten,70506,70506022
+2051,Ermera,Railaco,705,Railaco Leten,70506,70506032
+2052,Ermera,Railaco,705,Samalete,70507,70507022
+2053,Ermera,Railaco,705,Tocoluli,70509,70509022
+2054,Ermera,Railaco,705,Tocoluli,70509,70509032
+2055,Lautém,Tutuala,805,Mehara,80501,80501052
+2056,Lautém,Lautém,802,Ililai,80205,80205022
+2057,Lautém,Lospalos,803,Fuiloro,80303,80303291
+2058,Lautém,Luro,804,Luro,80405,80405022
+2059,Lautém,Lospalos,803,Lore 1,80306,80306072
+2060,Lautém,Lospalos,803,Cacavei,80302,80302012
+2061,Lautém,Lospalos,803,Leuro,80305,80305022
+2062,Lautém,Lospalos,803,Souro,80310,80310032
+2063,Lautém,Lospalos,803,Lore 2,80307,80307012
+2064,Lautém,Lospalos,803,Muapitine,80308,80308032
+2065,Lautém,Lospalos,803,Home,80304,80304032
+2066,Lautém,Lospalos,803,Raça,80309,80309022
+2067,Lautém,Lospalos,803,Bauro,80301,80301062
+2068,Lautém,Lautém,802,Com,80202,80202022
+2069,Lautém,Lautém,802,Parlamento,80209,80209052
+2070,Lautém,Lautém,802,Pairara,80208,80208022
+2071,Lautém,Lautém,802,Maina 1,80206,80206032
+2072,Lautém,Lautém,802,Baduro,80201,80201032
+2073,Lautém,Lautém,802,Maina 2,80207,80207052
+2074,Lautém,Lautém,802,Serelau,80210,80210032
+2075,Lautém,Lautém,802,Daudere,80203,80203062
+2076,Lautém,Lautém,802,Euquisi,80204,80204022
+2077,Lautém,Luro,804,Afabubu,80401,80401012
+2078,Lautém,Luro,804,Lacawa,80404,80404032
+2079,Lautém,Luro,804,Cotamutu,80403,80403052
+2080,Lautém,Luro,804,Baricafa,80402,80402022
+2081,Lautém,Iliomar,801,Iliomar 1,80104,80104012
+2082,Lautém,Iliomar,801,Iliomar 2,80105,80105022
+2083,Lautém,Iliomar,801,Aelebere,80101,80101012
+2084,Lautém,Iliomar,801,Caenlio,80102,80102022
+2085,Lautém,Iliomar,801,Fuat,80103,80103022
+2086,Lautém,Iliomar,801,Tirilolo,80106,80106042
+2087,Lautém,Tutuala,805,Tutuala,80502,80502012
+2088,Lautém,Tutuala,805,Tutuala,80502,80502022
+2089,Lautém,Tutuala,805,Tutuala,80502,80502032
+2090,Lautém,Tutuala,805,Tutuala,80502,80502042
+2091,Lautém,Tutuala,805,Tutuala,80502,80502062
+2092,Lautém,Lospalos,803,Muapitine,80308,80308042
+2093,Lautém,Tutuala,805,Mehara,80501,80501012
+2094,Lautém,Tutuala,805,Mehara,80501,80501022
+2095,Lautém,Tutuala,805,Mehara,80501,80501032
+2096,Lautém,Tutuala,805,Mehara,80501,80501042
+2097,Lautém,Lospalos,803,Bauro,80301,80301012
+2098,Lautém,Lospalos,803,Bauro,80301,80301022
+2099,Lautém,Lospalos,803,Bauro,80301,80301032
+2100,Lautém,Lospalos,803,Bauro,80301,80301042
+2101,Lautém,Lospalos,803,Bauro,80301,80301052
+2102,Lautém,Lautém,802,Com,80202,80202012
+2103,Lautém,Lautém,802,Com,80202,80202052
+2104,Lautém,Lautém,802,Com,80202,80202032
+2105,Lautém,Lautém,802,Com,80202,80202042
+2106,Lautém,Lautém,802,Parlamento,80209,80209012
+2107,Lautém,Lautém,802,Parlamento,80209,80209022
+2108,Lautém,Lautém,802,Parlamento,80209,80209032
+2109,Lautém,Lautém,802,Parlamento,80209,80209042
+2110,Lautém,Lautém,802,Parlamento,80209,80209062
+2111,Lautém,Lautém,802,Pairara,80208,80208012
+2112,Lautém,Lautém,802,Pairara,80208,80208032
+2113,Lautém,Lautém,802,Maina 1,80206,80206012
+2114,Lautém,Lautém,802,Maina 1,80206,80206022
+2115,Lautém,Lautém,802,Baduro,80201,80201012
+2116,Lautém,Lautém,802,Baduro,80201,80201022
+2117,Lautém,Lautém,802,Serelau,80210,80210012
+2118,Lautém,Lautém,802,Serelau,80210,80210022
+2119,Lautém,Lautém,802,Serelau,80210,80210042
+2120,Lautém,Lautém,802,Daudere,80203,80203012
+2121,Lautém,Lautém,802,Daudere,80203,80203032
+2122,Lautém,Lautém,802,Daudere,80203,80203022
+2123,Lautém,Lautém,802,Daudere,80203,80203042
+2124,Lautém,Lautém,802,Daudere,80203,80203052
+2125,Lautém,Lautém,802,Euquisi,80204,80204012
+2126,Lautém,Lautém,802,Euquisi,80204,80204032
+2127,Lautém,Lautém,802,Maina 2,80207,80207012
+2128,Lautém,Lautém,802,Maina 2,80207,80207022
+2129,Lautém,Lautém,802,Maina 2,80207,80207032
+2130,Lautém,Lautém,802,Maina 2,80207,80207042
+2131,Lautém,Lautém,802,Maina 2,80207,80207062
+2132,Lautém,Lautém,802,Ililai,80205,80205012
+2133,Lautém,Lautém,802,Ililai,80205,80205032
+2134,Lautém,Lospalos,803,Fuiloro,80303,80303012
+2135,Lautém,Lospalos,803,Fuiloro,80303,80303022
+2136,Lautém,Lospalos,803,Fuiloro,80303,80303032
+2137,Lautém,Lospalos,803,Fuiloro,80303,80303042
+2138,Lautém,Lospalos,803,Fuiloro,80303,80303052
+2139,Lautém,Lospalos,803,Fuiloro,80303,80303062
+2140,Lautém,Lospalos,803,Fuiloro,80303,80303072
+2141,Lautém,Lospalos,803,Fuiloro,80303,80303081
+2142,Lautém,Lospalos,803,Fuiloro,80303,80303091
+2143,Lautém,Lospalos,803,Fuiloro,80303,80303101
+2144,Lautém,Lospalos,803,Fuiloro,80303,80303111
+2145,Lautém,Lospalos,803,Fuiloro,80303,80303121
+2146,Lautém,Lospalos,803,Fuiloro,80303,80303131
+2147,Lautém,Lospalos,803,Fuiloro,80303,80303141
+2148,Lautém,Lospalos,803,Fuiloro,80303,80303151
+2149,Lautém,Lospalos,803,Fuiloro,80303,80303161
+2150,Lautém,Lospalos,803,Lore 2,80307,80307042
+2151,Lautém,Luro,804,Lacawa,80404,80404012
+2152,Lautém,Luro,804,Lacawa,80404,80404022
+2153,Lautém,Luro,804,Baricafa,80402,80402012
+2154,Lautém,Luro,804,Luro,80405,80405012
+2155,Lautém,Luro,804,Luro,80405,80405032
+2156,Lautém,Lospalos,803,Muapitine,80308,80308012
+2157,Lautém,Lospalos,803,Muapitine,80308,80308022
+2158,Lautém,Lospalos,803,Lore 2,80307,80307022
+2159,Lautém,Lospalos,803,Souro,80310,80310012
+2160,Lautém,Lospalos,803,Souro,80310,80310022
+2161,Lautém,Lospalos,803,Souro,80310,80310042
+2162,Lautém,Lospalos,803,Raça,80309,80309012
+2163,Lautém,Lospalos,803,Lore 1,80306,80306012
+2164,Lautém,Lospalos,803,Lore 1,80306,80306022
+2165,Lautém,Lospalos,803,Lore 1,80306,80306032
+2166,Lautém,Lospalos,803,Lore 1,80306,80306042
+2167,Lautém,Lospalos,803,Lore 1,80306,80306052
+2168,Lautém,Lospalos,803,Lore 1,80306,80306062
+2169,Lautém,Lospalos,803,Cacavei,80302,80302032
+2170,Lautém,Lospalos,803,Cacavei,80302,80302022
+2171,Lautém,Lospalos,803,Home,80304,80304012
+2172,Lautém,Lospalos,803,Home,80304,80304022
+2173,Lautém,Lospalos,803,Home,80304,80304042
+2174,Lautém,Lospalos,803,Leuro,80305,80305012
+2175,Lautém,Iliomar,801,Aelebere,80101,80101022
+2176,Lautém,Iliomar,801,Aelebere,80101,80101032
+2177,Lautém,Iliomar,801,Iliomar 1,80104,80104022
+2178,Lautém,Iliomar,801,Iliomar 1,80104,80104032
+2179,Lautém,Iliomar,801,Iliomar 1,80104,80104042
+2180,Lautém,Iliomar,801,Iliomar 1,80104,80104052
+2181,Lautém,Iliomar,801,Iliomar 2,80105,80105012
+2182,Lautém,Iliomar,801,Iliomar 2,80105,80105032
+2183,Lautém,Iliomar,801,Caenlio,80102,80102012
+2184,Lautém,Iliomar,801,Caenlio,80102,80102032
+2185,Lautém,Iliomar,801,Fuat,80103,80103012
+2186,Lautém,Iliomar,801,Tirilolo,80106,80106012
+2187,Lautém,Iliomar,801,Tirilolo,80106,80106032
+2188,Lautém,Luro,804,Wairoque,80406,80406022
+2189,Lautém,Luro,804,Wairoque,80406,80406012
+2190,Lautém,Luro,804,Wairoque,80406,80406032
+2191,Liquiçá,Liquiçá,902,Dato,90203,90203101
+2192,Liquiçá,Maubara,903,Lissadila,90303,90303052
+2193,Liquiçá,Maubara,903,Vatuboro,90305,90305052
+2194,Liquiçá,Maubara,903,Gugleur,90301,90301062
+2195,Liquiçá,Maubara,903,Vaviquinia,90307,90307042
+2196,Liquiçá,Maubara,903,Maubaralisa,90304,90304032
+2197,Liquiçá,Maubara,903,Guiço,90302,90302042
+2198,Liquiçá,Maubara,903,Vatuvou,90306,90306102
+2199,Liquiçá,Liquiçá,902,Leotala,90205,90205012
+2200,Liquiçá,Liquiçá,902,Açumanu,90201,90201032
+2201,Liquiçá,Liquiçá,902,Hatuquessi,90204,90204032
+2202,Liquiçá,Liquiçá,902,Loidahar,90206,90206052
+2203,Liquiçá,Liquiçá,902,Darulete,90202,90202022
+2204,Liquiçá,Liquiçá,902,Luculai,90207,90207022
+2205,Liquiçá,Bazartete,901,Maumeta,90105,90105042
+2206,Liquiçá,Bazartete,901,Lauhata,90103,90103032
+2207,Liquiçá,Bazartete,901,Metagou,90106,90106032
+2208,Liquiçá,Bazartete,901,Leorema,90104,90104062
+2209,Liquiçá,Bazartete,901,Fatumasi,90102,90102032
+2210,Liquiçá,Bazartete,901,Motaulun,90107,90107012
+2211,Liquiçá,Bazartete,901,Fahilebo,90101,90101032
+2212,Liquiçá,Bazartete,901,Ulmera,90109,90109042
+2213,Liquiçá,Bazartete,901,Fahilebo,90101,90101012
+2214,Liquiçá,Bazartete,901,Fahilebo,90101,90101022
+2215,Liquiçá,Bazartete,901,Fatumasi,90102,90102012
+2216,Liquiçá,Bazartete,901,Fatumasi,90102,90102022
+2217,Liquiçá,Bazartete,901,Lauhata,90103,90103012
+2218,Liquiçá,Bazartete,901,Lauhata,90103,90103022
+2219,Liquiçá,Bazartete,901,Lauhata,90103,90103042
+2220,Liquiçá,Bazartete,901,Ulmera,90109,90109012
+2221,Liquiçá,Bazartete,901,Ulmera,90109,90109022
+2222,Liquiçá,Bazartete,901,Ulmera,90109,90109032
+2223,Liquiçá,Bazartete,901,Ulmera,90109,90109052
+2224,Liquiçá,Bazartete,901,Leorema,90104,90104012
+2225,Liquiçá,Bazartete,901,Leorema,90104,90104022
+2226,Liquiçá,Bazartete,901,Leorema,90104,90104032
+2227,Liquiçá,Bazartete,901,Leorema,90104,90104042
+2228,Liquiçá,Bazartete,901,Leorema,90104,90104052
+2229,Liquiçá,Bazartete,901,Leorema,90104,90104072
+2230,Liquiçá,Bazartete,901,Maumeta,90105,90105012
+2231,Liquiçá,Bazartete,901,Maumeta,90105,90105022
+2232,Liquiçá,Bazartete,901,Maumeta,90105,90105032
+2233,Liquiçá,Bazartete,901,Metagou,90106,90106012
+2234,Liquiçá,Bazartete,901,Metagou,90106,90106022
+2235,Liquiçá,Bazartete,901,Metagou,90106,90106042
+2236,Liquiçá,Bazartete,901,Motaulun,90107,90107022
+2237,Liquiçá,Liquiçá,902,Dato,90203,90203012
+2238,Liquiçá,Liquiçá,902,Dato,90203,90203022
+2239,Liquiçá,Liquiçá,902,Dato,90203,90203032
+2240,Liquiçá,Liquiçá,902,Dato,90203,90203042
+2241,Liquiçá,Liquiçá,902,Dato,90203,90203051
+2242,Liquiçá,Liquiçá,902,Dato,90203,90203061
+2243,Liquiçá,Liquiçá,902,Dato,90203,90203071
+2244,Liquiçá,Liquiçá,902,Dato,90203,90203081
+2245,Liquiçá,Liquiçá,902,Dato,90203,90203091
+2246,Liquiçá,Liquiçá,902,Açumanu,90201,90201012
+2247,Liquiçá,Liquiçá,902,Açumanu,90201,90201022
+2248,Liquiçá,Liquiçá,902,Darulete,90202,90202012
+2249,Liquiçá,Liquiçá,902,Darulete,90202,90202032
+2250,Liquiçá,Liquiçá,902,Hatuquessi,90204,90204012
+2251,Liquiçá,Liquiçá,902,Hatuquessi,90204,90204022
+2252,Liquiçá,Liquiçá,902,Hatuquessi,90204,90204042
+2253,Liquiçá,Liquiçá,902,Leotala,90205,90205042
+2254,Liquiçá,Liquiçá,902,Leotala,90205,90205022
+2255,Liquiçá,Liquiçá,902,Leotala,90205,90205032
+2256,Liquiçá,Liquiçá,902,Loidahar,90206,90206012
+2257,Liquiçá,Liquiçá,902,Loidahar,90206,90206022
+2258,Liquiçá,Liquiçá,902,Loidahar,90206,90206032
+2259,Liquiçá,Liquiçá,902,Loidahar,90206,90206042
+2260,Liquiçá,Liquiçá,902,Luculai,90207,90207012
+2261,Liquiçá,Maubara,903,Gugleur,90301,90301012
+2262,Liquiçá,Maubara,903,Gugleur,90301,90301022
+2263,Liquiçá,Maubara,903,Gugleur,90301,90301032
+2264,Liquiçá,Maubara,903,Gugleur,90301,90301042
+2265,Liquiçá,Maubara,903,Gugleur,90301,90301052
+2266,Liquiçá,Maubara,903,Gugleur,90301,90301072
+2267,Liquiçá,Maubara,903,Guiço,90302,90302012
+2268,Liquiçá,Maubara,903,Guiço,90302,90302022
+2269,Liquiçá,Maubara,903,Guiço,90302,90302032
+2270,Liquiçá,Maubara,903,Lissadila,90303,90303012
+2271,Liquiçá,Maubara,903,Lissadila,90303,90303022
+2272,Liquiçá,Maubara,903,Lissadila,90303,90303032
+2273,Liquiçá,Maubara,903,Lissadila,90303,90303042
+2274,Liquiçá,Maubara,903,Lissadila,90303,90303082
+2275,Liquiçá,Maubara,903,Lissadila,90303,90303062
+2276,Liquiçá,Maubara,903,Lissadila,90303,90303072
+2277,Liquiçá,Maubara,903,Maubaralisa,90304,90304012
+2278,Liquiçá,Maubara,903,Maubaralisa,90304,90304022
+2279,Liquiçá,Maubara,903,Vatuboro,90305,90305012
+2280,Liquiçá,Maubara,903,Vatuboro,90305,90305022
+2281,Liquiçá,Maubara,903,Vatuboro,90305,90305032
+2282,Liquiçá,Maubara,903,Vatuboro,90305,90305042
+2283,Liquiçá,Maubara,903,Vatuboro,90305,90305062
+2284,Liquiçá,Maubara,903,Vatuvou,90306,90306012
+2285,Liquiçá,Maubara,903,Vatuvou,90306,90306022
+2286,Liquiçá,Maubara,903,Vatuvou,90306,90306032
+2287,Liquiçá,Maubara,903,Vatuvou,90306,90306042
+2288,Liquiçá,Maubara,903,Vatuvou,90306,90306052
+2289,Liquiçá,Maubara,903,Vatuvou,90306,90306062
+2290,Liquiçá,Maubara,903,Vatuvou,90306,90306072
+2291,Liquiçá,Maubara,903,Vatuvou,90306,90306082
+2292,Liquiçá,Maubara,903,Vatuvou,90306,90306092
+2293,Liquiçá,Maubara,903,Vaviquinia,90307,90307012
+2294,Liquiçá,Maubara,903,Vaviquinia,90307,90307022
+2295,Liquiçá,Maubara,903,Maubaralisa,90304,90304042
+2296,Liquiçá,Maubara,903,Vaviquinia,90307,90307032
+2297,Liquiçá,Bazartete,901,Tibar,90108,90108012
+2298,Liquiçá,Bazartete,901,Tibar,90108,90108042
+2299,Liquiçá,Bazartete,901,Tibar,90108,90108032
+2300,Liquiçá,Bazartete,901,Tibar,90108,90108022
+2301,Liquiçá,Bazartete,901,Tibar,90108,90108052
+2302,Bobonaro,Bobonaro,403,Ilat-Laun,40307,40307032
+2303,Bobonaro,Cailaco,404,Raiheu,40408,40408012
+2304,Aileu,Aileu Vila,101,Lahae,10106,10106022
+2305,Lautém,Tutuala,805,Tutuala,80502,80502052
+2306,Manatuto,Laclubar,1003,Fatumaquerec,100302,100302032
+2307,Viqueque,Uatucarbau,1304,Bahatata,130402,130402032
+2308,Baucau,Laga,303,Libagua,30302,30302022
+2309,Lautém,Iliomar,801,Tirilolo,80106,80106022
+2310,Covalima,Suai,505,Beco,50501,50501062
+2311,Covalima,Suai,505,Debos,50503,50503161
+2312,Covalima,Zumalai,507,Lour,50703,50703052
+2313,Covalima,Zumalai,507,Lour,50703,50703032
+2314,Covalima,Zumalai,507,Zulo,50708,50708062
+2315,Covalima,Zumalai,507,Zulo,50708,50708052
+2316,Covalima,Zumalai,507,Lour,50703,50703022
+2317,Covalima,Zumalai,507,Lour,50703,50703042
+2318,Covalima,Zumalai,507,Lour,50703,50703062
+2319,Covalima,Maucatar,504,Holpilat,50402,50402012
+2320,Covalima,Maucatar,504,Holpilat,50402,50402052
+2321,Covalima,Maucatar,504,Ogues,50404,50404012
+2322,Covalima,Maucatar,504,Ogues,50404,50404052
+2323,Covalima,Zumalai,507,Fatuleto,50701,50701012
+2324,Covalima,Zumalai,507,Fatuleto,50701,50701032
+2325,Viqueque,Viqueque,1305,Bibileo,130502,130502062
+2326,Viqueque,Viqueque,1305,Bibileo,130502,130502072
+2327,Viqueque,Viqueque,1305,Maluru,130506,130506022
+2328,Viqueque,Viqueque,1305,Uma Uain Leten,130510,130510032
+2329,Viqueque,Viqueque,1305,Uma Uain Leten,130510,130510042
+2330,Viqueque,Uato-Lari,1303,Makadique,130303,130303092
+2331,Viqueque,Uato-Lari,1303,Makadique,130303,130303102
+2332,Viqueque,Uato-Lari,1303,Makadique,130303,130303112
+2333,Viqueque,Uato-Lari,1303,Makadique,130303,130303132
+2334,Viqueque,Uato-Lari,1303,Makadique,130303,130303122
+2335,Viqueque,Uato-Lari,1303,Matahoi,130304,130304082
+2336,Viqueque,Uato-Lari,1303,Matahoi,130304,130304092
+2337,Viqueque,Ossu,1302,Ossorua,130205,130205032
+2338,Viqueque,Ossu,1302,Ossorua,130205,130205012
+2339,Viqueque,Ossu,1302,Ossorua,130205,130205052
+2340,Bobonaro,Maliana,406,Raifun,40604,40604032
+2341,Bobonaro,Maliana,406,Raifun,40604,40604042
+2342,Manatuto,Manatuto,1005,Ailili,100501,100501021
+2343,Bobonaro,Cailaco,404,Atudara,40401,40401032
+2344,Bobonaro,Balibo,402,Sanirin,40206,40206042
+2345,Bobonaro,Balibo,402,Sanirin,40206,40206032
+2346,Ermera,Ermera,702,Lauala,70203,70203052
+2347,Ermera,Ermera,702,Riheu,70209,70209072
+2348,Bobonaro,Balibo,402,Leolima,40205,40205012
+2349,Bobonaro,Lolotoe,405,Deudet,40501,40501012
+2350,Bobonaro,Lolotoe,405,Lupal,40506,40506042

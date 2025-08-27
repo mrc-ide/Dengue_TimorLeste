@@ -28,11 +28,11 @@ install.packages(c("tidyverse", "rstan", "ggplot2", "ggpubr", "binom", "Hmisc", 
 
 # 2. Estimating force-of-infection across Timor-Leste
 
-The 'spatial_model' folder contains R scripts to process the FOI estimates from the serocatalytic model (in step 1, and see 'FOI_model' folder) and to estimate FOI for the whole of Timor-Leste using a spatial model implemented in **R-INLA**.
-
 ## Workflow
 
-- Run the spatial_model_script.R which reads in 'FOI_catalytic_model_posteriors.xlsx' (pre-run estimates from the sero-catalytic model in step 1 of this repository) and runs the spatial model on these sampled FOI estimates.
+- **Dataset:** 'spatial_model_data/FOI_catalytic_model_posteriors.xlsx' (pre-run estimates from the sero-catalytic model in step 1 and 2 of this repository)  
+- **Optional Step 1:** Run the 3_setup_spatial_model.R script which creates the mesh and spde needed in step 4.
+- **Step 2:** Run the 4_run_spatial_model.R script which runs the spatial model on sampled FOI estimates from the serocatalytic model to estimate FOI for the whole of Timor-Leste using a spatial model implemented in **R-INLA**.
 
 
 ## Package versions
