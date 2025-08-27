@@ -6,7 +6,7 @@ This repository contains R scripts to process and analyse a dengue IgG seropreva
 
 - **Dataset:** `Dataset_TL` with variables: EA (village number), IgG dengue result (positive/negative), age, household number, number of people tested from the same household.  
 - **Step 1:** Run `1_prod_database.R` to load `Dataset_TL`, clean and tidy the data.  
-- **Step 2:** Run `2_run_model.R` to use `model_TL.stan` with RStan for FOI estimation. 
+- **Step 2:** Run `2_run_catalytic_model.R` to use `model_TL.stan` with RStan for FOI estimation. 
 
 ## Package versions
 
