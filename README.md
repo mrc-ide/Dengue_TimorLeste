@@ -6,7 +6,7 @@ This repository contains R scripts to process and analyse a dengue IgG seropreva
 
 - **Dataset:** `Dataset_TL` with variables: EA (village number), IgG dengue result (positive/negative), age, household number, number of people tested from the same household.  
 - **Step 1:** Run `1_prod_database.R` to load `Dataset_TL`, clean and tidy the data.  
-- **Step 2:** Run `2_run_model.R` to use `model_TL.stan` with RStan for FOI estimation. 
+- **Step 2:** Run `2_run_catalytic_model.R` to use `model_TL.stan` with RStan for FOI estimation. 
 
 ## Package versions
 
@@ -28,11 +28,11 @@ install.packages(c("tidyverse", "rstan", "ggplot2", "ggpubr", "binom", "Hmisc", 
 
 # 2. Estimating force-of-infection across Timor-Leste
 
-The 'spatial_model' folder contains R scripts to process the FOI estimates from the serocatalytic model (in step 1, and see 'FOI_model' folder) and to estimate FOI for the whole of Timor-Leste using a spatial model implemented in **R-INLA**.
-
 ## Workflow
 
-- Run the spatial_model_script.R which reads in 'FOI_catalytic_model_posteriors.xlsx' (pre-run estimates from the sero-catalytic model in step 1 of this repository) and runs the spatial model on these sampled FOI estimates.
+- **Dataset:** 'spatial_model_data/FOI_catalytic_model_posteriors.xlsx' (pre-run estimates from the sero-catalytic model in step 1 and 2 of this repository)  
+- **Optional Step 1:** Run the 3_setup_spatial_model.R script which creates the mesh and spde needed in step 4.
+- **Step 2:** Run the 4_run_spatial_model.R script which runs the spatial model on sampled FOI estimates from the serocatalytic model to estimate FOI for the whole of Timor-Leste using a spatial model implemented in **R-INLA**.
 
 
 ## Package versions
