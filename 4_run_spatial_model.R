@@ -19,7 +19,7 @@ library(scales)
 ############################################################################
 
 ## read in posteriors from catalytic model
-lambda <- read_xlsx("spatial_model_data/FOI_catalytic_model_posteriors.xlsx")
+lambda <- as.data.frame(readRDS("spatial_model_data/FOI_catalytic_model_posteriors.RDS"))
 tot_posterior <- dim(lambda)[1]
 
 
@@ -41,6 +41,8 @@ lambda_samples |>
   group_by(name)|>reframe(median=quantile(value, probs=c(0.5)),
                            ciL=quantile(value, probs=c(0.025)),
                            ciU=quantile(value, probs=c(0.975))) -> sample_medians
+
+## plot to check the samples are representative of the full posterior
 posterior_medians |> 
   mutate(type="full") |> 
   rbind(sample_medians |> mutate(type="samples")) |>
@@ -101,7 +103,7 @@ lambda_samples |>
 ## variables 
 variables <- colnames(data_all)[c(2:10)]
 
-# run and save the baseline spatial model and select the variables for the final models
+## run and save the baseline spatial model and select the variables for the final models
 dir.create("temp")
 dir.create("temp/data")
 dir.create("temp/model")
@@ -286,7 +288,7 @@ shapefile <- st_read("spatial_model_data/EAs_2015.kml")
 shapefile$EA <- codes$ea_codes
 shapefile$District <- codes$district_n                     
 
-pred_foi|>left_join(codes|>mutate(EA=as.character(ea_codes)))->pred_foi
+pred_foi|>left_join(codes |> mutate(EA=as.character(ea_codes))) -> pred_foi
 pred_foi$district[pred_foi$lat>-8.4&pred_foi$lon<126]<-"Atauro"
 saveRDS(pred_foi, "spatial_model_predicted_foi.RDS")
 
@@ -364,13 +366,17 @@ ggplot(sf)+
 
 cowplot::plot_grid(map,map_sp,violin,ncol=1,labels="AUTO")
 
+# median FOI and sp per municipality
+sf |> group_by(district) |> reframe(n=median(pred), ci_low=median.quartile(pred)[1], ci_upp=median.quartile(pred)[3])
+1-exp(-9*0.05)
+1-exp(-9*0.15)
 
 ## make probability of exceeding seroprevalence threshold maps 
 quant_foi<-lapply(marg_foi, function(x) c(length(x[x>0.057])/length(x),
                                           length(x[x>0.102])/length(x)
 )) 
 
-pred_foi<-data.frame(EA=names(quant_foi),
+pred_foi <- data.frame(EA=names(quant_foi),
                      T1=as.vector(unlist(sapply(quant_foi, function(x)x[1]))),
                      T2=as.vector(unlist(sapply(quant_foi, function(x)x[2]))))
 
@@ -380,7 +386,7 @@ pred_foi |> left_join(climate_data |>
 pred_foi|>left_join(codes|>mutate(EA=as.character(ea_codes))) -> pred_foi
 pred_foi$district[pred_foi$lat>-8.4 & pred_foi$lon<126]<-"Atauro"
 
-sf <- left_join(shapefile, pred_foi|>mutate(EA=as.integer(EA)))
+sf <- left_join(shapefile, pred_foi |> mutate(EA=as.integer(EA)))
 
 #P(serop9)>40% and P(serop9)>60%
 colours <- scales::seq_gradient_pal("orange", "#440154")(seq(0,1,length.out=6))
@@ -419,8 +425,15 @@ for(i in 1:length(files)){
 }
 
 # filter to be the variables kept (order<3)
-var_list |> bind_rows() |> filter(order==3) -> var2
-var_list |> bind_rows() |> filter(!num %in% var2$num) |> group_by(var) |> summarise(n()) 
+var_list |> bind_rows() |> filter(order==4) -> var4
+var_list |> bind_rows() |> filter(order==3) -> var3
+100 - nrow(var4) - nrow(var3)
+var_list |> bind_rows() |> filter(!num %in% var4$num & !num %in% var3$num) |>
+  group_by(var) |> summarise(n()) 
+var_list |> bind_rows() |> filter(num %in% var3$num) |>
+  group_by(var) |> summarise(n()) 
+var_list |> bind_rows() |> 
+  group_by(var) |> summarise(n())
 
 ## variable regression coefficients 
 marg_rhmin<-marg_rhmax<-marg_evi<-list()

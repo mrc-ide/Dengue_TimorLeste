@@ -13,9 +13,9 @@ library(inlabru)
 library(raster)
 library(cowplot)
 
-###############
-### DATA PREP #
-###############
+#################
+### DATA PREP ###
+#################
 
 # scaling
 standard <- function(x){ (x-mean(x,na.rm=T))/ sd(x, na.rm=T)}
@@ -24,7 +24,7 @@ standard <- function(x){ (x-mean(x,na.rm=T))/ sd(x, na.rm=T)}
 data <- read.csv("spatial_model_data/climate_FOI.csv")
 
 ## READ IN COORDS
-coords<- read.csv("spatial_model_data/centroids.csv")
+coords <- read.csv("spatial_model_data/centroids.csv")
 coords$ea_codes <- data$ea_codes
 
 ## MATCH COORDS AND EAS
