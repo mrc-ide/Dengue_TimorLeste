@@ -19,7 +19,7 @@ library(scales)
 ############################################################################
 
 ## read in posteriors from catalytic model
-lambda <- read_xlsx("spatial_model_data/FOI_catalytic_model_posteriors.xlsx")
+lambda <- as.data.frame(readRDS("spatial_model_data/FOI_catalytic_model_posteriors.RDS"))
 tot_posterior <- dim(lambda)[1]
 
 
@@ -41,6 +41,8 @@ lambda_samples |>
   group_by(name)|>reframe(median=quantile(value, probs=c(0.5)),
                            ciL=quantile(value, probs=c(0.025)),
                            ciU=quantile(value, probs=c(0.975))) -> sample_medians
+
+## plot to check the samples are representative of the full posterior
 posterior_medians |> 
   mutate(type="full") |> 
   rbind(sample_medians |> mutate(type="samples")) |>
@@ -101,7 +103,7 @@ lambda_samples |>
 ## variables 
 variables <- colnames(data_all)[c(2:10)]
 
-# run and save the baseline spatial model and select the variables for the final models
+## run and save the baseline spatial model and select the variables for the final models
 dir.create("temp")
 dir.create("temp/data")
 dir.create("temp/model")
@@ -286,7 +288,7 @@ shapefile <- st_read("spatial_model_data/EAs_2015.kml")
 shapefile$EA <- codes$ea_codes
 shapefile$District <- codes$district_n                     
 
-pred_foi|>left_join(codes|>mutate(EA=as.character(ea_codes)))->pred_foi
+pred_foi|>left_join(codes |> mutate(EA=as.character(ea_codes))) -> pred_foi
 pred_foi$district[pred_foi$lat>-8.4&pred_foi$lon<126]<-"Atauro"
 saveRDS(pred_foi, "spatial_model_predicted_foi.RDS")
 
@@ -315,31 +317,60 @@ B <- ggplot(sf)+geom_sf(aes(fill=sd),colour=NA)+
 cowplot::plot_grid(A,B, labels=c("A", "B"), ncol=1)
 
 # make maps of the central FOI estimates (binned) and seroprevalence
-pred_foi |> mutate(exceed = c(case_when(pred < 0.05 ~ "<0.05",
-                                         pred >=0.05 & pred <0.1 ~ "0.05-0.1",
-                                         pred >=0.1 & pred <0.15 ~ "0.1-0.15",
-                                         pred >=0.15 & pred <0.2 ~ "0.15-0.2",
-                                         pred >=0.2 & pred <0.25 ~ "0.2-0.25",
-                                         pred>0.25 ~ ">0.25")))|>
+pred_foi |> 
+   mutate(exceed = c(case_when(pred < 0.05 ~ "<0.05",
+                                          pred >=0.05 & pred <0.1 ~ "0.05-0.1",
+                                          pred >=0.1 & pred <0.15 ~ "0.1-0.15",
+                                          pred >=0.15 & pred <0.2 ~ "0.15-0.2",
+                                          pred >=0.2 & pred <0.25 ~ "0.2-0.25",
+                                          pred>0.25 ~ ">0.25")))|>
   mutate(SP_bins = case_when(pred_sp<0.4 ~ "Under 40%",
                              pred_sp > 0.6 ~ "Above 60%",
-                             pred_sp >=0.4 & pred_sp <= 0.6 ~ "40-60%")) -> pred_foi_exceed
+                             pred_sp >=0.4 & pred_sp <= 0.6 ~ "40-60%")) -> pred_foi_exceed1
+pred_foi |> 
+  mutate(exceed = c(case_when(pred < 0.01 ~ "<0.01",
+                              pred >=0.01 & pred <0.05 ~ "0.01-0.05",
+                              pred >=0.05 & pred <0.1 ~ "0.05-0.1",
+                              pred >=0.1 & pred <0.15 ~ "0.1-0.15",
+                              pred >=0.15 & pred <0.2 ~ "0.15-0.2",
+                              pred >=0.2 & pred <0.25 ~ "0.2-0.25",
+                              pred >=0.25 & pred <0.3 ~ "0.25-0.3",
+                              pred > 0.3 ~ ">0.3")))|>
+  
+  mutate(SP_bins = case_when(pred_sp<0.4 ~ "Under 40%",
+                             pred_sp > 0.6 ~ "Above 60%",
+                             pred_sp >=0.4 & pred_sp <= 0.6 ~ "40-60%")) -> pred_foi_exceed2
 
-sf <- left_join(shapefile, pred_foi_exceed |> mutate(EA=as.integer(EA)))
+sf1 <- left_join(shapefile, pred_foi_exceed1 |> mutate(EA=as.integer(EA)))
+sf2 <- left_join(shapefile, pred_foi_exceed2 |> mutate(EA=as.integer(EA)))
 
-colours <-  scales::seq_gradient_pal("orange", "#440154")(seq(0,1,length.out=6))
+colours1 <-  scales::seq_gradient_pal("orange", "#440154")(seq(0,1,length.out=6))
+colours2 <-  scales::seq_gradient_pal("orange", "#440154")(seq(0,1,length.out=8))
 colours_sp <- c("#FFEE99","#FFA700","#ED2939")
 
-map <- ggplot(sf)+geom_sf(aes(fill=exceed),colour=NA)+
+map1 <- ggplot(sf1)+geom_sf(aes(fill=exceed),colour=NA)+
   labs(fill="Predicted\nDENV\nFOI")+
   theme(rect = element_blank(),
         axis.line = element_blank(),
         axis.ticks = element_blank(),
         axis.text = element_blank(),
         panel.grid = element_blank())+
-  scale_fill_manual(values=colours, breaks = c("<0.05","0.05-0.1","0.1-0.15","0.15-0.2","0.2-0.25",">0.25"))
+  scale_fill_manual(values=colours1, breaks = c("<0.05","0.05-0.1","0.1-0.15","0.15-0.2","0.2-0.25",">0.25"))
 
-map_sp <- ggplot(sf)+geom_sf(aes(fill=SP_bins),colour=NA)+
+map2 <- ggplot(sf2)+geom_sf(aes(fill=exceed),colour=NA)+
+  labs(fill="EA-level\npredicted\nDENV\nFOI")+
+  theme(rect = element_blank(),
+        axis.line = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text = element_blank(),
+        panel.grid = element_blank())+
+  scale_fill_manual(values=colours2, 
+                    breaks = c("<0.01", "0.01-0.05","0.05-0.1","0.1-0.15","0.15-0.2","0.2-0.25",
+                               "0.25-0.3",">0.3"))
+
+plot_grid(map1,map2,ncol=1)
+
+map_sp <- ggplot(sf2)+geom_sf(aes(fill=SP_bins),colour=NA)+
   labs(fill="Predicted\nDENV\nseroprevalence\nat age 9")+
   theme(rect = element_blank(),
         axis.line = element_blank(),
@@ -363,14 +394,20 @@ ggplot(sf)+
         axis.text.x = element_text(angle=45, hjust=1)) -> violin
 
 cowplot::plot_grid(map,map_sp,violin,ncol=1,labels="AUTO")
+cowplot::plot_grid(violin,map2,map_sp,ncol=1,labels="AUTO")
 
+
+# median FOI and sp per municipality
+sf |> group_by(district) |> reframe(n=median(pred), ci_low=median.quartile(pred)[1], ci_upp=median.quartile(pred)[3])
+1-exp(-9*0.05)
+1-exp(-9*0.15)
 
 ## make probability of exceeding seroprevalence threshold maps 
 quant_foi<-lapply(marg_foi, function(x) c(length(x[x>0.057])/length(x),
                                           length(x[x>0.102])/length(x)
 )) 
 
-pred_foi<-data.frame(EA=names(quant_foi),
+pred_foi <- data.frame(EA=names(quant_foi),
                      T1=as.vector(unlist(sapply(quant_foi, function(x)x[1]))),
                      T2=as.vector(unlist(sapply(quant_foi, function(x)x[2]))))
 
@@ -380,7 +417,7 @@ pred_foi |> left_join(climate_data |>
 pred_foi|>left_join(codes|>mutate(EA=as.character(ea_codes))) -> pred_foi
 pred_foi$district[pred_foi$lat>-8.4 & pred_foi$lon<126]<-"Atauro"
 
-sf <- left_join(shapefile, pred_foi|>mutate(EA=as.integer(EA)))
+sf <- left_join(shapefile, pred_foi |> mutate(EA=as.integer(EA)))
 
 #P(serop9)>40% and P(serop9)>60%
 colours <- scales::seq_gradient_pal("orange", "#440154")(seq(0,1,length.out=6))
@@ -419,8 +456,15 @@ for(i in 1:length(files)){
 }
 
 # filter to be the variables kept (order<3)
-var_list |> bind_rows() |> filter(order==3) -> var2
-var_list |> bind_rows() |> filter(!num %in% var2$num) |> group_by(var) |> summarise(n()) 
+var_list |> bind_rows() |> filter(order==4) -> var4
+var_list |> bind_rows() |> filter(order==3) -> var3
+100 - nrow(var4) - nrow(var3)
+var_list |> bind_rows() |> filter(!num %in% var4$num & !num %in% var3$num) |>
+  group_by(var) |> summarise(n()) 
+var_list |> bind_rows() |> filter(num %in% var3$num) |>
+  group_by(var) |> summarise(n()) 
+var_list |> bind_rows() |> 
+  group_by(var) |> summarise(n())
 
 ## variable regression coefficients 
 marg_rhmin<-marg_rhmax<-marg_evi<-list()
