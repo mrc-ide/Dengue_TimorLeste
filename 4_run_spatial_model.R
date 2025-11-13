@@ -317,31 +317,60 @@ B <- ggplot(sf)+geom_sf(aes(fill=sd),colour=NA)+
 cowplot::plot_grid(A,B, labels=c("A", "B"), ncol=1)
 
 # make maps of the central FOI estimates (binned) and seroprevalence
-pred_foi |> mutate(exceed = c(case_when(pred < 0.05 ~ "<0.05",
-                                         pred >=0.05 & pred <0.1 ~ "0.05-0.1",
-                                         pred >=0.1 & pred <0.15 ~ "0.1-0.15",
-                                         pred >=0.15 & pred <0.2 ~ "0.15-0.2",
-                                         pred >=0.2 & pred <0.25 ~ "0.2-0.25",
-                                         pred>0.25 ~ ">0.25")))|>
+pred_foi |> 
+   mutate(exceed = c(case_when(pred < 0.05 ~ "<0.05",
+                                          pred >=0.05 & pred <0.1 ~ "0.05-0.1",
+                                          pred >=0.1 & pred <0.15 ~ "0.1-0.15",
+                                          pred >=0.15 & pred <0.2 ~ "0.15-0.2",
+                                          pred >=0.2 & pred <0.25 ~ "0.2-0.25",
+                                          pred>0.25 ~ ">0.25")))|>
   mutate(SP_bins = case_when(pred_sp<0.4 ~ "Under 40%",
                              pred_sp > 0.6 ~ "Above 60%",
-                             pred_sp >=0.4 & pred_sp <= 0.6 ~ "40-60%")) -> pred_foi_exceed
+                             pred_sp >=0.4 & pred_sp <= 0.6 ~ "40-60%")) -> pred_foi_exceed1
+pred_foi |> 
+  mutate(exceed = c(case_when(pred < 0.01 ~ "<0.01",
+                              pred >=0.01 & pred <0.05 ~ "0.01-0.05",
+                              pred >=0.05 & pred <0.1 ~ "0.05-0.1",
+                              pred >=0.1 & pred <0.15 ~ "0.1-0.15",
+                              pred >=0.15 & pred <0.2 ~ "0.15-0.2",
+                              pred >=0.2 & pred <0.25 ~ "0.2-0.25",
+                              pred >=0.25 & pred <0.3 ~ "0.25-0.3",
+                              pred > 0.3 ~ ">0.3")))|>
+  
+  mutate(SP_bins = case_when(pred_sp<0.4 ~ "Under 40%",
+                             pred_sp > 0.6 ~ "Above 60%",
+                             pred_sp >=0.4 & pred_sp <= 0.6 ~ "40-60%")) -> pred_foi_exceed2
 
-sf <- left_join(shapefile, pred_foi_exceed |> mutate(EA=as.integer(EA)))
+sf1 <- left_join(shapefile, pred_foi_exceed1 |> mutate(EA=as.integer(EA)))
+sf2 <- left_join(shapefile, pred_foi_exceed2 |> mutate(EA=as.integer(EA)))
 
-colours <-  scales::seq_gradient_pal("orange", "#440154")(seq(0,1,length.out=6))
+colours1 <-  scales::seq_gradient_pal("orange", "#440154")(seq(0,1,length.out=6))
+colours2 <-  scales::seq_gradient_pal("orange", "#440154")(seq(0,1,length.out=8))
 colours_sp <- c("#FFEE99","#FFA700","#ED2939")
 
-map <- ggplot(sf)+geom_sf(aes(fill=exceed),colour=NA)+
+map1 <- ggplot(sf1)+geom_sf(aes(fill=exceed),colour=NA)+
   labs(fill="Predicted\nDENV\nFOI")+
   theme(rect = element_blank(),
         axis.line = element_blank(),
         axis.ticks = element_blank(),
         axis.text = element_blank(),
         panel.grid = element_blank())+
-  scale_fill_manual(values=colours, breaks = c("<0.05","0.05-0.1","0.1-0.15","0.15-0.2","0.2-0.25",">0.25"))
+  scale_fill_manual(values=colours1, breaks = c("<0.05","0.05-0.1","0.1-0.15","0.15-0.2","0.2-0.25",">0.25"))
 
-map_sp <- ggplot(sf)+geom_sf(aes(fill=SP_bins),colour=NA)+
+map2 <- ggplot(sf2)+geom_sf(aes(fill=exceed),colour=NA)+
+  labs(fill="EA-level\npredicted\nDENV\nFOI")+
+  theme(rect = element_blank(),
+        axis.line = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text = element_blank(),
+        panel.grid = element_blank())+
+  scale_fill_manual(values=colours2, 
+                    breaks = c("<0.01", "0.01-0.05","0.05-0.1","0.1-0.15","0.15-0.2","0.2-0.25",
+                               "0.25-0.3",">0.3"))
+
+plot_grid(map1,map2,ncol=1)
+
+map_sp <- ggplot(sf2)+geom_sf(aes(fill=SP_bins),colour=NA)+
   labs(fill="Predicted\nDENV\nseroprevalence\nat age 9")+
   theme(rect = element_blank(),
         axis.line = element_blank(),
@@ -365,6 +394,8 @@ ggplot(sf)+
         axis.text.x = element_text(angle=45, hjust=1)) -> violin
 
 cowplot::plot_grid(map,map_sp,violin,ncol=1,labels="AUTO")
+cowplot::plot_grid(violin,map2,map_sp,ncol=1,labels="AUTO")
+
 
 # median FOI and sp per municipality
 sf |> group_by(district) |> reframe(n=median(pred), ci_low=median.quartile(pred)[1], ci_upp=median.quartile(pred)[3])
