@@ -1,12 +1,11 @@
 # 1. Seroprevalence Analysis in Timor-Leste
 
-This repository contains R scripts to process and analyse a dengue IgG seroprevalence dataset from Timor-Leste using a Bayesian model developed in **RStan**.
+This repository contains R scripts to process and analyse a dengue IgG seroprevalence dataset from Timor-Leste using a Bayesian hierarchical model developed in **RStan**.
 
 ## Workflow
 
 - **Dataset:** `Dataset_TL` with variables: EA (village number), IgG dengue result (positive/negative), age, household number, number of people tested from the same household.  
-- **Step 1:** Run `1_prod_database.R` to load `Dataset_TL`, clean and tidy the data.  
-- **Step 2:** Run `2_run_catalytic_model.R` to use `model_TL.stan` with RStan for FOI estimation. 
+- **Model:** Run `1_run_hierarchical_model` to load `Dataset_TL`, clean and tidy the data and run the `model_TL.stan` with RStan for FOI estimation. 
 
 ## Package versions
 
@@ -24,13 +23,13 @@ The analysis was run using the following R package versions:
 | gridExtra  | 2.3     |
 
 To download these packages please follow these steps:
-install.packages(c("tidyverse", "rstan", "ggplot2", "ggpubr", "binom", "Hmisc", "gridExtra"))
+install.packages(c("tidyverse", "rstan", "ggplot2", "ggpubr", "binom", "Hmisc", "gridExtra", "purr", "truncnorm"))
 
 # 2. Estimating force-of-infection across Timor-Leste
 
 ## Workflow
 
-- **Dataset:** 'spatial_model_data/FOI_catalytic_model_posteriors.xlsx' (pre-run estimates from the sero-catalytic model in step 1 and 2 of this repository)  
+- **Dataset:** 'spatial_model_data/FOI_catalytic_model_posteriors.xlsx' (pre-run estimates from the sero-catalytic model of this repository)  
 - **Optional Step 1:** Run the 3_setup_spatial_model.R script which creates the mesh and spde needed in step 4.
 - **Step 2:** Run the 4_run_spatial_model.R script which runs the spatial model on sampled FOI estimates from the serocatalytic model to estimate FOI for the whole of Timor-Leste using a spatial model implemented in **R-INLA**.
 
