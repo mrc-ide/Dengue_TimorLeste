@@ -61,8 +61,8 @@ model {
   beta ~ normal(0, 1);
   delta_v ~ normal(0, sigma_n);
   delta_h ~ normal(0, sigma_v);
-  se ~ normal(0.77, 0.05);
-  sp ~ normal(0.93, 0.05);
+  se ~ normal(0.77, 0.1); //sensitivity around different sd 0.05
+  sp ~ normal(0.93, 0.1); //sensitivity around different sd 0.05
   
   // --- LIKELIHOOD ---
   for (i in 1:N)
@@ -74,3 +74,4 @@ generated quantities {
   for (i in 1:N)
     log_lik[i] = bernoulli_lpmf(y[i] | p_obs[i]);
 }
+
