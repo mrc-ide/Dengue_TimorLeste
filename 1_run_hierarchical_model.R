@@ -43,7 +43,7 @@ df$village_id <- as.integer(as.factor(df$EA)) #village IDs
 V <- length(unique(df$village_id)) #number of villages (EA)
 
 
-source(paste0(wd,"/optimised_Timor/functions_sesp.R")) #R script with functions
+source(paste0(wd,"/R/functions_sesp.R")) #R script with functions
 
 run_foi_model(df=df, #dataframe
               wd=wd,  #input working directory
@@ -56,7 +56,7 @@ run_foi_model(df=df, #dataframe
               n_it = 15000, #number of iterations
               model = "Model_TL.rstan") #rstan model
 
-source(paste0(wd,"/optimised_Timor/functions_rur.R"))
+source(paste0(wd,"/R/functions_rur.R"))
 
 run_foi_model(df=df, 
               wd=wd,
@@ -128,4 +128,5 @@ sesp2$tupe <- "sesp"
 beta <- data.frame(matrix(NA, 1, 4))
 beta[1,1:3] <- quantile(chain1$beta, c(0.5, 0.025, 0.975))
 beta
+
 
