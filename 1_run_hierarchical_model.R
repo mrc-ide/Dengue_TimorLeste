@@ -42,6 +42,7 @@ H <- length(unique(df$household_id)) #number of households (HH)
 df$village_id <- as.integer(as.factor(df$EA)) #village IDs
 V <- length(unique(df$village_id)) #number of villages (EA)
 
+dir.create(paste0(wd, "/optimised_Timor/")) #create output directory
 
 source(paste0(wd,"/R/functions_sesp.R")) #R script with functions
 
@@ -54,7 +55,7 @@ run_foi_model(df=df, #dataframe
               sd_sigma_v = 0.1, #standard deviation distribution of sigma_v for prior
               wd_out = paste0(wd, "/optimised_Timor/", "EA_102_sesp_log", "/"),   #output working directory
               n_it = 15000, #number of iterations
-              model = "Model_TL.rstan") #rstan model
+              model = "Model_TL.stan") #rstan model
 
 source(paste0(wd,"/R/functions_rur.R"))
 
@@ -67,7 +68,7 @@ run_foi_model(df=df,
               sd_sigma_v = 0.1,
               wd_out = paste0(wd, "/optimised_Timor/", "EA_102_sesp_rururb_log", "/"),
               n_it = 15000,
-              model = "Model_TL_rururb.rstan")
+              model = "Model_TL_rururb.stan")
 
 #Explore the outputs
 df1 <- readRDS( paste0(wd, "/optimised_Timor/", "EA_102_sesp3_rururb_log", "/fit.rds"))
@@ -128,5 +129,6 @@ sesp2$tupe <- "sesp"
 beta <- data.frame(matrix(NA, 1, 4))
 beta[1,1:3] <- quantile(chain1$beta, c(0.5, 0.025, 0.975))
 beta
+
 
 
