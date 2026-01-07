@@ -33,6 +33,8 @@ set.seed(1234)
 EA <- unique(df_org$EA) #list of EA, 102
 n_ea <- length(unique(df_org$EA)) #number of EA
 
+df <- df_org 
+
 N <- nrow(df) #number of individuals
 df$household_id <- as.integer(as.factor(df$household)) #household IDs
 H <- length(unique(df$household_id)) #number of households (HH)
@@ -126,3 +128,4 @@ sesp2$tupe <- "sesp"
 beta <- data.frame(matrix(NA, 1, 4))
 beta[1,1:3] <- quantile(chain1$beta, c(0.5, 0.025, 0.975))
 beta
+
