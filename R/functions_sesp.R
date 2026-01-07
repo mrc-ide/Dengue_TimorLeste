@@ -81,7 +81,7 @@ prepare_stan_data <- function(df, n_ea = 20,  mean_sigma_n = 0,
     age = age,
     y = y,
     national_mu = national_mu,
-    national_sigma = national_sigma,
+    national_sd = national_sigma,
     mean_sigma_n = mean_sigma_n,
     mean_sigma_v = mean_sigma_v,
     sd_sigma_n = sd_sigma_n,
@@ -250,3 +250,4 @@ plot_fit <- function(stan_fit, df, wd, wd_out, data_list){
   ggsave(paste0(wd_out, "/Fit_final.png"), plot = pdf, width = 10, height = 10, scale = 1)
   
 }
+
