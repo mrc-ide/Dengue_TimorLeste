@@ -29,8 +29,8 @@ install.packages(c("tidyverse", "rstan", "ggplot2", "ggpubr", "binom", "Hmisc", 
 
 ## Workflow
 
-- **Dataset:** 'spatial_model_data/FOI_catalytic_model_posteriors.xlsx' (pre-run estimates from the sero-catalytic model of this repository)  
-- **Optional Step 1:** Run the 3_setup_spatial_model.R script which creates the mesh and spde needed in step 4.
+- **Dataset:** 'spatial_model_data/FOI_catalytic_model_posteriors.rds' (pre-run estimates from the sero-catalytic model of this repository)  
+- **Optional Step 1:** Run the 3_setup_spatial_model.R script which creates the mesh and spde used in step 4 (pre-run versions are provided in the 'spatial_model_data' folder).
 - **Step 2:** Run the 4_run_spatial_model.R script which runs the spatial model on sampled FOI estimates from the serocatalytic model to estimate FOI for the whole of Timor-Leste using a spatial model implemented in **R-INLA**.
 
 
