@@ -17,7 +17,7 @@ library(cowplot)
 ### DATA PREP ###
 #################
 
-# scaling
+## scaling
 standard <- function(x){ (x-mean(x,na.rm=T))/ sd(x, na.rm=T)}
 
 ## READ IN DATA

@@ -1,6 +1,6 @@
-##############################################################
-## Spatial model -> estimating FOI for whole of Timor Leste ##
-##############################################################
+##################################################################
+## Spatial model -> estimating FOI for the whole of Timor-Leste ##
+##################################################################
 
 # key: FOI = force of infection (also called lambda)
 
@@ -84,9 +84,9 @@ climate_data |> left_join(lambda_samples) -> data_all
 ## set up the spatial model runs for the n=100 samples ##
 #########################################################
 
-## spde and mesh
+## spde and mesh (see 3_setup_spatial_model.R)
 mesh <- readRDS("spatial_model_data/saved_mesh.RDS") # the mesh is a triangulated grid connecting the EA centroids 
-spde <- readRDS("spatial_model_data/saved_spde.RDS") # SPDE is made using the mesh (see setup_spatial_model_sensitivity.R)
+spde <- readRDS("spatial_model_data/saved_spde.RDS") # SPDE is made using the mesh 
 
 ## spatial field indices
 field.indices = inla.spde.make.index("field", n.spde=mesh$n)
@@ -111,7 +111,7 @@ for(i in 1:100){
   
   lambda_samples_cv |> dplyr::select(c(1,i+1)) |> `colnames<-` (c("EA.name","foi")) -> n_sample
   
-  ## for each n remove 10% of EAs randomly
+  # for each n remove 10% of EAs randomly
   foi_est <- n_sample[!is.na(n_sample$foi),]
   data_est <- data_all[data_all$EA.name %in% foi_est$EA.name, c(1:12)]
   data_est|>left_join(foi_est)->data_est
@@ -164,7 +164,7 @@ for(i in 1:100){
   saveRDS(data_est, paste0("temp/data/data_est_", i, ".RDS"))
   saveRDS(data_pred, paste0("temp/data/data_pred_", i, ".RDS"))
   
-  ## baseline model
+  # baseline model
   formula_base <- y ~ -1 + Intercept + f(field, model=spde) 
   model_base <- inla(formula_base,
                      data=inla.stack.data(stack),
@@ -399,10 +399,8 @@ cowplot::plot_grid(violin,map2,map_sp,ncol=1,labels="AUTO")
 
 # median FOI and sp per municipality
 sf |> group_by(district) |> reframe(n=median(pred), ci_low=median.quartile(pred)[1], ci_upp=median.quartile(pred)[3])
-1-exp(-9*0.05)
-1-exp(-9*0.15)
 
-## make probability of exceeding seroprevalence threshold maps 
+# make probability of exceeding seroprevalence threshold maps 
 quant_foi<-lapply(marg_foi, function(x) c(length(x[x>0.057])/length(x),
                                           length(x[x>0.102])/length(x)
 )) 
@@ -419,7 +417,7 @@ pred_foi$district[pred_foi$lat>-8.4 & pred_foi$lon<126]<-"Atauro"
 
 sf <- left_join(shapefile, pred_foi |> mutate(EA=as.integer(EA)))
 
-#P(serop9)>40% and P(serop9)>60%
+# P(serop9)>40% and P(serop9)>60%
 colours <- scales::seq_gradient_pal("orange", "#440154")(seq(0,1,length.out=6))
 AA <- ggplot(sf)+geom_sf(aes(fill=T1),colour=NA)+
   labs(fill="P(serop9)>40%")+
@@ -455,7 +453,7 @@ for(i in 1:length(files)){
                     dplyr::mutate(order=1:n(), num=i) |> rename(var=rowname)
 }
 
-# filter to be the variables kept (order<3)
+## filter to be the variables kept (order<3)
 var_list |> bind_rows() |> filter(order==4) -> var4
 var_list |> bind_rows() |> filter(order==3) -> var3
 100 - nrow(var4) - nrow(var3)
