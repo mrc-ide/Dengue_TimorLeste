@@ -1,3 +1,6 @@
+**The DOI of the Zenodo repository is: 10.5281/zenodo.19495656.** 
+
+
 # 1. Seroprevalence Analysis in Timor-Leste
 
 This repository contains R scripts to process and analyse a dengue IgG seroprevalence dataset from Timor-Leste using a Bayesian hierarchical model developed in **RStan**. 
@@ -48,6 +51,4 @@ To download R-INLA and INLAutils please follow these steps:
 install.packages("INLA",repos=c(getOption("repos"),INLA="https://inla.r-inla-download.org/R/stable"), dep=TRUE)
 install.packages('devtools')
 devtools::install_github('timcdlucas/INLAutils').
-
-**The DOI of the Zenodo repository is: 10.5281/zenodo.19495656. **
 
