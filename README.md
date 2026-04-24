@@ -1,4 +1,4 @@
-**The DOI of the Zenodo repository is: 10.5281/zenodo.19495656.** 
+**The DOI of the Zenodo repository is: 10.5281/zenodo.19495656 and the link is: https://zenodo.org/records/19495698.** 
 
 
 # 1. Seroprevalence Analysis in Timor-Leste
